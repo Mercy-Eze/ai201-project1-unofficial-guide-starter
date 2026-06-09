@@ -108,8 +108,8 @@ def main():
         for prof in target_profs:
             print(f"  Fetching: {prof.name} ({prof.department}) — {prof.num_ratings} ratings ...", end=" ", flush=True)
 
-            if prof.num_ratings == 0:
-                print("skipped (no ratings)")
+            if prof.num_ratings < 5:
+                print(f"skipped (only {prof.num_ratings} ratings — below threshold)")
                 continue
 
             ratings = [
