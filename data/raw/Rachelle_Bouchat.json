@@ -1,0 +1,44 @@
+{
+  "professor_name": "Rachelle Bouchat",
+  "department": "Mathematics",
+  "school": "Berea College",
+  "overall_rating": 5.0,
+  "difficulty": 2.0,
+  "would_take_again_pct": 50.0,
+  "num_ratings": 1,
+  "reviews": [
+    {
+      "comment": "I would admit, Dr. Bouchat is pretty nice outside of class. Talked to her and love to chat. When doing practice problems for her, it's hard, and I feel like I haven't learned enough. I rely on step-by-step sources that I can read/follow along. But when it comes to exams, points are heavy on hard problems that seem like we've barely or never learned",
+      "quality": 2.0,
+      "difficulty": 4.0,
+      "course": "",
+      "grade": "",
+      "date": "2026-05-05",
+      "tags": [
+        "Tough grader",
+        "Lecture heavy"
+      ],
+      "would_take_again": null,
+      "attendance": null,
+      "thumbs_up": 0,
+      "thumbs_down": 0
+    },
+    {
+      "comment": "Idk why there's no reviews of Dr. Bouchat, she's great! Whenever students asked questions she gave explanations that are actually intuitive. I think we had a total of 4 homeworks in the class. The only quibble I have is that perhaps the class was TOO easy and skipped valuable content and/or was too surface-level. One of the best math professors ",
+      "quality": 5.0,
+      "difficulty": 2.0,
+      "course": "",
+      "grade": "",
+      "date": "2025-10-20",
+      "tags": [
+        "EXTRA CREDIT",
+        "Gives good feedback"
+      ],
+      "would_take_again": null,
+      "attendance": null,
+      "thumbs_up": 0,
+      "thumbs_down": 0
+    }
+  ],
+  "plain_text": "Professor: Rachelle Bouchat\nDepartment: Mathematics\nSchool: Berea College\nOverall Rating: 5.0 / 5\nDifficulty: 2.0 / 5\nWould Take Again: 50.0%\nNumber of Ratings: 1\n\n--- Student Reviews ---\n\nReview 1:\n  Quality: 2.0 | Difficulty: 4.0\n  Date: 2026-05-05\n  Comment: I would admit, Dr. Bouchat is pretty nice outside of class. Talked to her and love to chat. When doing practice problems for her, it's hard, and I feel like I haven't learned enough. I rely on step-by-step sources that I can read/follow along. But when it comes to exams, points are heavy on hard problems that seem like we've barely or never learned\n  Tags: Tough grader, Lecture heavy\n\nReview 2:\n  Quality: 5.0 | Difficulty: 2.0\n  Date: 2025-10-20\n  Comment: Idk why there's no reviews of Dr. Bouchat, she's great! Whenever students asked questions she gave explanations that are actually intuitive. I think we had a total of 4 homeworks in the class. The only quibble I have is that perhaps the class was TOO easy and skipped valuable content and/or was too surface-level. One of the best math professors \n  Tags: EXTRA CREDIT, Gives good feedback\n"
+}

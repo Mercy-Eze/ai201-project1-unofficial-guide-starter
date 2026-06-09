@@ -1,0 +1,687 @@
+{
+  "professor_name": "Jan Pearce",
+  "department": "Computer Science",
+  "school": "Berea College",
+  "overall_rating": 2.2,
+  "difficulty": 3.3,
+  "would_take_again_pct": 22.2222,
+  "num_ratings": 45,
+  "reviews": [
+    {
+      "comment": "For Hitler, a lot can be blamed on the environment: great depression, defeat in WWI, hyperinflation, & a long history of antisemitism. Maybe 70% environment & 30% inborn. This one, however, is 100% inborn. Hitler did vastly more damage since he was the leader of a powerful European state. This one has to content with her little classroom pond.",
+      "quality": 1.0,
+      "difficulty": 4.0,
+      "course": "",
+      "grade": "",
+      "date": "2026-05-25",
+      "tags": [
+        "Tough grader",
+        "Lots of homework",
+        "Lecture heavy"
+      ],
+      "would_take_again": null,
+      "attendance": null,
+      "thumbs_up": 0,
+      "thumbs_down": 0
+    },
+    {
+      "comment": "She suffers from a lifelong incapacity to see any student as humans, just like her ancestors thought the whole world needs to be uplifted by WT Man's Burden (aka colonialism). The \"strict\" self-appointed savior who can't reverse a linked list but assumes you are a third grader, controls everything, and justifies it all in her head.",
+      "quality": 1.0,
+      "difficulty": 3.0,
+      "course": "",
+      "grade": "",
+      "date": "2026-05-05",
+      "tags": [
+        "Tough grader",
+        "Lecture heavy",
+        "Test heavy"
+      ],
+      "would_take_again": null,
+      "attendance": null,
+      "thumbs_up": 0,
+      "thumbs_down": 0
+    },
+    {
+      "comment": "Real-life dementor from Harry Potter. ",
+      "quality": 1.0,
+      "difficulty": 3.0,
+      "course": "",
+      "grade": "",
+      "date": "2026-05-04",
+      "tags": [
+        "Tough grader",
+        "Lecture heavy"
+      ],
+      "would_take_again": null,
+      "attendance": null,
+      "thumbs_up": 0,
+      "thumbs_down": 0
+    },
+    {
+      "comment": "An academic Karen. Do you know why Karens call cops on others over trivia? It's due to \"me to others ratio.\" When the value placed on self is sky-high, & others so low, a microscopic increase in your welfare justifies severe harm to others. For academic Karens, the \"me\" is usually their ideology, their identity group & its allies. Rest is fair-game",
+      "quality": 1.0,
+      "difficulty": 3.0,
+      "course": "",
+      "grade": "",
+      "date": "2026-04-21",
+      "tags": [],
+      "would_take_again": null,
+      "attendance": null,
+      "thumbs_up": 0,
+      "thumbs_down": 0
+    },
+    {
+      "comment": "The closest approximation of Satan that humanity has reached so far. ",
+      "quality": 1.0,
+      "difficulty": 3.0,
+      "course": "",
+      "grade": "",
+      "date": "2026-04-18",
+      "tags": [
+        "Tough grader",
+        "Lecture heavy",
+        "Test heavy"
+      ],
+      "would_take_again": null,
+      "attendance": null,
+      "thumbs_up": 0,
+      "thumbs_down": 0
+    },
+    {
+      "comment": "I cried. I have never cried. I cried at how badly she teaches. Only she and the lord understand what she is doing, and sometimes only the lord.",
+      "quality": 1.0,
+      "difficulty": 5.0,
+      "course": "",
+      "grade": "",
+      "date": "2026-04-05",
+      "tags": [
+        "Participation matters",
+        "Clear grading criteria",
+        "Beware of pop quizzes"
+      ],
+      "would_take_again": null,
+      "attendance": null,
+      "thumbs_up": 0,
+      "thumbs_down": 0
+    },
+    {
+      "comment": "Really bad",
+      "quality": 1.0,
+      "difficulty": 4.0,
+      "course": "",
+      "grade": "",
+      "date": "2025-10-16",
+      "tags": [
+        "Tough grader",
+        "Lots of homework",
+        "Test heavy"
+      ],
+      "would_take_again": null,
+      "attendance": null,
+      "thumbs_up": 0,
+      "thumbs_down": 0
+    },
+    {
+      "comment": "She doesn't know anything. Her goal is to gatekeep and sabotage groups she doesn't like. ",
+      "quality": 1.0,
+      "difficulty": 1.0,
+      "course": "",
+      "grade": "",
+      "date": "2025-09-12",
+      "tags": [],
+      "would_take_again": null,
+      "attendance": null,
+      "thumbs_up": 0,
+      "thumbs_down": 0
+    },
+    {
+      "comment": "If you have an attitude, you won't have fun. Not that bad, though; our class even developed good chemistry with her. Lots of meaningless writing; skip the non-technical assignments and the writing questions in labs & learn SQL or something. Quizzes are 20% of your grade, & the 2 exams are 40% of your grade. Study smart, not hard. GLHF",
+      "quality": 3.0,
+      "difficulty": 4.0,
+      "course": "",
+      "grade": "",
+      "date": "2025-04-16",
+      "tags": [
+        "Get ready to read",
+        "Test heavy",
+        "Graded by few things"
+      ],
+      "would_take_again": null,
+      "attendance": null,
+      "thumbs_up": 0,
+      "thumbs_down": 0
+    },
+    {
+      "comment": "She does not know anything about Data Structures and doesn't teach anything in the class but rather requires students to know everything and learn from her complicated \"book\". She is a narcissist who wants to go up by putting other people down. She always discriminates and does not communicate professionally but bosses you around. Avoid her always ",
+      "quality": 1.0,
+      "difficulty": 5.0,
+      "course": "",
+      "grade": "",
+      "date": "2025-04-12",
+      "tags": [
+        "Tough grader",
+        "Test heavy"
+      ],
+      "would_take_again": null,
+      "attendance": null,
+      "thumbs_up": 2,
+      "thumbs_down": 0
+    },
+    {
+      "comment": " ,",
+      "quality": 1.0,
+      "difficulty": 3.0,
+      "course": "",
+      "grade": "",
+      "date": "2024-05-09",
+      "tags": [
+        "Lots of homework"
+      ],
+      "would_take_again": null,
+      "attendance": null,
+      "thumbs_up": 0,
+      "thumbs_down": 0
+    },
+    {
+      "comment": " ",
+      "quality": 1.0,
+      "difficulty": 3.0,
+      "course": "",
+      "grade": "",
+      "date": "2024-05-09",
+      "tags": [
+        "Tough grader"
+      ],
+      "would_take_again": null,
+      "attendance": null,
+      "thumbs_up": 0,
+      "thumbs_down": 0
+    },
+    {
+      "comment": "Avoid her.",
+      "quality": 1.0,
+      "difficulty": 3.0,
+      "course": "",
+      "grade": "",
+      "date": "2024-05-09",
+      "tags": [],
+      "would_take_again": null,
+      "attendance": null,
+      "thumbs_up": 1,
+      "thumbs_down": 0
+    },
+    {
+      "comment": "She doesn't know anything about Data Structures.",
+      "quality": 1.0,
+      "difficulty": 4.0,
+      "course": "",
+      "grade": "",
+      "date": "2024-05-09",
+      "tags": [],
+      "would_take_again": null,
+      "attendance": null,
+      "thumbs_up": 1,
+      "thumbs_down": 0
+    },
+    {
+      "comment": "Arguably, she is the worst professor in the CS department. If you can avoid taking classes with her, that will be great; she knows nothing about CS. Even if you give her easy Leetcode problems, she doesn't know how to solve them, especially if you know about CS taking any of her classes is useless unless you want to get just a credit.              ",
+      "quality": 1.0,
+      "difficulty": 5.0,
+      "course": "",
+      "grade": "",
+      "date": "2024-05-09",
+      "tags": [
+        "Tough grader",
+        "Lots of homework",
+        "Test heavy"
+      ],
+      "would_take_again": null,
+      "attendance": null,
+      "thumbs_up": 1,
+      "thumbs_down": 0
+    },
+    {
+      "comment": "She listed awards from some random college worse than Berea & made fake github commits to seem all authoritative. I am okay with profs not knowing things, but this lady was acting like Grace Hopper when she didn't even get the basics right. Of course, everyone's sexist. She put CS classes under her name so that you can't avoid her. Super annoying.",
+      "quality": 1.0,
+      "difficulty": 3.0,
+      "course": "",
+      "grade": "",
+      "date": "2023-04-28",
+      "tags": [
+        "Tough grader",
+        "Group projects",
+        "Lots of homework"
+      ],
+      "would_take_again": null,
+      "attendance": null,
+      "thumbs_up": 1,
+      "thumbs_down": 0
+    },
+    {
+      "comment": "The worst professor on campus. Incompetent. She either didn't know IDE exists or didn't want you to use IDEs. Imagine doing a project on text editors! You can't seek her help both in & out of class. She tries hard to wear a fake \"genius\" mask. She told us she solved a hard problem in a contest but appeared she didn't even understand the problem!",
+      "quality": 1.0,
+      "difficulty": 5.0,
+      "course": "",
+      "grade": "",
+      "date": "2022-07-07",
+      "tags": [
+        "Participation matters",
+        "Group projects"
+      ],
+      "would_take_again": null,
+      "attendance": null,
+      "thumbs_up": 1,
+      "thumbs_down": 0
+    },
+    {
+      "comment": "Dr. Jan is the centerpiece behind the computer science major. She can bring you into the major, fresh and full of thought. She can also make you reassess stepping foot on Berea soil. All her classes are hard and you learn a lot predicated on, with enough assignments, how can you not. Look, she's genuinely nice and cares deep down. But like, wow.",
+      "quality": 2.0,
+      "difficulty": 5.0,
+      "course": "",
+      "grade": "",
+      "date": "2022-05-19",
+      "tags": [
+        "Tough grader",
+        "Lots of homework",
+        "Respected"
+      ],
+      "would_take_again": null,
+      "attendance": null,
+      "thumbs_up": 0,
+      "thumbs_down": 0
+    },
+    {
+      "comment": "She knows her business very well. Her classes are not easy but you can learn a lot if you are willing to. If you show up interest and put in the work, you will be fine. ",
+      "quality": 3.0,
+      "difficulty": 4.0,
+      "course": "",
+      "grade": "",
+      "date": "2022-04-03",
+      "tags": [
+        "Tough grader",
+        "Participation matters",
+        "Respected"
+      ],
+      "would_take_again": null,
+      "attendance": null,
+      "thumbs_up": 0,
+      "thumbs_down": 0
+    },
+    {
+      "comment": "Very biased and jittery prof. She has a few TA girls whom she tutored personally. For us, boys, we can't even ask her a question. Her typical response is &quot;Go read the textbook!&quot; She won't answer emails about her TAs' biased grading. Her class is full of writing. Nothing was useful. Avoid their CS curriculum.",
+      "quality": 1.0,
+      "difficulty": 3.0,
+      "course": "",
+      "grade": "",
+      "date": "2022-02-08",
+      "tags": [
+        "Lots of homework",
+        "Skip class? You won't pass.",
+        "Tough grader"
+      ],
+      "would_take_again": null,
+      "attendance": null,
+      "thumbs_up": 0,
+      "thumbs_down": 0
+    },
+    {
+      "comment": "To the person who said &quot;She's great if you are passionate in CS&quot;, well, it's the opposite. She doesn't understand basic CS algorithms (she &amp; those around her fool themselves that they do). Her class is full of writing reflections which will be graded on TA's whims. Basic concepts presented as rocket science.",
+      "quality": 1.0,
+      "difficulty": 3.0,
+      "course": "",
+      "grade": "",
+      "date": "2021-07-03",
+      "tags": [
+        "Lots of homework",
+        "Skip class? You won't pass.",
+        "Test heavy"
+      ],
+      "would_take_again": null,
+      "attendance": null,
+      "thumbs_up": 2,
+      "thumbs_down": 0
+    },
+    {
+      "comment": "I once went to her office hours for assistance with something in the course book I wasnt understanding. She gleefully told me she wasnt going to help and to read it again. This was a consistent pattern, showing a complete lack of interest in understanding difficulty students were facing, unless they were already doing well.",
+      "quality": 1.0,
+      "difficulty": 4.0,
+      "course": "",
+      "grade": "",
+      "date": "2021-05-13",
+      "tags": [
+        "Lots of homework"
+      ],
+      "would_take_again": null,
+      "attendance": null,
+      "thumbs_up": 2,
+      "thumbs_down": 0
+    },
+    {
+      "comment": "If you do your work and demonstrate a passion for computer science, you will do well in this class. However, if you do not enjoy the topic, don't bother. The course is very heavy and it mostly depends on you. There's a lot of homework outside of class, so be ready to be very diligent. Dr. Jan has a rough exterior, but she is a great professor.",
+      "quality": 5.0,
+      "difficulty": 5.0,
+      "course": "",
+      "grade": "",
+      "date": "2021-05-05",
+      "tags": [
+        "Lots of homework",
+        "Group projects",
+        "Tough grader"
+      ],
+      "would_take_again": null,
+      "attendance": null,
+      "thumbs_up": 0,
+      "thumbs_down": 2
+    },
+    {
+      "comment": "This class was unnecessarily hard. It moved at a really fast pace and I don't think Dr Jan knows how to support her students well because it's very hard to ask her questions and get an answer that's helpful. The TAs were better and were helpful more so than the professor. If you can take it with a different professor please do.",
+      "quality": 1.0,
+      "difficulty": 5.0,
+      "course": "",
+      "grade": "",
+      "date": "2021-01-24",
+      "tags": [
+        "Skip class? You won't pass.",
+        "Graded by few things",
+        "Tough grader"
+      ],
+      "would_take_again": null,
+      "attendance": null,
+      "thumbs_up": 2,
+      "thumbs_down": 0
+    },
+    {
+      "comment": "She knows nothing. The class is a joke. Gave out extremely long assignments with poor instructions. Good luck trying to figure those out!",
+      "quality": 1.0,
+      "difficulty": 3.0,
+      "course": "",
+      "grade": "",
+      "date": "2021-01-17",
+      "tags": [
+        "Participation matters",
+        "Skip class? You won't pass.",
+        "Tough grader"
+      ],
+      "would_take_again": null,
+      "attendance": null,
+      "thumbs_up": 2,
+      "thumbs_down": 0
+    },
+    {
+      "comment": "Jan's classes are writing classes in disguise, not coding classes. Well, yes, writing is important; employers like it, etc. etc; but let's leave that to writing professors--the 6 GSTR classes we are forced to take. CS classes should teach coding. So, if you wanna learn coding, please avoid. Also, Jan's grading is extremely tough--on writing!",
+      "quality": 1.0,
+      "difficulty": 3.0,
+      "course": "",
+      "grade": "",
+      "date": "2019-11-02",
+      "tags": [],
+      "would_take_again": null,
+      "attendance": null,
+      "thumbs_up": 2,
+      "thumbs_down": 0
+    },
+    {
+      "comment": "Horrible :( Avoid at all costs. I feel like she hardly has any idea what she is talking about",
+      "quality": 1.0,
+      "difficulty": 3.0,
+      "course": "",
+      "grade": "",
+      "date": "2018-09-26",
+      "tags": [
+        "Tough Grader"
+      ],
+      "would_take_again": null,
+      "attendance": null,
+      "thumbs_up": 11,
+      "thumbs_down": 1
+    },
+    {
+      "comment": "Jan is probably the toughest grader at Berea. She takes off a lot of points on her tests if you fail to answer it EXACTLY the way she wants. She gives out very long, unnecessary coding homework to illustrate simple concepts. Avoid if possible.",
+      "quality": 4.0,
+      "difficulty": 5.0,
+      "course": "",
+      "grade": "",
+      "date": "2015-10-29",
+      "tags": [],
+      "would_take_again": null,
+      "attendance": null,
+      "thumbs_up": 7,
+      "thumbs_down": 2
+    },
+    {
+      "comment": "Jan Pearce has a unique way of teaching classes. Most of the time you do an assignment such a reading a chapter about a topic and then right a report on that reading. In class she does a quiz over any material you were supposed to read. The rest of the class is then spent on team work on assignments. Learn outside class, test in class.",
+      "quality": 3.0,
+      "difficulty": 4.0,
+      "course": "",
+      "grade": "",
+      "date": "2015-03-16",
+      "tags": [],
+      "would_take_again": null,
+      "attendance": null,
+      "thumbs_up": 4,
+      "thumbs_down": 1
+    },
+    {
+      "comment": "Jan's assignments are almost useless for teaching the course material.",
+      "quality": 3.0,
+      "difficulty": 5.0,
+      "course": "",
+      "grade": "",
+      "date": "2014-10-26",
+      "tags": [],
+      "would_take_again": null,
+      "attendance": null,
+      "thumbs_up": 11,
+      "thumbs_down": 1
+    },
+    {
+      "comment": "She has to be one of the worst professors on campus.  She knows nothing, the class is a joke, and the material taught is kind of useless.  If you want an easy A, sure, but if you want to learn CS, go to a different college.",
+      "quality": 1.0,
+      "difficulty": 1.0,
+      "course": "",
+      "grade": "",
+      "date": "2014-01-20",
+      "tags": [],
+      "would_take_again": null,
+      "attendance": null,
+      "thumbs_up": 13,
+      "thumbs_down": 2
+    },
+    {
+      "comment": "She is a great teacher, and I felt as though her teaching strategy was very effective with out being too hard on us. 9/10 would take another class with her.",
+      "quality": 3.0,
+      "difficulty": 2.0,
+      "course": "",
+      "grade": "",
+      "date": "2013-12-17",
+      "tags": [],
+      "would_take_again": null,
+      "attendance": null,
+      "thumbs_up": 1,
+      "thumbs_down": 4
+    },
+    {
+      "comment": "Worst teacher I ever had. DO NOT take her.",
+      "quality": 1.0,
+      "difficulty": 5.0,
+      "course": "",
+      "grade": "",
+      "date": "2011-08-10",
+      "tags": [],
+      "would_take_again": null,
+      "attendance": null,
+      "thumbs_up": 10,
+      "thumbs_down": 3
+    },
+    {
+      "comment": "Her Robotics class was interesting, although every lab seemed to be an experiment. Students learn practical experience from the labs, and learn the theory from the tests. Not a whole lot of out-of-class work, but a lot of sweat during the labs. She can seem quite severe in class, but she's actually quite helpful overall.",
+      "quality": 4.0,
+      "difficulty": 3.0,
+      "course": "",
+      "grade": "",
+      "date": "2009-01-08",
+      "tags": [],
+      "would_take_again": null,
+      "attendance": null,
+      "thumbs_up": 1,
+      "thumbs_down": 2
+    },
+    {
+      "comment": "INCOMPETENT.  SHOULD NOT TEACH THIS CLASS.  LAZY. DOESN'T GRADE PAPERS.  NO FEEDBACK.  CAN'T CUT THE MUSTARD.  EMBARASSING..FELT LIKE HIGH SCHOOL. NICE BUT STICK TO MATH",
+      "quality": 1.0,
+      "difficulty": 2.0,
+      "course": "",
+      "grade": "",
+      "date": "2008-12-23",
+      "tags": [],
+      "would_take_again": null,
+      "attendance": null,
+      "thumbs_up": 10,
+      "thumbs_down": 2
+    },
+    {
+      "comment": "She is very nice, but extremely gittery.  She teaches well, but some of her discussions seem pointless.",
+      "quality": 5.0,
+      "difficulty": 2.0,
+      "course": "",
+      "grade": "",
+      "date": "2008-12-17",
+      "tags": [],
+      "would_take_again": null,
+      "attendance": null,
+      "thumbs_up": 1,
+      "thumbs_down": 3
+    },
+    {
+      "comment": "This professor is extremely nice, however she is kind of strange.  If you have a problem, she is willing to help but she does not reply to emails usually and she is very spastic.  It is hard relying on her for things sometimes so don't count on it always.  I have taken her classes and been her Teacher's Assistant for classes.",
+      "quality": 2.0,
+      "difficulty": 2.0,
+      "course": "",
+      "grade": "",
+      "date": "2008-12-11",
+      "tags": [],
+      "would_take_again": null,
+      "attendance": null,
+      "thumbs_up": 2,
+      "thumbs_down": 1
+    },
+    {
+      "comment": "She's a good techer, but somewhat coo-coo.",
+      "quality": 4.0,
+      "difficulty": 3.0,
+      "course": "",
+      "grade": "",
+      "date": "2006-05-25",
+      "tags": [],
+      "would_take_again": null,
+      "attendance": null,
+      "thumbs_up": 1,
+      "thumbs_down": 2
+    },
+    {
+      "comment": "Despite a slight tendency to treat her class like a group of third-graders, Dr. Pearce was pretty cool.  Hey-- I'm not a math person, but I survived her class.",
+      "quality": 4.0,
+      "difficulty": 1.0,
+      "course": "",
+      "grade": "",
+      "date": "2006-03-21",
+      "tags": [],
+      "would_take_again": null,
+      "attendance": null,
+      "thumbs_up": 0,
+      "thumbs_down": 4
+    },
+    {
+      "comment": "Wonderful teacher, wonderful person. I had almost made up my mind to transfer from Berea, but after some correspondence with Jan, I have changed my mind. She has shown me that, despite my problems at Berea, this is a school where people care. Jan goes out of her way to help. I couldn't ask for a better professor.",
+      "quality": 5.0,
+      "difficulty": 3.0,
+      "course": "",
+      "grade": "",
+      "date": "2005-10-19",
+      "tags": [],
+      "would_take_again": null,
+      "attendance": null,
+      "thumbs_up": 0,
+      "thumbs_down": 3
+    },
+    {
+      "comment": "I also had Jan for environmental sciences, she was kooky, but she always kept things interesting.  She is a good teacher, albeit a little odd in show.",
+      "quality": 4.0,
+      "difficulty": 4.0,
+      "course": "",
+      "grade": "",
+      "date": "2005-10-11",
+      "tags": [],
+      "would_take_again": null,
+      "attendance": null,
+      "thumbs_up": 0,
+      "thumbs_down": 1
+    },
+    {
+      "comment": "She's kind of annoying.",
+      "quality": 4.0,
+      "difficulty": 2.0,
+      "course": "",
+      "grade": "",
+      "date": "2005-09-01",
+      "tags": [],
+      "would_take_again": null,
+      "attendance": null,
+      "thumbs_up": 2,
+      "thumbs_down": 0
+    },
+    {
+      "comment": "She knows what she is talking about but doesn't show it in a clease form.  To happy about the CO2 levels in the world.  Math needs to come before other world issues because it is a MATH class.",
+      "quality": 2.0,
+      "difficulty": 3.0,
+      "course": "",
+      "grade": "",
+      "date": "2005-05-15",
+      "tags": [],
+      "would_take_again": null,
+      "attendance": null,
+      "thumbs_up": 1,
+      "thumbs_down": 0
+    },
+    {
+      "comment": "She is a good teacher. She tries her best to make you understand the concept. Feel free to talk to her if you have any problems.",
+      "quality": 4.0,
+      "difficulty": 3.0,
+      "course": "",
+      "grade": "",
+      "date": "2005-04-14",
+      "tags": [],
+      "would_take_again": null,
+      "attendance": null,
+      "thumbs_up": 0,
+      "thumbs_down": 3
+    },
+    {
+      "comment": "She's a great professor, she knows how to teach. Very sweet!!!",
+      "quality": 5.0,
+      "difficulty": 3.0,
+      "course": "",
+      "grade": "",
+      "date": "2005-04-12",
+      "tags": [],
+      "would_take_again": null,
+      "attendance": null,
+      "thumbs_up": 1,
+      "thumbs_down": 2
+    },
+    {
+      "comment": "Jan is the best!!  She really cares about students.  Take her class if you have any interest in computers at all.",
+      "quality": 5.0,
+      "difficulty": 2.0,
+      "course": "",
+      "grade": "",
+      "date": "2005-03-01",
+      "tags": [],
+      "would_take_again": null,
+      "attendance": null,
+      "thumbs_up": 0,
+      "thumbs_down": 3
+    }
+  ],
+  "plain_text": "Professor: Jan Pearce\nDepartment: Computer Science\nSchool: Berea College\nOverall Rating: 2.2 / 5\nDifficulty: 3.3 / 5\nWould Take Again: 22.2222%\nNumber of Ratings: 45\n\n--- Student Reviews ---\n\nReview 1:\n  Quality: 1.0 | Difficulty: 4.0\n  Date: 2026-05-25\n  Comment: For Hitler, a lot can be blamed on the environment: great depression, defeat in WWI, hyperinflation, & a long history of antisemitism. Maybe 70% environment & 30% inborn. This one, however, is 100% inborn. Hitler did vastly more damage since he was the leader of a powerful European state. This one has to content with her little classroom pond.\n  Tags: Tough grader, Lots of homework, Lecture heavy\n\nReview 2:\n  Quality: 1.0 | Difficulty: 3.0\n  Date: 2026-05-05\n  Comment: She suffers from a lifelong incapacity to see any student as humans, just like her ancestors thought the whole world needs to be uplifted by WT Man's Burden (aka colonialism). The \"strict\" self-appointed savior who can't reverse a linked list but assumes you are a third grader, controls everything, and justifies it all in her head.\n  Tags: Tough grader, Lecture heavy, Test heavy\n\nReview 3:\n  Quality: 1.0 | Difficulty: 3.0\n  Date: 2026-05-04\n  Comment: Real-life dementor from Harry Potter. \n  Tags: Tough grader, Lecture heavy\n\nReview 4:\n  Quality: 1.0 | Difficulty: 3.0\n  Date: 2026-04-21\n  Comment: An academic Karen. Do you know why Karens call cops on others over trivia? It's due to \"me to others ratio.\" When the value placed on self is sky-high, & others so low, a microscopic increase in your welfare justifies severe harm to others. For academic Karens, the \"me\" is usually their ideology, their identity group & its allies. Rest is fair-game\n\nReview 5:\n  Quality: 1.0 | Difficulty: 3.0\n  Date: 2026-04-18\n  Comment: The closest approximation of Satan that humanity has reached so far. \n  Tags: Tough grader, Lecture heavy, Test heavy\n\nReview 6:\n  Quality: 1.0 | Difficulty: 5.0\n  Date: 2026-04-05\n  Comment: I cried. I have never cried. I cried at how badly she teaches. Only she and the lord understand what she is doing, and sometimes only the lord.\n  Tags: Participation matters, Clear grading criteria, Beware of pop quizzes\n\nReview 7:\n  Quality: 1.0 | Difficulty: 4.0\n  Date: 2025-10-16\n  Comment: Really bad\n  Tags: Tough grader, Lots of homework, Test heavy\n\nReview 8:\n  Quality: 1.0 | Difficulty: 1.0\n  Date: 2025-09-12\n  Comment: She doesn't know anything. Her goal is to gatekeep and sabotage groups she doesn't like. \n\nReview 9:\n  Quality: 3.0 | Difficulty: 4.0\n  Date: 2025-04-16\n  Comment: If you have an attitude, you won't have fun. Not that bad, though; our class even developed good chemistry with her. Lots of meaningless writing; skip the non-technical assignments and the writing questions in labs & learn SQL or something. Quizzes are 20% of your grade, & the 2 exams are 40% of your grade. Study smart, not hard. GLHF\n  Tags: Get ready to read, Test heavy, Graded by few things\n\nReview 10:\n  Quality: 1.0 | Difficulty: 5.0\n  Date: 2025-04-12\n  Comment: She does not know anything about Data Structures and doesn't teach anything in the class but rather requires students to know everything and learn from her complicated \"book\". She is a narcissist who wants to go up by putting other people down. She always discriminates and does not communicate professionally but bosses you around. Avoid her always \n  Tags: Tough grader, Test heavy\n\nReview 11:\n  Quality: 1.0 | Difficulty: 3.0\n  Date: 2024-05-09\n  Comment:  ,\n  Tags: Lots of homework\n\nReview 13:\n  Quality: 1.0 | Difficulty: 3.0\n  Date: 2024-05-09\n  Comment: Avoid her.\n\nReview 14:\n  Quality: 1.0 | Difficulty: 4.0\n  Date: 2024-05-09\n  Comment: She doesn't know anything about Data Structures.\n\nReview 15:\n  Quality: 1.0 | Difficulty: 5.0\n  Date: 2024-05-09\n  Comment: Arguably, she is the worst professor in the CS department. If you can avoid taking classes with her, that will be great; she knows nothing about CS. Even if you give her easy Leetcode problems, she doesn't know how to solve them, especially if you know about CS taking any of her classes is useless unless you want to get just a credit.              \n  Tags: Tough grader, Lots of homework, Test heavy\n\nReview 16:\n  Quality: 1.0 | Difficulty: 3.0\n  Date: 2023-04-28\n  Comment: She listed awards from some random college worse than Berea & made fake github commits to seem all authoritative. I am okay with profs not knowing things, but this lady was acting like Grace Hopper when she didn't even get the basics right. Of course, everyone's sexist. She put CS classes under her name so that you can't avoid her. Super annoying.\n  Tags: Tough grader, Group projects, Lots of homework\n\nReview 17:\n  Quality: 1.0 | Difficulty: 5.0\n  Date: 2022-07-07\n  Comment: The worst professor on campus. Incompetent. She either didn't know IDE exists or didn't want you to use IDEs. Imagine doing a project on text editors! You can't seek her help both in & out of class. She tries hard to wear a fake \"genius\" mask. She told us she solved a hard problem in a contest but appeared she didn't even understand the problem!\n  Tags: Participation matters, Group projects\n\nReview 18:\n  Quality: 2.0 | Difficulty: 5.0\n  Date: 2022-05-19\n  Comment: Dr. Jan is the centerpiece behind the computer science major. She can bring you into the major, fresh and full of thought. She can also make you reassess stepping foot on Berea soil. All her classes are hard and you learn a lot predicated on, with enough assignments, how can you not. Look, she's genuinely nice and cares deep down. But like, wow.\n  Tags: Tough grader, Lots of homework, Respected\n\nReview 19:\n  Quality: 3.0 | Difficulty: 4.0\n  Date: 2022-04-03\n  Comment: She knows her business very well. Her classes are not easy but you can learn a lot if you are willing to. If you show up interest and put in the work, you will be fine. \n  Tags: Tough grader, Participation matters, Respected\n\nReview 20:\n  Quality: 1.0 | Difficulty: 3.0\n  Date: 2022-02-08\n  Comment: Very biased and jittery prof. She has a few TA girls whom she tutored personally. For us, boys, we can't even ask her a question. Her typical response is &quot;Go read the textbook!&quot; She won't answer emails about her TAs' biased grading. Her class is full of writing. Nothing was useful. Avoid their CS curriculum.\n  Tags: Lots of homework, Skip class? You won't pass., Tough grader\n\nReview 21:\n  Quality: 1.0 | Difficulty: 3.0\n  Date: 2021-07-03\n  Comment: To the person who said &quot;She's great if you are passionate in CS&quot;, well, it's the opposite. She doesn't understand basic CS algorithms (she &amp; those around her fool themselves that they do). Her class is full of writing reflections which will be graded on TA's whims. Basic concepts presented as rocket science.\n  Tags: Lots of homework, Skip class? You won't pass., Test heavy\n\nReview 22:\n  Quality: 1.0 | Difficulty: 4.0\n  Date: 2021-05-13\n  Comment: I once went to her office hours for assistance with something in the course book I wasnt understanding. She gleefully told me she wasnt going to help and to read it again. This was a consistent pattern, showing a complete lack of interest in understanding difficulty students were facing, unless they were already doing well.\n  Tags: Lots of homework\n\nReview 23:\n  Quality: 5.0 | Difficulty: 5.0\n  Date: 2021-05-05\n  Comment: If you do your work and demonstrate a passion for computer science, you will do well in this class. However, if you do not enjoy the topic, don't bother. The course is very heavy and it mostly depends on you. There's a lot of homework outside of class, so be ready to be very diligent. Dr. Jan has a rough exterior, but she is a great professor.\n  Tags: Lots of homework, Group projects, Tough grader\n\nReview 24:\n  Quality: 1.0 | Difficulty: 5.0\n  Date: 2021-01-24\n  Comment: This class was unnecessarily hard. It moved at a really fast pace and I don't think Dr Jan knows how to support her students well because it's very hard to ask her questions and get an answer that's helpful. The TAs were better and were helpful more so than the professor. If you can take it with a different professor please do.\n  Tags: Skip class? You won't pass., Graded by few things, Tough grader\n\nReview 25:\n  Quality: 1.0 | Difficulty: 3.0\n  Date: 2021-01-17\n  Comment: She knows nothing. The class is a joke. Gave out extremely long assignments with poor instructions. Good luck trying to figure those out!\n  Tags: Participation matters, Skip class? You won't pass., Tough grader\n\nReview 26:\n  Quality: 1.0 | Difficulty: 3.0\n  Date: 2019-11-02\n  Comment: Jan's classes are writing classes in disguise, not coding classes. Well, yes, writing is important; employers like it, etc. etc; but let's leave that to writing professors--the 6 GSTR classes we are forced to take. CS classes should teach coding. So, if you wanna learn coding, please avoid. Also, Jan's grading is extremely tough--on writing!\n\nReview 27:\n  Quality: 1.0 | Difficulty: 3.0\n  Date: 2018-09-26\n  Comment: Horrible :( Avoid at all costs. I feel like she hardly has any idea what she is talking about\n  Tags: Tough Grader\n\nReview 28:\n  Quality: 4.0 | Difficulty: 5.0\n  Date: 2015-10-29\n  Comment: Jan is probably the toughest grader at Berea. She takes off a lot of points on her tests if you fail to answer it EXACTLY the way she wants. She gives out very long, unnecessary coding homework to illustrate simple concepts. Avoid if possible.\n\nReview 29:\n  Quality: 3.0 | Difficulty: 4.0\n  Date: 2015-03-16\n  Comment: Jan Pearce has a unique way of teaching classes. Most of the time you do an assignment such a reading a chapter about a topic and then right a report on that reading. In class she does a quiz over any material you were supposed to read. The rest of the class is then spent on team work on assignments. Learn outside class, test in class.\n\nReview 30:\n  Quality: 3.0 | Difficulty: 5.0\n  Date: 2014-10-26\n  Comment: Jan's assignments are almost useless for teaching the course material.\n\nReview 31:\n  Quality: 1.0 | Difficulty: 1.0\n  Date: 2014-01-20\n  Comment: She has to be one of the worst professors on campus.  She knows nothing, the class is a joke, and the material taught is kind of useless.  If you want an easy A, sure, but if you want to learn CS, go to a different college.\n\nReview 32:\n  Quality: 3.0 | Difficulty: 2.0\n  Date: 2013-12-17\n  Comment: She is a great teacher, and I felt as though her teaching strategy was very effective with out being too hard on us. 9/10 would take another class with her.\n\nReview 33:\n  Quality: 1.0 | Difficulty: 5.0\n  Date: 2011-08-10\n  Comment: Worst teacher I ever had. DO NOT take her.\n\nReview 34:\n  Quality: 4.0 | Difficulty: 3.0\n  Date: 2009-01-08\n  Comment: Her Robotics class was interesting, although every lab seemed to be an experiment. Students learn practical experience from the labs, and learn the theory from the tests. Not a whole lot of out-of-class work, but a lot of sweat during the labs. She can seem quite severe in class, but she's actually quite helpful overall.\n\nReview 35:\n  Quality: 1.0 | Difficulty: 2.0\n  Date: 2008-12-23\n  Comment: INCOMPETENT.  SHOULD NOT TEACH THIS CLASS.  LAZY. DOESN'T GRADE PAPERS.  NO FEEDBACK.  CAN'T CUT THE MUSTARD.  EMBARASSING..FELT LIKE HIGH SCHOOL. NICE BUT STICK TO MATH\n\nReview 36:\n  Quality: 5.0 | Difficulty: 2.0\n  Date: 2008-12-17\n  Comment: She is very nice, but extremely gittery.  She teaches well, but some of her discussions seem pointless.\n\nReview 37:\n  Quality: 2.0 | Difficulty: 2.0\n  Date: 2008-12-11\n  Comment: This professor is extremely nice, however she is kind of strange.  If you have a problem, she is willing to help but she does not reply to emails usually and she is very spastic.  It is hard relying on her for things sometimes so don't count on it always.  I have taken her classes and been her Teacher's Assistant for classes.\n\nReview 38:\n  Quality: 4.0 | Difficulty: 3.0\n  Date: 2006-05-25\n  Comment: She's a good techer, but somewhat coo-coo.\n\nReview 39:\n  Quality: 4.0 | Difficulty: 1.0\n  Date: 2006-03-21\n  Comment: Despite a slight tendency to treat her class like a group of third-graders, Dr. Pearce was pretty cool.  Hey-- I'm not a math person, but I survived her class.\n\nReview 40:\n  Quality: 5.0 | Difficulty: 3.0\n  Date: 2005-10-19\n  Comment: Wonderful teacher, wonderful person. I had almost made up my mind to transfer from Berea, but after some correspondence with Jan, I have changed my mind. She has shown me that, despite my problems at Berea, this is a school where people care. Jan goes out of her way to help. I couldn't ask for a better professor.\n\nReview 41:\n  Quality: 4.0 | Difficulty: 4.0\n  Date: 2005-10-11\n  Comment: I also had Jan for environmental sciences, she was kooky, but she always kept things interesting.  She is a good teacher, albeit a little odd in show.\n\nReview 42:\n  Quality: 4.0 | Difficulty: 2.0\n  Date: 2005-09-01\n  Comment: She's kind of annoying.\n\nReview 43:\n  Quality: 2.0 | Difficulty: 3.0\n  Date: 2005-05-15\n  Comment: She knows what she is talking about but doesn't show it in a clease form.  To happy about the CO2 levels in the world.  Math needs to come before other world issues because it is a MATH class.\n\nReview 44:\n  Quality: 4.0 | Difficulty: 3.0\n  Date: 2005-04-14\n  Comment: She is a good teacher. She tries her best to make you understand the concept. Feel free to talk to her if you have any problems.\n\nReview 45:\n  Quality: 5.0 | Difficulty: 3.0\n  Date: 2005-04-12\n  Comment: She's a great professor, she knows how to teach. Very sweet!!!\n\nReview 46:\n  Quality: 5.0 | Difficulty: 2.0\n  Date: 2005-03-01\n  Comment: Jan is the best!!  She really cares about students.  Take her class if you have any interest in computers at all.\n"
+}

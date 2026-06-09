@@ -1,0 +1,29 @@
+{
+  "professor_name": "Nathaniel Phillips",
+  "department": "Mathematics",
+  "school": "Berea College",
+  "overall_rating": 5.0,
+  "difficulty": 4.0,
+  "would_take_again_pct": 100.0,
+  "num_ratings": 1,
+  "reviews": [
+    {
+      "comment": "Nathan Phillips is a straight-up G. Yeah, there is a lot of homework and tests, but you get that with any (math) class at Berea. Phillips at least tries to make it as fun and tolerable as possible. He is really chill, easy to talk to, will help if you are struggling, and is very accommodating. He is a 5 Star, Grade A bro. 10/10 would recommend.",
+      "quality": 5.0,
+      "difficulty": 4.0,
+      "course": "",
+      "grade": "",
+      "date": "2021-05-12",
+      "tags": [
+        "Gives good feedback",
+        "Lots of homework",
+        "Caring"
+      ],
+      "would_take_again": null,
+      "attendance": null,
+      "thumbs_up": 1,
+      "thumbs_down": 0
+    }
+  ],
+  "plain_text": "Professor: Nathaniel Phillips\nDepartment: Mathematics\nSchool: Berea College\nOverall Rating: 5.0 / 5\nDifficulty: 4.0 / 5\nWould Take Again: 100.0%\nNumber of Ratings: 1\n\n--- Student Reviews ---\n\nReview 1:\n  Quality: 5.0 | Difficulty: 4.0\n  Date: 2021-05-12\n  Comment: Nathan Phillips is a straight-up G. Yeah, there is a lot of homework and tests, but you get that with any (math) class at Berea. Phillips at least tries to make it as fun and tolerable as possible. He is really chill, easy to talk to, will help if you are struggling, and is very accommodating. He is a 5 Star, Grade A bro. 10/10 would recommend.\n  Tags: Gives good feedback, Lots of homework, Caring\n"
+}

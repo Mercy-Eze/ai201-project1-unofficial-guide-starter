@@ -1,0 +1,163 @@
+{
+  "professor_name": "Judy Rector",
+  "department": "Mathematics",
+  "school": "Berea College",
+  "overall_rating": 3.6,
+  "difficulty": 3.2,
+  "would_take_again_pct": 50.0,
+  "num_ratings": 11,
+  "reviews": [
+    {
+      "comment": "She gives tedious (50+ questions) homework, once you turn it in- don't expect it back before the exam to review, nor in time for the final or midterm grades. She doesn't grade any of her assigned homework. She will give you a BRIEF syllabus that will come back to bite you a month after class has begun. All she does is teach, hours are not helpful.",
+      "quality": 1.0,
+      "difficulty": 1.0,
+      "course": "",
+      "grade": "",
+      "date": "2016-12-20",
+      "tags": [
+        "Skip class? You won't pass.",
+        "LOTS OF HOMEWORK",
+        "GRADED BY FEW THINGS"
+      ],
+      "would_take_again": null,
+      "attendance": null,
+      "thumbs_up": 1,
+      "thumbs_down": 1
+    },
+    {
+      "comment": "Good teacher, explains subjects in many ways if you don't understand.",
+      "quality": 5.0,
+      "difficulty": 3.0,
+      "course": "",
+      "grade": "",
+      "date": "2016-11-09",
+      "tags": [
+        "Gives good feedback",
+        "Caring",
+        "EXTRA CREDIT"
+      ],
+      "would_take_again": null,
+      "attendance": null,
+      "thumbs_up": 1,
+      "thumbs_down": 0
+    },
+    {
+      "comment": "College algebra with modeling. Hardest thing ever. Wish I wouldn't have been trained to only use a calculator for equations in High School. Trying to do math without a calculator was so hard for me. Made it to algebra 2 in HS",
+      "quality": 4.0,
+      "difficulty": 4.0,
+      "course": "",
+      "grade": "",
+      "date": "2016-02-08",
+      "tags": [],
+      "would_take_again": null,
+      "attendance": null,
+      "thumbs_up": 0,
+      "thumbs_down": 1
+    },
+    {
+      "comment": "She means well but...she is highly boring and annoying. She makes easy concepts sound incredibly complicated, and take days and days to go over the same material. If a student needs help, she is there to help. But she'll take up 30 minutes on one students question instead of asking them to see her after class. I stayed pissed at stupid students.",
+      "quality": 4.0,
+      "difficulty": 1.0,
+      "course": "",
+      "grade": "",
+      "date": "2011-10-31",
+      "tags": [],
+      "would_take_again": null,
+      "attendance": null,
+      "thumbs_up": 1,
+      "thumbs_down": 0
+    },
+    {
+      "comment": "Statistics is required for a poli-sci major and she helped me through the entire class.  If you are willing to put in the work, she is willing to help in any way that she can!!",
+      "quality": 3.0,
+      "difficulty": 5.0,
+      "course": "",
+      "grade": "",
+      "date": "2008-09-30",
+      "tags": [],
+      "would_take_again": null,
+      "attendance": null,
+      "thumbs_up": 0,
+      "thumbs_down": 0
+    },
+    {
+      "comment": "She's the cute, cuddly teddy-bear type. Very friendly in class, great teaching. Puts in a lot of time and effort. Grades tough, extremely difficult tests. Malleable schedule. Difficult to reach after class. Tells good stories of her cat and first car in 1960s.",
+      "quality": 4.0,
+      "difficulty": 3.0,
+      "course": "",
+      "grade": "",
+      "date": "2008-05-04",
+      "tags": [],
+      "would_take_again": null,
+      "attendance": null,
+      "thumbs_up": 0,
+      "thumbs_down": 0
+    },
+    {
+      "comment": "Beware Education majors...don't ask Judy for a recommendation letter for your portfolios because it won't recommend you for anything positive.  I don't know if she understands what a recommendation is suppose to help.  I'd have rather her say I don't have anything positive to say about you than to write the kinds of things she wrote.",
+      "quality": 3.0,
+      "difficulty": 5.0,
+      "course": "",
+      "grade": "",
+      "date": "2006-07-10",
+      "tags": [],
+      "would_take_again": null,
+      "attendance": null,
+      "thumbs_up": 0,
+      "thumbs_down": 0
+    },
+    {
+      "comment": "I'll admit, she is a good teacher. But she grades oddly. I got every answer right on my final...but she have me a 78!",
+      "quality": 4.0,
+      "difficulty": 3.0,
+      "course": "",
+      "grade": "",
+      "date": "2005-08-18",
+      "tags": [],
+      "would_take_again": null,
+      "attendance": null,
+      "thumbs_up": 0,
+      "thumbs_down": 0
+    },
+    {
+      "comment": "I also had Dr. Rector for MAT011.  Judy is the reason I graduated!  She is the best at what she does!  She takes the time to make sure you understand her!!  SHE IS THE BEST MATH TEACHER I EVER HAD!",
+      "quality": 5.0,
+      "difficulty": 4.0,
+      "course": "",
+      "grade": "",
+      "date": "2005-03-15",
+      "tags": [],
+      "would_take_again": null,
+      "attendance": null,
+      "thumbs_up": 0,
+      "thumbs_down": 0
+    },
+    {
+      "comment": "If it were not for her great teaching, I would not be graduating. She made Pre-Calculus very understandable for many non-math students. Thank you! She is the professor for students who hate and/or are very bad in math.",
+      "quality": 5.0,
+      "difficulty": 2.0,
+      "course": "",
+      "grade": "",
+      "date": "2003-10-06",
+      "tags": [],
+      "would_take_again": null,
+      "attendance": null,
+      "thumbs_up": 0,
+      "thumbs_down": 0
+    },
+    {
+      "comment": "I had Dr. Rector for an education class.  She is a wonderful math professor, but she needs a little work on the education aspect of it all.  I had her several years ago, and she did not incorporate any classroom experience into her course.",
+      "quality": 3.0,
+      "difficulty": 4.0,
+      "course": "",
+      "grade": "",
+      "date": "2003-03-05",
+      "tags": [],
+      "would_take_again": null,
+      "attendance": null,
+      "thumbs_up": 0,
+      "thumbs_down": 1
+    }
+  ],
+  "plain_text": "Professor: Judy Rector\nDepartment: Mathematics\nSchool: Berea College\nOverall Rating: 3.6 / 5\nDifficulty: 3.2 / 5\nWould Take Again: 50.0%\nNumber of Ratings: 11\n\n--- Student Reviews ---\n\nReview 1:\n  Quality: 1.0 | Difficulty: 1.0\n  Date: 2016-12-20\n  Comment: She gives tedious (50+ questions) homework, once you turn it in- don't expect it back before the exam to review, nor in time for the final or midterm grades. She doesn't grade any of her assigned homework. She will give you a BRIEF syllabus that will come back to bite you a month after class has begun. All she does is teach, hours are not helpful.\n  Tags: Skip class? You won't pass., LOTS OF HOMEWORK, GRADED BY FEW THINGS\n\nReview 2:\n  Quality: 5.0 | Difficulty: 3.0\n  Date: 2016-11-09\n  Comment: Good teacher, explains subjects in many ways if you don't understand.\n  Tags: Gives good feedback, Caring, EXTRA CREDIT\n\nReview 3:\n  Quality: 4.0 | Difficulty: 4.0\n  Date: 2016-02-08\n  Comment: College algebra with modeling. Hardest thing ever. Wish I wouldn't have been trained to only use a calculator for equations in High School. Trying to do math without a calculator was so hard for me. Made it to algebra 2 in HS\n\nReview 4:\n  Quality: 4.0 | Difficulty: 1.0\n  Date: 2011-10-31\n  Comment: She means well but...she is highly boring and annoying. She makes easy concepts sound incredibly complicated, and take days and days to go over the same material. If a student needs help, she is there to help. But she'll take up 30 minutes on one students question instead of asking them to see her after class. I stayed pissed at stupid students.\n\nReview 5:\n  Quality: 3.0 | Difficulty: 5.0\n  Date: 2008-09-30\n  Comment: Statistics is required for a poli-sci major and she helped me through the entire class.  If you are willing to put in the work, she is willing to help in any way that she can!!\n\nReview 6:\n  Quality: 4.0 | Difficulty: 3.0\n  Date: 2008-05-04\n  Comment: She's the cute, cuddly teddy-bear type. Very friendly in class, great teaching. Puts in a lot of time and effort. Grades tough, extremely difficult tests. Malleable schedule. Difficult to reach after class. Tells good stories of her cat and first car in 1960s.\n\nReview 7:\n  Quality: 3.0 | Difficulty: 5.0\n  Date: 2006-07-10\n  Comment: Beware Education majors...don't ask Judy for a recommendation letter for your portfolios because it won't recommend you for anything positive.  I don't know if she understands what a recommendation is suppose to help.  I'd have rather her say I don't have anything positive to say about you than to write the kinds of things she wrote.\n\nReview 8:\n  Quality: 4.0 | Difficulty: 3.0\n  Date: 2005-08-18\n  Comment: I'll admit, she is a good teacher. But she grades oddly. I got every answer right on my final...but she have me a 78!\n\nReview 9:\n  Quality: 5.0 | Difficulty: 4.0\n  Date: 2005-03-15\n  Comment: I also had Dr. Rector for MAT011.  Judy is the reason I graduated!  She is the best at what she does!  She takes the time to make sure you understand her!!  SHE IS THE BEST MATH TEACHER I EVER HAD!\n\nReview 10:\n  Quality: 5.0 | Difficulty: 2.0\n  Date: 2003-10-06\n  Comment: If it were not for her great teaching, I would not be graduating. She made Pre-Calculus very understandable for many non-math students. Thank you! She is the professor for students who hate and/or are very bad in math.\n\nReview 11:\n  Quality: 3.0 | Difficulty: 4.0\n  Date: 2003-03-05\n  Comment: I had Dr. Rector for an education class.  She is a wonderful math professor, but she needs a little work on the education aspect of it all.  I had her several years ago, and she did not incorporate any classroom experience into her course.\n"
+}

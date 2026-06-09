@@ -1,0 +1,42 @@
+{
+  "professor_name": "Theresa Thesing",
+  "department": "Mathematics",
+  "school": "Berea College",
+  "overall_rating": 4.8,
+  "difficulty": 3.5,
+  "would_take_again_pct": 100.0,
+  "num_ratings": 2,
+  "reviews": [
+    {
+      "comment": "Mrs. Thesing is an amazing person. She will definitely help you succeed. If she was my teacher in high school, I would probably take Mathematics in college.",
+      "quality": 5.0,
+      "difficulty": 4.0,
+      "course": "",
+      "grade": "",
+      "date": "2018-04-02",
+      "tags": [
+        "Tough Grader",
+        "LOTS OF HOMEWORK",
+        "ACCESSIBLE OUTSIDE CLASS"
+      ],
+      "would_take_again": null,
+      "attendance": null,
+      "thumbs_up": 0,
+      "thumbs_down": 0
+    },
+    {
+      "comment": "She expects a lot, but does not stop until you understand the concepts. She loves and believes in every single one of her students. An amazing person, and for the first time in my life I understand and am good at math.",
+      "quality": 5.0,
+      "difficulty": 3.0,
+      "course": "",
+      "grade": "",
+      "date": "2015-11-02",
+      "tags": [],
+      "would_take_again": null,
+      "attendance": null,
+      "thumbs_up": 0,
+      "thumbs_down": 0
+    }
+  ],
+  "plain_text": "Professor: Theresa Thesing\nDepartment: Mathematics\nSchool: Berea College\nOverall Rating: 4.8 / 5\nDifficulty: 3.5 / 5\nWould Take Again: 100.0%\nNumber of Ratings: 2\n\n--- Student Reviews ---\n\nReview 1:\n  Quality: 5.0 | Difficulty: 4.0\n  Date: 2018-04-02\n  Comment: Mrs. Thesing is an amazing person. She will definitely help you succeed. If she was my teacher in high school, I would probably take Mathematics in college.\n  Tags: Tough Grader, LOTS OF HOMEWORK, ACCESSIBLE OUTSIDE CLASS\n\nReview 2:\n  Quality: 5.0 | Difficulty: 3.0\n  Date: 2015-11-02\n  Comment: She expects a lot, but does not stop until you understand the concepts. She loves and believes in every single one of her students. An amazing person, and for the first time in my life I understand and am good at math.\n"
+}

@@ -1,0 +1,110 @@
+{
+  "professor_name": "Kenny Siler",
+  "department": "Mathematics",
+  "school": "Berea College",
+  "overall_rating": 4.7,
+  "difficulty": 2.0,
+  "would_take_again_pct": 100.0,
+  "num_ratings": 6,
+  "reviews": [
+    {
+      "comment": "Mr. Siler was awesome. Funny, helpful, clear, and genuinely cared about us. He's probably one of the best Math professors out there, hands down. ",
+      "quality": 5.0,
+      "difficulty": 1.0,
+      "course": "",
+      "grade": "",
+      "date": "2025-11-24",
+      "tags": [
+        "Gives good feedback",
+        "Caring",
+        "Respected"
+      ],
+      "would_take_again": null,
+      "attendance": null,
+      "thumbs_up": 0,
+      "thumbs_down": 0
+    },
+    {
+      "comment": "He is the best!! Don't look for another math professor take him. He gives study exam before each one and it's the same the numbers are just different. After an exam he allows you to learn and correct it to have a better grade. You can submit your assignment late and he will always encourage you to do better. It is an easy A.",
+      "quality": 5.0,
+      "difficulty": 1.0,
+      "course": "",
+      "grade": "",
+      "date": "2025-11-11",
+      "tags": [],
+      "would_take_again": null,
+      "attendance": null,
+      "thumbs_up": 0,
+      "thumbs_down": 0
+    },
+    {
+      "comment": "He's a great guy to have class with and one of the nicest guys I've met. If you have an issue in the class, he will help you fix it.",
+      "quality": 5.0,
+      "difficulty": 2.0,
+      "course": "",
+      "grade": "",
+      "date": "2025-11-10",
+      "tags": [
+        "Gives good feedback",
+        "Lots of homework",
+        "Hilarious"
+      ],
+      "would_take_again": null,
+      "attendance": null,
+      "thumbs_up": 0,
+      "thumbs_down": 0
+    },
+    {
+      "comment": "This man is the single best math professor I've ever had. I went into his class dreading having to do math, but he found a way to make it easy. I've never found math to be easy before, much less *fun,* but he found a way. He's also just got a fun dad-like quality to him. My only issue has been the time. No one wants to wake up at 7:30am.",
+      "quality": 5.0,
+      "difficulty": 2.0,
+      "course": "",
+      "grade": "",
+      "date": "2024-10-28",
+      "tags": [
+        "Gives good feedback",
+        "Hilarious",
+        "Caring"
+      ],
+      "would_take_again": null,
+      "attendance": null,
+      "thumbs_up": 0,
+      "thumbs_down": 0
+    },
+    {
+      "comment": "I love Mr. Siler. He worked with me a lot during MAT012. He does his best to joke around and make the class enjoyable. Furthermore, I loved the reading material. It helped me learn a lot about how I learn and how I can improve. He truly believes everyone can learn and get better at math!",
+      "quality": 4.0,
+      "difficulty": 3.0,
+      "course": "",
+      "grade": "",
+      "date": "2024-02-28",
+      "tags": [
+        "Clear grading criteria",
+        "Caring",
+        "Accessible outside class"
+      ],
+      "would_take_again": null,
+      "attendance": null,
+      "thumbs_up": 0,
+      "thumbs_down": 0
+    },
+    {
+      "comment": "Mr.Siler does his best to make the class as enjoyable as possible while still following the guidelines he is given. He is not a harsh grader and will try to ensure you pass every test he grades. He also enjoys doing card tricks for the class, so that is a plus in my eyes. He is a great person and will adapt to your schedule if needed.",
+      "quality": 4.0,
+      "difficulty": 3.0,
+      "course": "",
+      "grade": "",
+      "date": "2024-01-10",
+      "tags": [
+        "Tough grader",
+        "Clear grading criteria",
+        "Hilarious"
+      ],
+      "would_take_again": null,
+      "attendance": null,
+      "thumbs_up": 0,
+      "thumbs_down": 0
+    }
+  ],
+  "plain_text": "Professor: Kenny Siler\nDepartment: Mathematics\nSchool: Berea College\nOverall Rating: 4.7 / 5\nDifficulty: 2.0 / 5\nWould Take Again: 100.0%\nNumber of Ratings: 6\n\n--- Student Reviews ---\n\nReview 1:\n  Quality: 5.0 | Difficulty: 1.0\n  Date: 2025-11-24\n  Comment: Mr. Siler was awesome. Funny, helpful, clear, and genuinely cared about us. He's probably one of the best Math professors out there, hands down. \n  Tags: Gives good feedback, Caring, Respected\n\nReview 2:\n  Quality: 5.0 | Difficulty: 1.0\n  Date: 2025-11-11\n  Comment: He is the best!! Don't look for another math professor take him. He gives study exam before each one and it's the same the numbers are just different. After an exam he allows you to learn and correct it to have a better grade. You can submit your assignment late and he will always encourage you to do better. It is an easy A.\n\nReview 3:\n  Quality: 5.0 | Difficulty: 2.0\n  Date: 2025-11-10\n  Comment: He's a great guy to have class with and one of the nicest guys I've met. If you have an issue in the class, he will help you fix it.\n  Tags: Gives good feedback, Lots of homework, Hilarious\n\nReview 4:\n  Quality: 5.0 | Difficulty: 2.0\n  Date: 2024-10-28\n  Comment: This man is the single best math professor I've ever had. I went into his class dreading having to do math, but he found a way to make it easy. I've never found math to be easy before, much less *fun,* but he found a way. He's also just got a fun dad-like quality to him. My only issue has been the time. No one wants to wake up at 7:30am.\n  Tags: Gives good feedback, Hilarious, Caring\n\nReview 5:\n  Quality: 4.0 | Difficulty: 3.0\n  Date: 2024-02-28\n  Comment: I love Mr. Siler. He worked with me a lot during MAT012. He does his best to joke around and make the class enjoyable. Furthermore, I loved the reading material. It helped me learn a lot about how I learn and how I can improve. He truly believes everyone can learn and get better at math!\n  Tags: Clear grading criteria, Caring, Accessible outside class\n\nReview 6:\n  Quality: 4.0 | Difficulty: 3.0\n  Date: 2024-01-10\n  Comment: Mr.Siler does his best to make the class as enjoyable as possible while still following the guidelines he is given. He is not a harsh grader and will try to ensure you pass every test he grades. He also enjoys doing card tricks for the class, so that is a plus in my eyes. He is a great person and will adapt to your schedule if needed.\n  Tags: Tough grader, Clear grading criteria, Hilarious\n"
+}

@@ -1,0 +1,51 @@
+{
+  "professor_name": "Ralph Stinebrickner",
+  "department": "Mathematics",
+  "school": "Berea College",
+  "overall_rating": 4.5,
+  "difficulty": 3.0,
+  "would_take_again_pct": -1.0,
+  "num_ratings": 3,
+  "reviews": [
+    {
+      "comment": "Dr. Stinebrickner is the best math professor I had in college. The analytical skills that I learned from him, I still use today.  His teaching inspired me to become better and passionate about math. He is not the kind of professor that will assume you know what he knows which most professors just tend to do.",
+      "quality": 5.0,
+      "difficulty": 4.0,
+      "course": "",
+      "grade": "",
+      "date": "2009-10-14",
+      "tags": [],
+      "would_take_again": null,
+      "attendance": null,
+      "thumbs_up": 0,
+      "thumbs_down": 0
+    },
+    {
+      "comment": "Dr. Ralph gets very excited by math - he has a lot of enthusiasm and that is evident in class. He's willing to help out and honestly tries to get students to understand the material. The only problem that I had was that he would assign homework from the book which consists of mostly numerical problems,while his tests are mostly word problems.",
+      "quality": 3.0,
+      "difficulty": 3.0,
+      "course": "",
+      "grade": "",
+      "date": "2007-11-14",
+      "tags": [],
+      "would_take_again": null,
+      "attendance": null,
+      "thumbs_up": 0,
+      "thumbs_down": 0
+    },
+    {
+      "comment": "Dr. Stinebrickner really has a passion for what he does. The best part of his class is his enthusiasm. You won't have to hesitate to ask to go over problems because sometimes the entire class block goes by during his review of the last homework assignment. He goes to great lengths to give as many examples as possible and grades fairly.",
+      "quality": 5.0,
+      "difficulty": 2.0,
+      "course": "",
+      "grade": "",
+      "date": "2006-12-12",
+      "tags": [],
+      "would_take_again": null,
+      "attendance": null,
+      "thumbs_up": 0,
+      "thumbs_down": 0
+    }
+  ],
+  "plain_text": "Professor: Ralph Stinebrickner\nDepartment: Mathematics\nSchool: Berea College\nOverall Rating: 4.5 / 5\nDifficulty: 3.0 / 5\nWould Take Again: -1.0%\nNumber of Ratings: 3\n\n--- Student Reviews ---\n\nReview 1:\n  Quality: 5.0 | Difficulty: 4.0\n  Date: 2009-10-14\n  Comment: Dr. Stinebrickner is the best math professor I had in college. The analytical skills that I learned from him, I still use today.  His teaching inspired me to become better and passionate about math. He is not the kind of professor that will assume you know what he knows which most professors just tend to do.\n\nReview 2:\n  Quality: 3.0 | Difficulty: 3.0\n  Date: 2007-11-14\n  Comment: Dr. Ralph gets very excited by math - he has a lot of enthusiasm and that is evident in class. He's willing to help out and honestly tries to get students to understand the material. The only problem that I had was that he would assign homework from the book which consists of mostly numerical problems,while his tests are mostly word problems.\n\nReview 3:\n  Quality: 5.0 | Difficulty: 2.0\n  Date: 2006-12-12\n  Comment: Dr. Stinebrickner really has a passion for what he does. The best part of his class is his enthusiasm. You won't have to hesitate to ask to go over problems because sometimes the entire class block goes by during his review of the last homework assignment. He goes to great lengths to give as many examples as possible and grades fairly.\n"
+}

@@ -1,0 +1,179 @@
+{
+  "professor_name": "Sara Ellis",
+  "department": "Mathematics",
+  "school": "Berea College",
+  "overall_rating": 4.9,
+  "difficulty": 2.5,
+  "would_take_again_pct": 100.0,
+  "num_ratings": 11,
+  "reviews": [
+    {
+      "comment": "Sara is one of the kindest people on the planet! Her class is relatively easy but does assign a lot of homework. This was last term when I took her class, I don't believe she is teaching anymore at Berea. I do 100% recommend her though if she is. ",
+      "quality": 4.0,
+      "difficulty": 2.0,
+      "course": "",
+      "grade": "",
+      "date": "2023-11-07",
+      "tags": [
+        "Participation matters",
+        "Clear grading criteria",
+        "Gives good feedback"
+      ],
+      "would_take_again": null,
+      "attendance": null,
+      "thumbs_up": 0,
+      "thumbs_down": 0
+    },
+    {
+      "comment": "Sara Ellis is hands down the best math instructor I have ever had. She is incredibly caring and shows dedication to every student. She is quick to get you through whatever challenge you have (math related or not). Incredibly  high energy and easy to reciprocate. She has all of my respect as a person and instructor. Highly recommend! ",
+      "quality": 5.0,
+      "difficulty": 3.0,
+      "course": "",
+      "grade": "",
+      "date": "2022-12-06",
+      "tags": [
+        "Clear grading criteria",
+        "Caring",
+        "Accessible outside class"
+      ],
+      "would_take_again": null,
+      "attendance": null,
+      "thumbs_up": 0,
+      "thumbs_down": 0
+    },
+    {
+      "comment": "Professor Ellis is genuinely one of a kind. She cares deeply about the class and WILL help you if you need it. I would recommend her to anyone who needs to take math. ",
+      "quality": 5.0,
+      "difficulty": 2.0,
+      "course": "",
+      "grade": "",
+      "date": "2022-11-01",
+      "tags": [
+        "Lots of homework",
+        "Caring",
+        "Accessible outside class"
+      ],
+      "would_take_again": null,
+      "attendance": null,
+      "thumbs_up": 0,
+      "thumbs_down": 0
+    },
+    {
+      "comment": "Sara is by far one of the most caring professors I've ever had. She's so passionate about math and makes sure all her students understand the material. I truly love her personality and it was always a joy to go to her class. She's an absolute treasure to this world. I 100% recommend taking a class of hers. ",
+      "quality": 5.0,
+      "difficulty": 2.0,
+      "course": "",
+      "grade": "",
+      "date": "2022-08-28",
+      "tags": [
+        "Gives good feedback",
+        "Caring",
+        "Respected"
+      ],
+      "would_take_again": null,
+      "attendance": null,
+      "thumbs_up": 0,
+      "thumbs_down": 0
+    },
+    {
+      "comment": "If you're taking remedial math, Sara is your best choice. She makes math easy and fun. This class is not a slog at all. She's a wonderful person and very helpful.",
+      "quality": 5.0,
+      "difficulty": 2.0,
+      "course": "",
+      "grade": "",
+      "date": "2021-11-08",
+      "tags": [
+        "Gives good feedback",
+        "Hilarious",
+        "Caring"
+      ],
+      "would_take_again": null,
+      "attendance": null,
+      "thumbs_up": 0,
+      "thumbs_down": 0
+    },
+    {
+      "comment": "She is absolutely amazing, really understanding. I have to take this course to continue to math courses that will give a credit. She has helped me so much and been so understanding. She really cares about her students and is really fun and vibrant. I absolutely recommend her.",
+      "quality": 5.0,
+      "difficulty": 3.0,
+      "course": "",
+      "grade": "",
+      "date": "2021-11-03",
+      "tags": [
+        "Lots of homework",
+        "Hilarious",
+        "Caring"
+      ],
+      "would_take_again": null,
+      "attendance": null,
+      "thumbs_up": 0,
+      "thumbs_down": 0
+    },
+    {
+      "comment": "I, by no means, enjoy math. But Sara is such a passionate, objective, and helpful professor that I've registered for another one of her courses. There is plenty of homework, but she is very thorough and makes an effort to ensure that everyone understands concepts.",
+      "quality": 5.0,
+      "difficulty": 3.0,
+      "course": "",
+      "grade": "",
+      "date": "2013-11-11",
+      "tags": [],
+      "would_take_again": null,
+      "attendance": null,
+      "thumbs_up": 0,
+      "thumbs_down": 0
+    },
+    {
+      "comment": "Ms Ellis is a very talented professor. She is very specific in her objectives, EXTREMELY organized, and she genuinely inspires her students to understand Math. She devotes a lot of her time to students in class and outside of the class. No one is afraid to ask questions and to think he or she would look stupid.",
+      "quality": 4.0,
+      "difficulty": 4.0,
+      "course": "",
+      "grade": "",
+      "date": "2013-04-23",
+      "tags": [],
+      "would_take_again": null,
+      "attendance": null,
+      "thumbs_up": 0,
+      "thumbs_down": 0
+    },
+    {
+      "comment": "She is extremely helpful and clear explaining difficult concepts. If you dont understand something she will continue explaining it in different ways until you do! Shes friendly and funny has awesome study sessions. If you need help just go t her office hours, she will like you more and you will get great help! Always do the homework!",
+      "quality": 5.0,
+      "difficulty": 3.0,
+      "course": "",
+      "grade": "",
+      "date": "2012-10-25",
+      "tags": [],
+      "would_take_again": null,
+      "attendance": null,
+      "thumbs_up": 0,
+      "thumbs_down": 0
+    },
+    {
+      "comment": "She is the best math teacher I have ever encountered! She bends over backwards for her students and she is very enthusiastic about math. I even got her to help me with my chemistry homework once. If you ever have the chance to take Sara do it!",
+      "quality": 5.0,
+      "difficulty": 1.0,
+      "course": "",
+      "grade": "",
+      "date": "2012-04-11",
+      "tags": [],
+      "would_take_again": null,
+      "attendance": null,
+      "thumbs_up": 0,
+      "thumbs_down": 0
+    },
+    {
+      "comment": "She is awesome",
+      "quality": 5.0,
+      "difficulty": 2.0,
+      "course": "",
+      "grade": "",
+      "date": "2012-03-19",
+      "tags": [],
+      "would_take_again": null,
+      "attendance": null,
+      "thumbs_up": 0,
+      "thumbs_down": 0
+    }
+  ],
+  "plain_text": "Professor: Sara Ellis\nDepartment: Mathematics\nSchool: Berea College\nOverall Rating: 4.9 / 5\nDifficulty: 2.5 / 5\nWould Take Again: 100.0%\nNumber of Ratings: 11\n\n--- Student Reviews ---\n\nReview 1:\n  Quality: 4.0 | Difficulty: 2.0\n  Date: 2023-11-07\n  Comment: Sara is one of the kindest people on the planet! Her class is relatively easy but does assign a lot of homework. This was last term when I took her class, I don't believe she is teaching anymore at Berea. I do 100% recommend her though if she is. \n  Tags: Participation matters, Clear grading criteria, Gives good feedback\n\nReview 2:\n  Quality: 5.0 | Difficulty: 3.0\n  Date: 2022-12-06\n  Comment: Sara Ellis is hands down the best math instructor I have ever had. She is incredibly caring and shows dedication to every student. She is quick to get you through whatever challenge you have (math related or not). Incredibly  high energy and easy to reciprocate. She has all of my respect as a person and instructor. Highly recommend! \n  Tags: Clear grading criteria, Caring, Accessible outside class\n\nReview 3:\n  Quality: 5.0 | Difficulty: 2.0\n  Date: 2022-11-01\n  Comment: Professor Ellis is genuinely one of a kind. She cares deeply about the class and WILL help you if you need it. I would recommend her to anyone who needs to take math. \n  Tags: Lots of homework, Caring, Accessible outside class\n\nReview 4:\n  Quality: 5.0 | Difficulty: 2.0\n  Date: 2022-08-28\n  Comment: Sara is by far one of the most caring professors I've ever had. She's so passionate about math and makes sure all her students understand the material. I truly love her personality and it was always a joy to go to her class. She's an absolute treasure to this world. I 100% recommend taking a class of hers. \n  Tags: Gives good feedback, Caring, Respected\n\nReview 5:\n  Quality: 5.0 | Difficulty: 2.0\n  Date: 2021-11-08\n  Comment: If you're taking remedial math, Sara is your best choice. She makes math easy and fun. This class is not a slog at all. She's a wonderful person and very helpful.\n  Tags: Gives good feedback, Hilarious, Caring\n\nReview 6:\n  Quality: 5.0 | Difficulty: 3.0\n  Date: 2021-11-03\n  Comment: She is absolutely amazing, really understanding. I have to take this course to continue to math courses that will give a credit. She has helped me so much and been so understanding. She really cares about her students and is really fun and vibrant. I absolutely recommend her.\n  Tags: Lots of homework, Hilarious, Caring\n\nReview 7:\n  Quality: 5.0 | Difficulty: 3.0\n  Date: 2013-11-11\n  Comment: I, by no means, enjoy math. But Sara is such a passionate, objective, and helpful professor that I've registered for another one of her courses. There is plenty of homework, but she is very thorough and makes an effort to ensure that everyone understands concepts.\n\nReview 8:\n  Quality: 4.0 | Difficulty: 4.0\n  Date: 2013-04-23\n  Comment: Ms Ellis is a very talented professor. She is very specific in her objectives, EXTREMELY organized, and she genuinely inspires her students to understand Math. She devotes a lot of her time to students in class and outside of the class. No one is afraid to ask questions and to think he or she would look stupid.\n\nReview 9:\n  Quality: 5.0 | Difficulty: 3.0\n  Date: 2012-10-25\n  Comment: She is extremely helpful and clear explaining difficult concepts. If you dont understand something she will continue explaining it in different ways until you do! Shes friendly and funny has awesome study sessions. If you need help just go t her office hours, she will like you more and you will get great help! Always do the homework!\n\nReview 10:\n  Quality: 5.0 | Difficulty: 1.0\n  Date: 2012-04-11\n  Comment: She is the best math teacher I have ever encountered! She bends over backwards for her students and she is very enthusiastic about math. I even got her to help me with my chemistry homework once. If you ever have the chance to take Sara do it!\n\nReview 11:\n  Quality: 5.0 | Difficulty: 2.0\n  Date: 2012-03-19\n  Comment: She is awesome\n"
+}

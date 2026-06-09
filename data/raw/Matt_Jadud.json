@@ -1,0 +1,77 @@
+{
+  "professor_name": "Matt Jadud",
+  "department": "Computer Science",
+  "school": "Berea College",
+  "overall_rating": 3.9,
+  "difficulty": 2.6,
+  "would_take_again_pct": -1.0,
+  "num_ratings": 5,
+  "reviews": [
+    {
+      "comment": "Prof. Jadud is very knowledgeable, and is a great educator. However, he tends to go off topic and teach material that we didn't sign up for. Despite that, he's one of the best professors on campus.",
+      "quality": 2.0,
+      "difficulty": 3.0,
+      "course": "",
+      "grade": "",
+      "date": "2015-10-29",
+      "tags": [],
+      "would_take_again": null,
+      "attendance": null,
+      "thumbs_up": 0,
+      "thumbs_down": 0
+    },
+    {
+      "comment": "He is very inspirational to minority groups, and makes the majority well aware of racism issues and competition in the real world. He cares about students being treated fairly. He is very supportive and helpful throughout my growth in his class. One of my favorite professors in Berea College!",
+      "quality": 5.0,
+      "difficulty": 3.0,
+      "course": "",
+      "grade": "",
+      "date": "2015-10-25",
+      "tags": [],
+      "would_take_again": null,
+      "attendance": null,
+      "thumbs_up": 0,
+      "thumbs_down": 0
+    },
+    {
+      "comment": "Matt is a great professor, very understanding too. I can never trade my TAD 265 experience for anything.",
+      "quality": 4.0,
+      "difficulty": 2.0,
+      "course": "",
+      "grade": "",
+      "date": "2014-05-28",
+      "tags": [],
+      "would_take_again": null,
+      "attendance": null,
+      "thumbs_up": 0,
+      "thumbs_down": 0
+    },
+    {
+      "comment": "Jokes around to loosen up the atmosphere. Will work with you to schedule an one-on-one meeting.\r BUT: His classes start with fake lectures that seem to be his way of warming up before he starts the real lecture. Then goes off on tangents that don't have anything to do with the class subject. Moreover, he promises things that he never ends up doing.",
+      "quality": 2.0,
+      "difficulty": 2.0,
+      "course": "",
+      "grade": "",
+      "date": "2013-12-30",
+      "tags": [],
+      "would_take_again": null,
+      "attendance": null,
+      "thumbs_up": 2,
+      "thumbs_down": 0
+    },
+    {
+      "comment": "Matt Jadud thoroughly knew what he was talking about in Computer Organization. Has high expectations and can be difficult, exams can take hours. Does a great job making sure nobody gets lost in what he is talking about and will be very reasonable about grades and allows revisions on tests. Very reasonable, enthusiastic, and high clarity.",
+      "quality": 4.0,
+      "difficulty": 3.0,
+      "course": "",
+      "grade": "",
+      "date": "2013-10-30",
+      "tags": [],
+      "would_take_again": null,
+      "attendance": null,
+      "thumbs_up": 0,
+      "thumbs_down": 0
+    }
+  ],
+  "plain_text": "Professor: Matt Jadud\nDepartment: Computer Science\nSchool: Berea College\nOverall Rating: 3.9 / 5\nDifficulty: 2.6 / 5\nWould Take Again: -1.0%\nNumber of Ratings: 5\n\n--- Student Reviews ---\n\nReview 1:\n  Quality: 2.0 | Difficulty: 3.0\n  Date: 2015-10-29\n  Comment: Prof. Jadud is very knowledgeable, and is a great educator. However, he tends to go off topic and teach material that we didn't sign up for. Despite that, he's one of the best professors on campus.\n\nReview 2:\n  Quality: 5.0 | Difficulty: 3.0\n  Date: 2015-10-25\n  Comment: He is very inspirational to minority groups, and makes the majority well aware of racism issues and competition in the real world. He cares about students being treated fairly. He is very supportive and helpful throughout my growth in his class. One of my favorite professors in Berea College!\n\nReview 3:\n  Quality: 4.0 | Difficulty: 2.0\n  Date: 2014-05-28\n  Comment: Matt is a great professor, very understanding too. I can never trade my TAD 265 experience for anything.\n\nReview 4:\n  Quality: 2.0 | Difficulty: 2.0\n  Date: 2013-12-30\n  Comment: Jokes around to loosen up the atmosphere. Will work with you to schedule an one-on-one meeting.\r BUT: His classes start with fake lectures that seem to be his way of warming up before he starts the real lecture. Then goes off on tangents that don't have anything to do with the class subject. Moreover, he promises things that he never ends up doing.\n\nReview 5:\n  Quality: 4.0 | Difficulty: 3.0\n  Date: 2013-10-30\n  Comment: Matt Jadud thoroughly knew what he was talking about in Computer Organization. Has high expectations and can be difficult, exams can take hours. Does a great job making sure nobody gets lost in what he is talking about and will be very reasonable about grades and allows revisions on tests. Very reasonable, enthusiastic, and high clarity.\n"
+}

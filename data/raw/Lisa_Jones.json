@@ -1,0 +1,211 @@
+{
+  "professor_name": "Lisa Jones",
+  "department": "Mathematics",
+  "school": "Berea College",
+  "overall_rating": 1.5,
+  "difficulty": 4.7,
+  "would_take_again_pct": 8.3333,
+  "num_ratings": 12,
+  "reviews": [
+    {
+      "comment": "RUN!!! This class was one of the worst classes I have taken thus far. Everyday the professor belittles me and other students. She is condescending and believes that she is ultimate law, forgetting that we are adults. Everyday is a new battle, and I cannot believe that she is still allowed to teach here. ",
+      "quality": 1.0,
+      "difficulty": 4.0,
+      "course": "",
+      "grade": "",
+      "date": "2026-04-07",
+      "tags": [
+        "Tough grader",
+        "Participation matters",
+        "Lots of homework"
+      ],
+      "would_take_again": null,
+      "attendance": null,
+      "thumbs_up": 0,
+      "thumbs_down": 0
+    },
+    {
+      "comment": "Absolutely avoid taking this class by any means necessary. ANY!!! She belittles her students, forgets how to teach topics, refuses to let you take a different class, and humiliates you if you ask questions or ask her to explain her work.",
+      "quality": 1.0,
+      "difficulty": 5.0,
+      "course": "",
+      "grade": "",
+      "date": "2025-10-16",
+      "tags": [
+        "Tough grader",
+        "Lots of homework"
+      ],
+      "would_take_again": null,
+      "attendance": null,
+      "thumbs_up": 0,
+      "thumbs_down": 0
+    },
+    {
+      "comment": "She humiliates students in front of the whole class and then makes jokes as a way of showing she's sorry (she's not). She'll skip over certain parts of the lesson because she forgot how to do it or asks how we as students would solve it. There's been times she assigns homework on things we haven't even learned yet. She's just not good at teaching.",
+      "quality": 1.0,
+      "difficulty": 4.0,
+      "course": "",
+      "grade": "",
+      "date": "2025-08-31",
+      "tags": [
+        "Lots of homework"
+      ],
+      "would_take_again": null,
+      "attendance": null,
+      "thumbs_up": 0,
+      "thumbs_down": 0
+    },
+    {
+      "comment": " Mrs. Jones was actually a really kind person however she held unrealistic expectations for her students. It was too much homework and the lessons she taught in class were way different than the homework. It's not the end of the world if she's your professor but good luck!",
+      "quality": 2.0,
+      "difficulty": 4.0,
+      "course": "",
+      "grade": "",
+      "date": "2024-12-13",
+      "tags": [
+        "Lots of homework",
+        "So many papers",
+        "Accessible outside class"
+      ],
+      "would_take_again": null,
+      "attendance": null,
+      "thumbs_up": 0,
+      "thumbs_down": 0
+    },
+    {
+      "comment": "Please be ready to do 5 pages in two days, while also reading and commenting on a self help book that has nothing to do with mathematics. There aren't many professors that make me dislike subjects, but she is one of them. Made me consider changing my major so I wouldn't have so much math.",
+      "quality": 1.0,
+      "difficulty": 4.0,
+      "course": "",
+      "grade": "",
+      "date": "2024-02-28",
+      "tags": [
+        "Tough grader",
+        "Lots of homework",
+        "Lecture heavy"
+      ],
+      "would_take_again": null,
+      "attendance": null,
+      "thumbs_up": 0,
+      "thumbs_down": 0
+    },
+    {
+      "comment": "WOMP WOMP. ",
+      "quality": 1.0,
+      "difficulty": 5.0,
+      "course": "",
+      "grade": "",
+      "date": "2024-02-28",
+      "tags": [
+        "Tough grader",
+        "Lots of homework"
+      ],
+      "would_take_again": null,
+      "attendance": null,
+      "thumbs_up": 0,
+      "thumbs_down": 0
+    },
+    {
+      "comment": "Lisa is a very sweet person but she isn't a good teacher. She has random bursts of happiness at like 8am which is annoying. She grades hard and if it's not done her way then it's wrong. Her TAs suck a lot. Cried a lot during my first semester because of this class. Didn't learn anything. I wouldn't take her if I needed to.",
+      "quality": 2.0,
+      "difficulty": 5.0,
+      "course": "",
+      "grade": "",
+      "date": "2022-10-28",
+      "tags": [
+        "Tough grader",
+        "Lots of homework",
+        "Test heavy"
+      ],
+      "would_take_again": null,
+      "attendance": null,
+      "thumbs_up": 0,
+      "thumbs_down": 0
+    },
+    {
+      "comment": "one word playing a video game on impossible level.",
+      "quality": 1.0,
+      "difficulty": 5.0,
+      "course": "",
+      "grade": "",
+      "date": "2022-09-07",
+      "tags": [
+        "Lots of homework",
+        "So many papers",
+        "Test heavy"
+      ],
+      "would_take_again": null,
+      "attendance": null,
+      "thumbs_up": 0,
+      "thumbs_down": 0
+    },
+    {
+      "comment": "All I would say is get ready ",
+      "quality": 1.0,
+      "difficulty": 5.0,
+      "course": "",
+      "grade": "",
+      "date": "2022-09-07",
+      "tags": [
+        "Lots of homework",
+        "So many papers",
+        "Lecture heavy"
+      ],
+      "would_take_again": null,
+      "attendance": null,
+      "thumbs_up": 0,
+      "thumbs_down": 0
+    },
+    {
+      "comment": "The teacher was too hard for no apparent reason and made the class a very stressful environment. I have lost lots of sleepover this class and my mental health had worsened. Overall if you are in this class try your best to leave and get out of it because the suffering is bad. This class is so terrible it has given me permanent anxiety and headaches",
+      "quality": 1.0,
+      "difficulty": 5.0,
+      "course": "",
+      "grade": "",
+      "date": "2022-09-07",
+      "tags": [
+        "Tough grader",
+        "Lots of homework",
+        "So many papers"
+      ],
+      "would_take_again": null,
+      "attendance": null,
+      "thumbs_up": 0,
+      "thumbs_down": 0
+    },
+    {
+      "comment": "Do not take this class, you will regret it.  She was impossible, disrespectful, and made this class WAY harder than it needed to be.  I will drop out before I ever sit though a class with her again.  She frequently messed things up and humiliated students insisting they were wrong when she couldnt do basic math.  This class made me hate my life.",
+      "quality": 1.0,
+      "difficulty": 5.0,
+      "course": "",
+      "grade": "",
+      "date": "2020-09-30",
+      "tags": [
+        "Tough grader",
+        "Lots of homework"
+      ],
+      "would_take_again": null,
+      "attendance": null,
+      "thumbs_up": 0,
+      "thumbs_down": 0
+    },
+    {
+      "comment": "Mrs. Jones is a gem. She's caring, funny, cheerful, and knows her stuff. She's strict but kind. I had her for two semesters back to back; there is not a more engaging teacher. She is always available outside class. She taught me how to understand math in a way that wasn't just putting things into a calculator. She genuinely cares about you.",
+      "quality": 5.0,
+      "difficulty": 5.0,
+      "course": "",
+      "grade": "",
+      "date": "2020-09-08",
+      "tags": [
+        "Accessible outside class",
+        "Inspirational",
+        "Caring"
+      ],
+      "would_take_again": null,
+      "attendance": null,
+      "thumbs_up": 0,
+      "thumbs_down": 0
+    }
+  ],
+  "plain_text": "Professor: Lisa Jones\nDepartment: Mathematics\nSchool: Berea College\nOverall Rating: 1.5 / 5\nDifficulty: 4.7 / 5\nWould Take Again: 8.3333%\nNumber of Ratings: 12\n\n--- Student Reviews ---\n\nReview 1:\n  Quality: 1.0 | Difficulty: 4.0\n  Date: 2026-04-07\n  Comment: RUN!!! This class was one of the worst classes I have taken thus far. Everyday the professor belittles me and other students. She is condescending and believes that she is ultimate law, forgetting that we are adults. Everyday is a new battle, and I cannot believe that she is still allowed to teach here. \n  Tags: Tough grader, Participation matters, Lots of homework\n\nReview 2:\n  Quality: 1.0 | Difficulty: 5.0\n  Date: 2025-10-16\n  Comment: Absolutely avoid taking this class by any means necessary. ANY!!! She belittles her students, forgets how to teach topics, refuses to let you take a different class, and humiliates you if you ask questions or ask her to explain her work.\n  Tags: Tough grader, Lots of homework\n\nReview 3:\n  Quality: 1.0 | Difficulty: 4.0\n  Date: 2025-08-31\n  Comment: She humiliates students in front of the whole class and then makes jokes as a way of showing she's sorry (she's not). She'll skip over certain parts of the lesson because she forgot how to do it or asks how we as students would solve it. There's been times she assigns homework on things we haven't even learned yet. She's just not good at teaching.\n  Tags: Lots of homework\n\nReview 4:\n  Quality: 2.0 | Difficulty: 4.0\n  Date: 2024-12-13\n  Comment:  Mrs. Jones was actually a really kind person however she held unrealistic expectations for her students. It was too much homework and the lessons she taught in class were way different than the homework. It's not the end of the world if she's your professor but good luck!\n  Tags: Lots of homework, So many papers, Accessible outside class\n\nReview 5:\n  Quality: 1.0 | Difficulty: 4.0\n  Date: 2024-02-28\n  Comment: Please be ready to do 5 pages in two days, while also reading and commenting on a self help book that has nothing to do with mathematics. There aren't many professors that make me dislike subjects, but she is one of them. Made me consider changing my major so I wouldn't have so much math.\n  Tags: Tough grader, Lots of homework, Lecture heavy\n\nReview 6:\n  Quality: 1.0 | Difficulty: 5.0\n  Date: 2024-02-28\n  Comment: WOMP WOMP. \n  Tags: Tough grader, Lots of homework\n\nReview 7:\n  Quality: 2.0 | Difficulty: 5.0\n  Date: 2022-10-28\n  Comment: Lisa is a very sweet person but she isn't a good teacher. She has random bursts of happiness at like 8am which is annoying. She grades hard and if it's not done her way then it's wrong. Her TAs suck a lot. Cried a lot during my first semester because of this class. Didn't learn anything. I wouldn't take her if I needed to.\n  Tags: Tough grader, Lots of homework, Test heavy\n\nReview 8:\n  Quality: 1.0 | Difficulty: 5.0\n  Date: 2022-09-07\n  Comment: one word playing a video game on impossible level.\n  Tags: Lots of homework, So many papers, Test heavy\n\nReview 9:\n  Quality: 1.0 | Difficulty: 5.0\n  Date: 2022-09-07\n  Comment: All I would say is get ready \n  Tags: Lots of homework, So many papers, Lecture heavy\n\nReview 10:\n  Quality: 1.0 | Difficulty: 5.0\n  Date: 2022-09-07\n  Comment: The teacher was too hard for no apparent reason and made the class a very stressful environment. I have lost lots of sleepover this class and my mental health had worsened. Overall if you are in this class try your best to leave and get out of it because the suffering is bad. This class is so terrible it has given me permanent anxiety and headaches\n  Tags: Tough grader, Lots of homework, So many papers\n\nReview 11:\n  Quality: 1.0 | Difficulty: 5.0\n  Date: 2020-09-30\n  Comment: Do not take this class, you will regret it.  She was impossible, disrespectful, and made this class WAY harder than it needed to be.  I will drop out before I ever sit though a class with her again.  She frequently messed things up and humiliated students insisting they were wrong when she couldnt do basic math.  This class made me hate my life.\n  Tags: Tough grader, Lots of homework\n\nReview 12:\n  Quality: 5.0 | Difficulty: 5.0\n  Date: 2020-09-08\n  Comment: Mrs. Jones is a gem. She's caring, funny, cheerful, and knows her stuff. She's strict but kind. I had her for two semesters back to back; there is not a more engaging teacher. She is always available outside class. She taught me how to understand math in a way that wasn't just putting things into a calculator. She genuinely cares about you.\n  Tags: Accessible outside class, Inspirational, Caring\n"
+}

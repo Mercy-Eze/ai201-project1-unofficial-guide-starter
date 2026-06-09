@@ -1,0 +1,119 @@
+{
+  "professor_name": "Terri Thesing",
+  "department": "Mathematics",
+  "school": "Berea College",
+  "overall_rating": 4.9,
+  "difficulty": 2.9,
+  "would_take_again_pct": 100.0,
+  "num_ratings": 7,
+  "reviews": [
+    {
+      "comment": "Mrs. Thesing is such a caring and amazing professor. The class is built to really challenge you and push your boundaries. She really helps and guides you if you are struggling.",
+      "quality": 5.0,
+      "difficulty": 5.0,
+      "course": "",
+      "grade": "",
+      "date": "2021-03-24",
+      "tags": [
+        "Gives good feedback",
+        "Respected",
+        "Test heavy"
+      ],
+      "would_take_again": null,
+      "attendance": null,
+      "thumbs_up": 0,
+      "thumbs_down": 0
+    },
+    {
+      "comment": "its been nearly two years now since i had this class, and she still remembers my name, and cares about my personal life. not gonna lie, i hated her when i first took her, as i felt she was talking down to us, but now i can see that she was pushing us to do her best in her own way. 10/10 would recommend",
+      "quality": 5.0,
+      "difficulty": 3.0,
+      "course": "",
+      "grade": "",
+      "date": "2019-06-03",
+      "tags": [
+        "Gives good feedback",
+        "Respected",
+        "Lots of homework"
+      ],
+      "would_take_again": null,
+      "attendance": null,
+      "thumbs_up": 0,
+      "thumbs_down": 0
+    },
+    {
+      "comment": "Thesing will push you to do better. She cares about how her students are doing in her courses. She will go out of her way to help you. She will make time with you to redo quizzes, exams, and even tutoring. Shes great.",
+      "quality": 5.0,
+      "difficulty": 5.0,
+      "course": "",
+      "grade": "",
+      "date": "2018-05-09",
+      "tags": [
+        "Participation matters",
+        "Gives good feedback",
+        "LOTS OF HOMEWORK"
+      ],
+      "would_take_again": null,
+      "attendance": null,
+      "thumbs_up": 0,
+      "thumbs_down": 0
+    },
+    {
+      "comment": "Professor Thesing is awesome. She's always available outside of class, she offers solid advice on math and on life, she is very very patient and just overall great. Her classes go at a great pace, she makes sure everyone understands before going on. Although, if you miss a class, you are likely to get behind, there is a lot of homework.",
+      "quality": 5.0,
+      "difficulty": 1.0,
+      "course": "",
+      "grade": "",
+      "date": "2016-11-27",
+      "tags": [
+        "Respected",
+        "LOTS OF HOMEWORK",
+        "ACCESSIBLE OUTSIDE CLASS"
+      ],
+      "would_take_again": null,
+      "attendance": null,
+      "thumbs_up": 0,
+      "thumbs_down": 0
+    },
+    {
+      "comment": "Dr. Thesing is awesome! I love her so much. She goes to incredible lengths to make sure everyone is on the same page! The homework isn't awful, and I love going to her class! She's great. Take her classes!",
+      "quality": 5.0,
+      "difficulty": 2.0,
+      "course": "",
+      "grade": "",
+      "date": "2015-11-29",
+      "tags": [],
+      "would_take_again": null,
+      "attendance": null,
+      "thumbs_up": 0,
+      "thumbs_down": 0
+    },
+    {
+      "comment": "She's fantastic. She teaches the non-credit math courses and I've had 2 semesters with her now. Crystal-clear, teaches in a very supportive and nonchalant way that makes you feel like you can do anything even if it used to scare you in high school. You want her. Take her classes. ",
+      "quality": 5.0,
+      "difficulty": 2.0,
+      "course": "",
+      "grade": "",
+      "date": "2015-03-09",
+      "tags": [],
+      "would_take_again": null,
+      "attendance": null,
+      "thumbs_up": 0,
+      "thumbs_down": 0
+    },
+    {
+      "comment": "Ms. Thesing is a wonderful math teacher! She is always there to help and really cares about her students. She bends over backwards to make sure everyone is where they need to be. Totally recommend her especially if you struggle with math. Its almost impossible to fail her class.",
+      "quality": 4.0,
+      "difficulty": 2.0,
+      "course": "",
+      "grade": "",
+      "date": "2014-04-14",
+      "tags": [],
+      "would_take_again": null,
+      "attendance": null,
+      "thumbs_up": 0,
+      "thumbs_down": 0
+    }
+  ],
+  "plain_text": "Professor: Terri Thesing\nDepartment: Mathematics\nSchool: Berea College\nOverall Rating: 4.9 / 5\nDifficulty: 2.9 / 5\nWould Take Again: 100.0%\nNumber of Ratings: 7\n\n--- Student Reviews ---\n\nReview 1:\n  Quality: 5.0 | Difficulty: 5.0\n  Date: 2021-03-24\n  Comment: Mrs. Thesing is such a caring and amazing professor. The class is built to really challenge you and push your boundaries. She really helps and guides you if you are struggling.\n  Tags: Gives good feedback, Respected, Test heavy\n\nReview 2:\n  Quality: 5.0 | Difficulty: 3.0\n  Date: 2019-06-03\n  Comment: its been nearly two years now since i had this class, and she still remembers my name, and cares about my personal life. not gonna lie, i hated her when i first took her, as i felt she was talking down to us, but now i can see that she was pushing us to do her best in her own way. 10/10 would recommend\n  Tags: Gives good feedback, Respected, Lots of homework\n\nReview 3:\n  Quality: 5.0 | Difficulty: 5.0\n  Date: 2018-05-09\n  Comment: Thesing will push you to do better. She cares about how her students are doing in her courses. She will go out of her way to help you. She will make time with you to redo quizzes, exams, and even tutoring. Shes great.\n  Tags: Participation matters, Gives good feedback, LOTS OF HOMEWORK\n\nReview 4:\n  Quality: 5.0 | Difficulty: 1.0\n  Date: 2016-11-27\n  Comment: Professor Thesing is awesome. She's always available outside of class, she offers solid advice on math and on life, she is very very patient and just overall great. Her classes go at a great pace, she makes sure everyone understands before going on. Although, if you miss a class, you are likely to get behind, there is a lot of homework.\n  Tags: Respected, LOTS OF HOMEWORK, ACCESSIBLE OUTSIDE CLASS\n\nReview 5:\n  Quality: 5.0 | Difficulty: 2.0\n  Date: 2015-11-29\n  Comment: Dr. Thesing is awesome! I love her so much. She goes to incredible lengths to make sure everyone is on the same page! The homework isn't awful, and I love going to her class! She's great. Take her classes!\n\nReview 6:\n  Quality: 5.0 | Difficulty: 2.0\n  Date: 2015-03-09\n  Comment: She's fantastic. She teaches the non-credit math courses and I've had 2 semesters with her now. Crystal-clear, teaches in a very supportive and nonchalant way that makes you feel like you can do anything even if it used to scare you in high school. You want her. Take her classes. \n\nReview 7:\n  Quality: 4.0 | Difficulty: 2.0\n  Date: 2014-04-14\n  Comment: Ms. Thesing is a wonderful math teacher! She is always there to help and really cares about her students. She bends over backwards to make sure everyone is where they need to be. Totally recommend her especially if you struggle with math. Its almost impossible to fail her class.\n"
+}

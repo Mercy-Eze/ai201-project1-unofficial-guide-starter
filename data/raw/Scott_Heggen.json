@@ -1,0 +1,171 @@
+{
+  "professor_name": "Scott Heggen",
+  "department": "Computer Science",
+  "school": "Berea College",
+  "overall_rating": 3.2,
+  "difficulty": 2.6,
+  "would_take_again_pct": 42.8571,
+  "num_ratings": 11,
+  "reviews": [
+    {
+      "comment": "My suggestion for Scott is to engage in anti-white supremacy culture training, because he's certainly one. Special topics include only one right way, paternalism, power hoarding, fear of open conflict, etc.",
+      "quality": 1.0,
+      "difficulty": 1.0,
+      "course": "",
+      "grade": "",
+      "date": "2025-07-04",
+      "tags": [],
+      "would_take_again": null,
+      "attendance": null,
+      "thumbs_up": 0,
+      "thumbs_down": 0
+    },
+    {
+      "comment": "He wanna be woke 24/7. His thesis is that we all have biases toward Blacks & women & should work on our \"unconscious biases.\" He forgot the fact that he was hired to teach computer science.",
+      "quality": 1.0,
+      "difficulty": 2.0,
+      "course": "",
+      "grade": "",
+      "date": "2025-07-04",
+      "tags": [
+        "Get ready to read",
+        "Clear grading criteria",
+        "Gives good feedback"
+      ],
+      "would_take_again": null,
+      "attendance": null,
+      "thumbs_up": 0,
+      "thumbs_down": 0
+    },
+    {
+      "comment": "He doesn't get in the way of your learning. Homework makes sense. Can't go wrong with him. In CSC226, you learn a lot without expending an unreasonable amount of effort. Gave me the creeps the first month of the semester for some reason, no idea why. ",
+      "quality": 4.0,
+      "difficulty": 2.0,
+      "course": "",
+      "grade": "",
+      "date": "2025-04-16",
+      "tags": [
+        "Accessible outside class"
+      ],
+      "would_take_again": null,
+      "attendance": null,
+      "thumbs_up": 0,
+      "thumbs_down": 0
+    },
+    {
+      "comment": "Scott is an &quot;inclusiveness&quot; guy. Read to do implicit bias training. Jan is &quot;gender equality&quot; and &quot;employment&quot; girl. Mario is anything in between. One thing nobody ever does is what they're hired for: to teach computer science. Scott is the best among those, I must say, however.",
+      "quality": 2.0,
+      "difficulty": 1.0,
+      "course": "",
+      "grade": "",
+      "date": "2019-11-05",
+      "tags": [
+        "Respected",
+        "Lots of homework",
+        "EXTRA CREDIT"
+      ],
+      "would_take_again": null,
+      "attendance": null,
+      "thumbs_up": 0,
+      "thumbs_down": 1
+    },
+    {
+      "comment": "Scott is one of the best professor currently employed at Berea. I don't agree with the person who suggested to avoid him. He is a very friendly and understanding person. Definitely recommend!",
+      "quality": 5.0,
+      "difficulty": 3.0,
+      "course": "",
+      "grade": "",
+      "date": "2018-04-11",
+      "tags": [
+        "ACCESSIBLE OUTSIDE CLASS",
+        "Hilarious"
+      ],
+      "would_take_again": null,
+      "attendance": null,
+      "thumbs_up": 0,
+      "thumbs_down": 1
+    },
+    {
+      "comment": "Scott is the worst professor currently employed at Berea. It doesn't seem as though he knows the first thing about teaching. I got a high grade in the class, but I felt as though I learned nothing despite all of the long hours of homework I had to do. Do yourself a favor and avoid this guy.",
+      "quality": 1.0,
+      "difficulty": 5.0,
+      "course": "",
+      "grade": "",
+      "date": "2017-05-21",
+      "tags": [
+        "LOTS OF HOMEWORK",
+        "GROUP PROJECTS"
+      ],
+      "would_take_again": null,
+      "attendance": null,
+      "thumbs_up": 2,
+      "thumbs_down": 6
+    },
+    {
+      "comment": "Gave us long coding assignments to teach us about easy concepts. Made everything harder than it had to be. weekly quizzes and homework. decent professor.",
+      "quality": 3.0,
+      "difficulty": 5.0,
+      "course": "",
+      "grade": "",
+      "date": "2016-07-26",
+      "tags": [],
+      "would_take_again": null,
+      "attendance": null,
+      "thumbs_up": 2,
+      "thumbs_down": 0
+    },
+    {
+      "comment": "He is just amazing. He is the reason  I am pursuing CS.",
+      "quality": 5.0,
+      "difficulty": 3.0,
+      "course": "",
+      "grade": "",
+      "date": "2016-04-12",
+      "tags": [],
+      "would_take_again": null,
+      "attendance": null,
+      "thumbs_up": 0,
+      "thumbs_down": 2
+    },
+    {
+      "comment": "He quizzes you almost everyday. He makes the midterm seem so easy then grades super hard. He expects so much out of you even if you've never animated before. Overall, he's a good guy though.",
+      "quality": 3.0,
+      "difficulty": 2.0,
+      "course": "",
+      "grade": "",
+      "date": "2016-01-07",
+      "tags": [],
+      "would_take_again": null,
+      "attendance": null,
+      "thumbs_up": 0,
+      "thumbs_down": 1
+    },
+    {
+      "comment": "Scott is really friendly and laid-back. His animation class is amazing. In that class, he does not lecture a lot because, you know, it's computer science. Most of the things are learned through practice. We used a program called Alice. It's not the easiest program to use, but it will help you to grasp the basics of computer science concepts. ",
+      "quality": 5.0,
+      "difficulty": 2.0,
+      "course": "",
+      "grade": "",
+      "date": "2015-11-17",
+      "tags": [],
+      "would_take_again": null,
+      "attendance": null,
+      "thumbs_up": 0,
+      "thumbs_down": 1
+    },
+    {
+      "comment": "His lectures are always very clear and engaging. I enjoyed his class so much that I went to his class even when I could skip two days or so for the semester. He is very supportive and understanding, and he will go out of way to help students. I learned a lot from his class, and his class confirmed my decision to major in computer science. ",
+      "quality": 5.0,
+      "difficulty": 2.0,
+      "course": "",
+      "grade": "",
+      "date": "2015-11-03",
+      "tags": [],
+      "would_take_again": null,
+      "attendance": null,
+      "thumbs_up": 0,
+      "thumbs_down": 1
+    }
+  ],
+  "plain_text": "Professor: Scott Heggen\nDepartment: Computer Science\nSchool: Berea College\nOverall Rating: 3.2 / 5\nDifficulty: 2.6 / 5\nWould Take Again: 42.8571%\nNumber of Ratings: 11\n\n--- Student Reviews ---\n\nReview 1:\n  Quality: 1.0 | Difficulty: 1.0\n  Date: 2025-07-04\n  Comment: My suggestion for Scott is to engage in anti-white supremacy culture training, because he's certainly one. Special topics include only one right way, paternalism, power hoarding, fear of open conflict, etc.\n\nReview 2:\n  Quality: 1.0 | Difficulty: 2.0\n  Date: 2025-07-04\n  Comment: He wanna be woke 24/7. His thesis is that we all have biases toward Blacks & women & should work on our \"unconscious biases.\" He forgot the fact that he was hired to teach computer science.\n  Tags: Get ready to read, Clear grading criteria, Gives good feedback\n\nReview 3:\n  Quality: 4.0 | Difficulty: 2.0\n  Date: 2025-04-16\n  Comment: He doesn't get in the way of your learning. Homework makes sense. Can't go wrong with him. In CSC226, you learn a lot without expending an unreasonable amount of effort. Gave me the creeps the first month of the semester for some reason, no idea why. \n  Tags: Accessible outside class\n\nReview 4:\n  Quality: 2.0 | Difficulty: 1.0\n  Date: 2019-11-05\n  Comment: Scott is an &quot;inclusiveness&quot; guy. Read to do implicit bias training. Jan is &quot;gender equality&quot; and &quot;employment&quot; girl. Mario is anything in between. One thing nobody ever does is what they're hired for: to teach computer science. Scott is the best among those, I must say, however.\n  Tags: Respected, Lots of homework, EXTRA CREDIT\n\nReview 5:\n  Quality: 5.0 | Difficulty: 3.0\n  Date: 2018-04-11\n  Comment: Scott is one of the best professor currently employed at Berea. I don't agree with the person who suggested to avoid him. He is a very friendly and understanding person. Definitely recommend!\n  Tags: ACCESSIBLE OUTSIDE CLASS, Hilarious\n\nReview 6:\n  Quality: 1.0 | Difficulty: 5.0\n  Date: 2017-05-21\n  Comment: Scott is the worst professor currently employed at Berea. It doesn't seem as though he knows the first thing about teaching. I got a high grade in the class, but I felt as though I learned nothing despite all of the long hours of homework I had to do. Do yourself a favor and avoid this guy.\n  Tags: LOTS OF HOMEWORK, GROUP PROJECTS\n\nReview 7:\n  Quality: 3.0 | Difficulty: 5.0\n  Date: 2016-07-26\n  Comment: Gave us long coding assignments to teach us about easy concepts. Made everything harder than it had to be. weekly quizzes and homework. decent professor.\n\nReview 8:\n  Quality: 5.0 | Difficulty: 3.0\n  Date: 2016-04-12\n  Comment: He is just amazing. He is the reason  I am pursuing CS.\n\nReview 9:\n  Quality: 3.0 | Difficulty: 2.0\n  Date: 2016-01-07\n  Comment: He quizzes you almost everyday. He makes the midterm seem so easy then grades super hard. He expects so much out of you even if you've never animated before. Overall, he's a good guy though.\n\nReview 10:\n  Quality: 5.0 | Difficulty: 2.0\n  Date: 2015-11-17\n  Comment: Scott is really friendly and laid-back. His animation class is amazing. In that class, he does not lecture a lot because, you know, it's computer science. Most of the things are learned through practice. We used a program called Alice. It's not the easiest program to use, but it will help you to grasp the basics of computer science concepts. \n\nReview 11:\n  Quality: 5.0 | Difficulty: 2.0\n  Date: 2015-11-03\n  Comment: His lectures are always very clear and engaging. I enjoyed his class so much that I went to his class even when I could skip two days or so for the semester. He is very supportive and understanding, and he will go out of way to help students. I learned a lot from his class, and his class confirmed my decision to major in computer science. \n"
+}

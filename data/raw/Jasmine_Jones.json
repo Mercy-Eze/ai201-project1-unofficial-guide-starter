@@ -1,0 +1,92 @@
+{
+  "professor_name": "Jasmine Jones",
+  "department": "Computer Science",
+  "school": "Berea College",
+  "overall_rating": 2.4,
+  "difficulty": 3.4,
+  "would_take_again_pct": 20.0,
+  "num_ratings": 5,
+  "reviews": [
+    {
+      "comment": "Disorganized and hardly even 'taught', just had us read a self-help book and writes a bunch of papers. Writing is my strong suit and this was one of the hardest classes I took, not because the material was complex or challenging, but because there was an endless amount of busy work. I learned nothing.",
+      "quality": 2.0,
+      "difficulty": 3.0,
+      "course": "",
+      "grade": "",
+      "date": "2023-04-13",
+      "tags": [
+        "Group projects",
+        "Lots of homework",
+        "So many papers"
+      ],
+      "would_take_again": null,
+      "attendance": null,
+      "thumbs_up": 0,
+      "thumbs_down": 0
+    },
+    {
+      "comment": "Dr.Jones is a really good professor and an overall cool person. She cares about her students and is easy to talk to. She can be very disorganized and confusing at times. ",
+      "quality": 3.0,
+      "difficulty": 2.0,
+      "course": "",
+      "grade": "",
+      "date": "2022-12-26",
+      "tags": [
+        "Participation matters",
+        "Lots of homework",
+        "Caring"
+      ],
+      "would_take_again": null,
+      "attendance": null,
+      "thumbs_up": 0,
+      "thumbs_down": 0
+    },
+    {
+      "comment": "Extremely disorganized, doesn't really explain anything in class. Everything I learned was outside of class and when you asked for help, you were supposed to put it in a discord and have the other students help. I did this multiple times on my final project and I never received any sort of help.",
+      "quality": 1.0,
+      "difficulty": 4.0,
+      "course": "",
+      "grade": "",
+      "date": "2022-07-13",
+      "tags": [],
+      "would_take_again": null,
+      "attendance": null,
+      "thumbs_up": 0,
+      "thumbs_down": 0
+    },
+    {
+      "comment": "Good person, extremely disorganized. You will be provided a syllabus that will eventually look strikingly dissimilar to what you leave the class having done. ",
+      "quality": 1.0,
+      "difficulty": 4.0,
+      "course": "",
+      "grade": "",
+      "date": "2022-05-19",
+      "tags": [
+        "Get ready to read",
+        "Lots of homework"
+      ],
+      "would_take_again": null,
+      "attendance": null,
+      "thumbs_up": 0,
+      "thumbs_down": 0
+    },
+    {
+      "comment": "I really like her classes. I feel like I'm actually learning and I don't feel judged when I come to her with questions. Really cool professor!",
+      "quality": 5.0,
+      "difficulty": 4.0,
+      "course": "",
+      "grade": "",
+      "date": "2021-12-09",
+      "tags": [
+        "Gives good feedback",
+        "Get ready to read",
+        "Participation matters"
+      ],
+      "would_take_again": null,
+      "attendance": null,
+      "thumbs_up": 0,
+      "thumbs_down": 0
+    }
+  ],
+  "plain_text": "Professor: Jasmine Jones\nDepartment: Computer Science\nSchool: Berea College\nOverall Rating: 2.4 / 5\nDifficulty: 3.4 / 5\nWould Take Again: 20.0%\nNumber of Ratings: 5\n\n--- Student Reviews ---\n\nReview 1:\n  Quality: 2.0 | Difficulty: 3.0\n  Date: 2023-04-13\n  Comment: Disorganized and hardly even 'taught', just had us read a self-help book and writes a bunch of papers. Writing is my strong suit and this was one of the hardest classes I took, not because the material was complex or challenging, but because there was an endless amount of busy work. I learned nothing.\n  Tags: Group projects, Lots of homework, So many papers\n\nReview 2:\n  Quality: 3.0 | Difficulty: 2.0\n  Date: 2022-12-26\n  Comment: Dr.Jones is a really good professor and an overall cool person. She cares about her students and is easy to talk to. She can be very disorganized and confusing at times. \n  Tags: Participation matters, Lots of homework, Caring\n\nReview 3:\n  Quality: 1.0 | Difficulty: 4.0\n  Date: 2022-07-13\n  Comment: Extremely disorganized, doesn't really explain anything in class. Everything I learned was outside of class and when you asked for help, you were supposed to put it in a discord and have the other students help. I did this multiple times on my final project and I never received any sort of help.\n\nReview 4:\n  Quality: 1.0 | Difficulty: 4.0\n  Date: 2022-05-19\n  Comment: Good person, extremely disorganized. You will be provided a syllabus that will eventually look strikingly dissimilar to what you leave the class having done. \n  Tags: Get ready to read, Lots of homework\n\nReview 5:\n  Quality: 5.0 | Difficulty: 4.0\n  Date: 2021-12-09\n  Comment: I really like her classes. I feel like I'm actually learning and I don't feel judged when I come to her with questions. Really cool professor!\n  Tags: Gives good feedback, Get ready to read, Participation matters\n"
+}

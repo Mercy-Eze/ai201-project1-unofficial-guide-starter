@@ -1,0 +1,178 @@
+{
+  "professor_name": "Richard Maiti",
+  "department": "Computer Science",
+  "school": "Berea College",
+  "overall_rating": 4.6,
+  "difficulty": 3.1,
+  "would_take_again_pct": 90.0,
+  "num_ratings": 10,
+  "reviews": [
+    {
+      "comment": "He's a great guy, no doubt. But I think his understanding of the materials is very weak. He didn't understand basic python code and I had to debug for him. The whole semester was spent on basic SQL stuff that you can learn on codeacademy in less than an hour.",
+      "quality": 1.0,
+      "difficulty": 1.0,
+      "course": "",
+      "grade": "",
+      "date": "2019-11-02",
+      "tags": [
+        "Respected",
+        "Graded by few things",
+        "Caring"
+      ],
+      "would_take_again": null,
+      "attendance": null,
+      "thumbs_up": 0,
+      "thumbs_down": 1
+    },
+    {
+      "comment": "Good class! This is a really good class offered once in a while. I got an overview of security and learned nothing is anonymous that is posted. I got to meet multiple security experts from the field.",
+      "quality": 5.0,
+      "difficulty": 4.0,
+      "course": "",
+      "grade": "",
+      "date": "2019-10-30",
+      "tags": [
+        "Respected",
+        "Hilarious",
+        "Caring"
+      ],
+      "would_take_again": null,
+      "attendance": null,
+      "thumbs_up": 0,
+      "thumbs_down": 0
+    },
+    {
+      "comment": "He is inspiring and caring, tries to make the students learn. He also introduces new materials and resources, which other professors don't. Easy grader, and made me consider majoring in Computer Science, though that motivation was destroyed by the next CSC class I took with a different professor. Absolutely amzing!!",
+      "quality": 5.0,
+      "difficulty": 2.0,
+      "course": "",
+      "grade": "",
+      "date": "2019-06-19",
+      "tags": [
+        "Respected",
+        "Inspirational",
+        "Caring"
+      ],
+      "would_take_again": null,
+      "attendance": null,
+      "thumbs_up": 1,
+      "thumbs_down": 0
+    },
+    {
+      "comment": "Simply amazing! He's everything a professor needs to be; helpful, flexible, learning-oriented, accessible, and extremely considerate.",
+      "quality": 5.0,
+      "difficulty": 3.0,
+      "course": "",
+      "grade": "",
+      "date": "2019-04-04",
+      "tags": [
+        "Respected",
+        "Clear grading criteria",
+        "Caring"
+      ],
+      "would_take_again": null,
+      "attendance": null,
+      "thumbs_up": 1,
+      "thumbs_down": 0
+    },
+    {
+      "comment": "He is very chill, so my biggest criticism is that he could ask a little more from the students. He treats you like a responsible adult, which isn't a given in this department. He's also just a great person in general.",
+      "quality": 5.0,
+      "difficulty": 3.0,
+      "course": "",
+      "grade": "",
+      "date": "2018-12-19",
+      "tags": [
+        "Inspirational",
+        "ACCESSIBLE OUTSIDE CLASS",
+        "Caring"
+      ],
+      "would_take_again": null,
+      "attendance": null,
+      "thumbs_up": 3,
+      "thumbs_down": 0
+    },
+    {
+      "comment": "Wonderful professor! I would say he is the best professor in the whole department! He truly cares for you and knows what he is talking about! Really smart person, very knowledgeable and most importantly he knows the field he is teaching!!! (unlike other CS professors). He brings a lot of inspiration in his classes!",
+      "quality": 5.0,
+      "difficulty": 4.0,
+      "course": "",
+      "grade": "",
+      "date": "2018-12-07",
+      "tags": [
+        "Respected",
+        "ACCESSIBLE OUTSIDE CLASS",
+        "Amazing lectures"
+      ],
+      "would_take_again": null,
+      "attendance": null,
+      "thumbs_up": 5,
+      "thumbs_down": 0
+    },
+    {
+      "comment": "Dr. Maiti is very relational and flexible, he cares for his students deeply. He expresses that in clarifying complicated assignments, making changes that are necessary for students, and exposing us to new technology as well as opportunities outside of class such as conferences, independent study. He is also a great mentor.",
+      "quality": 5.0,
+      "difficulty": 4.0,
+      "course": "",
+      "grade": "",
+      "date": "2018-11-26",
+      "tags": [
+        "Inspirational",
+        "ACCESSIBLE OUTSIDE CLASS",
+        "Caring"
+      ],
+      "would_take_again": null,
+      "attendance": null,
+      "thumbs_up": 6,
+      "thumbs_down": 0
+    },
+    {
+      "comment": "Dr Maiti is genius , he cares about his students but he definitely want you to participate in both group works and individual works.",
+      "quality": 5.0,
+      "difficulty": 4.0,
+      "course": "",
+      "grade": "",
+      "date": "2018-11-06",
+      "tags": [],
+      "would_take_again": null,
+      "attendance": null,
+      "thumbs_up": 4,
+      "thumbs_down": 0
+    },
+    {
+      "comment": "Amazing professor!!! He doesn't make his class easy but rather lead you through difficult assignments so you become more skilled. He is very knowledgeable in the Computer Science field and will be able to answer all your questions. He helped me greatly in class and was helpful outside of class as well. The best professor",
+      "quality": 5.0,
+      "difficulty": 3.0,
+      "course": "",
+      "grade": "",
+      "date": "2018-04-26",
+      "tags": [
+        "Inspirational",
+        "Amazing lectures",
+        "Caring"
+      ],
+      "would_take_again": null,
+      "attendance": null,
+      "thumbs_up": 9,
+      "thumbs_down": 0
+    },
+    {
+      "comment": "Dr. Maiti is the best professor on campus! His CSC330 database class was amazing. He explained databases well and group projects helped greatly. He was always accessible after class and was ready to help. Gives good motivation to study and he is that type of professor who truly cares how well you do in class. HE IS THE BEST!!!",
+      "quality": 5.0,
+      "difficulty": 3.0,
+      "course": "",
+      "grade": "",
+      "date": "2018-04-26",
+      "tags": [
+        "Inspirational",
+        "ACCESSIBLE OUTSIDE CLASS",
+        "Caring"
+      ],
+      "would_take_again": null,
+      "attendance": null,
+      "thumbs_up": 11,
+      "thumbs_down": 1
+    }
+  ],
+  "plain_text": "Professor: Richard Maiti\nDepartment: Computer Science\nSchool: Berea College\nOverall Rating: 4.6 / 5\nDifficulty: 3.1 / 5\nWould Take Again: 90.0%\nNumber of Ratings: 10\n\n--- Student Reviews ---\n\nReview 1:\n  Quality: 1.0 | Difficulty: 1.0\n  Date: 2019-11-02\n  Comment: He's a great guy, no doubt. But I think his understanding of the materials is very weak. He didn't understand basic python code and I had to debug for him. The whole semester was spent on basic SQL stuff that you can learn on codeacademy in less than an hour.\n  Tags: Respected, Graded by few things, Caring\n\nReview 2:\n  Quality: 5.0 | Difficulty: 4.0\n  Date: 2019-10-30\n  Comment: Good class! This is a really good class offered once in a while. I got an overview of security and learned nothing is anonymous that is posted. I got to meet multiple security experts from the field.\n  Tags: Respected, Hilarious, Caring\n\nReview 3:\n  Quality: 5.0 | Difficulty: 2.0\n  Date: 2019-06-19\n  Comment: He is inspiring and caring, tries to make the students learn. He also introduces new materials and resources, which other professors don't. Easy grader, and made me consider majoring in Computer Science, though that motivation was destroyed by the next CSC class I took with a different professor. Absolutely amzing!!\n  Tags: Respected, Inspirational, Caring\n\nReview 4:\n  Quality: 5.0 | Difficulty: 3.0\n  Date: 2019-04-04\n  Comment: Simply amazing! He's everything a professor needs to be; helpful, flexible, learning-oriented, accessible, and extremely considerate.\n  Tags: Respected, Clear grading criteria, Caring\n\nReview 5:\n  Quality: 5.0 | Difficulty: 3.0\n  Date: 2018-12-19\n  Comment: He is very chill, so my biggest criticism is that he could ask a little more from the students. He treats you like a responsible adult, which isn't a given in this department. He's also just a great person in general.\n  Tags: Inspirational, ACCESSIBLE OUTSIDE CLASS, Caring\n\nReview 6:\n  Quality: 5.0 | Difficulty: 4.0\n  Date: 2018-12-07\n  Comment: Wonderful professor! I would say he is the best professor in the whole department! He truly cares for you and knows what he is talking about! Really smart person, very knowledgeable and most importantly he knows the field he is teaching!!! (unlike other CS professors). He brings a lot of inspiration in his classes!\n  Tags: Respected, ACCESSIBLE OUTSIDE CLASS, Amazing lectures\n\nReview 7:\n  Quality: 5.0 | Difficulty: 4.0\n  Date: 2018-11-26\n  Comment: Dr. Maiti is very relational and flexible, he cares for his students deeply. He expresses that in clarifying complicated assignments, making changes that are necessary for students, and exposing us to new technology as well as opportunities outside of class such as conferences, independent study. He is also a great mentor.\n  Tags: Inspirational, ACCESSIBLE OUTSIDE CLASS, Caring\n\nReview 8:\n  Quality: 5.0 | Difficulty: 4.0\n  Date: 2018-11-06\n  Comment: Dr Maiti is genius , he cares about his students but he definitely want you to participate in both group works and individual works.\n\nReview 9:\n  Quality: 5.0 | Difficulty: 3.0\n  Date: 2018-04-26\n  Comment: Amazing professor!!! He doesn't make his class easy but rather lead you through difficult assignments so you become more skilled. He is very knowledgeable in the Computer Science field and will be able to answer all your questions. He helped me greatly in class and was helpful outside of class as well. The best professor\n  Tags: Inspirational, Amazing lectures, Caring\n\nReview 10:\n  Quality: 5.0 | Difficulty: 3.0\n  Date: 2018-04-26\n  Comment: Dr. Maiti is the best professor on campus! His CSC330 database class was amazing. He explained databases well and group projects helped greatly. He was always accessible after class and was ready to help. Gives good motivation to study and he is that type of professor who truly cares how well you do in class. HE IS THE BEST!!!\n  Tags: Inspirational, ACCESSIBLE OUTSIDE CLASS, Caring\n"
+}

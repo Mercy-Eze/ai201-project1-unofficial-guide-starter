@@ -1,0 +1,181 @@
+{
+  "professor_name": "James Blackburn-Lynch",
+  "department": "Mathematics",
+  "school": "Berea College",
+  "overall_rating": 3.6,
+  "difficulty": 3.9,
+  "would_take_again_pct": 50.0,
+  "num_ratings": 12,
+  "reviews": [
+    {
+      "comment": "DOES NOT USE A CALENDAR. Has a half-page syllabus with zero information of topics to learn. Students have no idea what topics they'll learn and when, what homework they'll have, and when ANY test is scheduled. Speaks fast. Jumps right into lecture without background information. Office hours are not enough to help.",
+      "quality": 1.0,
+      "difficulty": 5.0,
+      "course": "",
+      "grade": "",
+      "date": "2024-01-19",
+      "tags": [
+        "Tough grader",
+        "Lots of homework",
+        "Test heavy"
+      ],
+      "would_take_again": null,
+      "attendance": null,
+      "thumbs_up": 0,
+      "thumbs_down": 0
+    },
+    {
+      "comment": "-Gives partial credit on exams and homework\n-Homework every night, 4-6 exams, no quizzes \n-Class participation is not required, but is helpful for learning the material \n-Helpful during office hours and willing to meet on zoom outside of his set hours",
+      "quality": 5.0,
+      "difficulty": 4.0,
+      "course": "",
+      "grade": "",
+      "date": "2023-07-27",
+      "tags": [
+        "Clear grading criteria",
+        "Gives good feedback"
+      ],
+      "would_take_again": null,
+      "attendance": null,
+      "thumbs_up": 0,
+      "thumbs_down": 0
+    },
+    {
+      "comment": "A good math prof, but his tests are loaded with &quot;Assume this is true (it's not)&quot; so he checks your understanding. If you don't understand the content, you won't get a good grade. I thought his TA graded way too hard but he gives a good amount of points on the test. He's also a really chill guy. BEWARE THE GATEWAY EXAMS!!! TAKE THEM EARLY!!!!!",
+      "quality": 5.0,
+      "difficulty": 3.0,
+      "course": "",
+      "grade": "",
+      "date": "2019-12-08",
+      "tags": [
+        "Accessible outside class",
+        "Test heavy",
+        "Lecture heavy"
+      ],
+      "would_take_again": null,
+      "attendance": null,
+      "thumbs_up": 0,
+      "thumbs_down": 0
+    },
+    {
+      "comment": "He doesnt go over the topics of the homework before he assigns it. Its really a learn for yourself process. If this is your style of learning you prefer then his class is perfect for you but if you prefer to go over what the homework is gonna be about then this isnt the teacher for you. He is a super chill and casual guy though.",
+      "quality": 1.0,
+      "difficulty": 4.0,
+      "course": "",
+      "grade": "",
+      "date": "2019-11-08",
+      "tags": [
+        "Tough grader"
+      ],
+      "would_take_again": null,
+      "attendance": null,
+      "thumbs_up": 0,
+      "thumbs_down": 0
+    },
+    {
+      "comment": "Students love him. ",
+      "quality": 3.0,
+      "difficulty": 4.0,
+      "course": "",
+      "grade": "",
+      "date": "2015-12-09",
+      "tags": [],
+      "would_take_again": null,
+      "attendance": null,
+      "thumbs_up": 0,
+      "thumbs_down": 0
+    },
+    {
+      "comment": "this professor is awesome!",
+      "quality": 5.0,
+      "difficulty": 3.0,
+      "course": "",
+      "grade": "",
+      "date": "2011-12-14",
+      "tags": [],
+      "would_take_again": null,
+      "attendance": null,
+      "thumbs_up": 0,
+      "thumbs_down": 0
+    },
+    {
+      "comment": "He's a genius!",
+      "quality": 4.0,
+      "difficulty": 4.0,
+      "course": "",
+      "grade": "",
+      "date": "2010-07-07",
+      "tags": [],
+      "would_take_again": null,
+      "attendance": null,
+      "thumbs_up": 0,
+      "thumbs_down": 0
+    },
+    {
+      "comment": "He's simply the best. Well, atleast for Cal. II. I enjoyed the class. He stands in the top 2 of about 9 Math teachers I have had in my life so far.",
+      "quality": 4.0,
+      "difficulty": 4.0,
+      "course": "",
+      "grade": "",
+      "date": "2009-04-29",
+      "tags": [],
+      "would_take_again": null,
+      "attendance": null,
+      "thumbs_up": 0,
+      "thumbs_down": 0
+    },
+    {
+      "comment": "James is the best teacher ever, I expected CAL III to be really boring but he just makes it so interesting. I will definitely take him again and again. He is so funny and easygoing and helpful, even when you ask for help not related to the class at all.",
+      "quality": 5.0,
+      "difficulty": 3.0,
+      "course": "",
+      "grade": "",
+      "date": "2008-04-11",
+      "tags": [],
+      "would_take_again": null,
+      "attendance": null,
+      "thumbs_up": 0,
+      "thumbs_down": 0
+    },
+    {
+      "comment": "James is a good teacher, he keeps his students awake and involved without pressuring them in class. He is very by the book grade-wise and will hold to his syllabus guidelines. If you want to learn the math then you won't have any problems! (Oh and turn in the homeworks, they're worth more than it seems)",
+      "quality": 3.0,
+      "difficulty": 4.0,
+      "course": "",
+      "grade": "",
+      "date": "2007-08-27",
+      "tags": [],
+      "would_take_again": null,
+      "attendance": null,
+      "thumbs_up": 0,
+      "thumbs_down": 0
+    },
+    {
+      "comment": "He is very scattered and full of energy at the same time. As a result, lectures are delivered fast while he makes thousands of different moves in front of the blackboard. He is so casual that I just cannot take the classes seriously. Very hard grader. His tests are awful because he would ask for counterexample or something egregiously obvious.",
+      "quality": 3.0,
+      "difficulty": 5.0,
+      "course": "",
+      "grade": "",
+      "date": "2007-01-19",
+      "tags": [],
+      "would_take_again": null,
+      "attendance": null,
+      "thumbs_up": 0,
+      "thumbs_down": 0
+    },
+    {
+      "comment": "He discriminates against international and non-math/science students,especially economics students. At least, he acted that way in our class. 20 people signed up and at the end, there were only 9 people left. He is smart and he likes his job. But he is sometimes not clear and simple to understand.",
+      "quality": 2.0,
+      "difficulty": 4.0,
+      "course": "",
+      "grade": "",
+      "date": "2005-04-14",
+      "tags": [],
+      "would_take_again": null,
+      "attendance": null,
+      "thumbs_up": 0,
+      "thumbs_down": 1
+    }
+  ],
+  "plain_text": "Professor: James Blackburn-Lynch\nDepartment: Mathematics\nSchool: Berea College\nOverall Rating: 3.6 / 5\nDifficulty: 3.9 / 5\nWould Take Again: 50.0%\nNumber of Ratings: 12\n\n--- Student Reviews ---\n\nReview 1:\n  Quality: 1.0 | Difficulty: 5.0\n  Date: 2024-01-19\n  Comment: DOES NOT USE A CALENDAR. Has a half-page syllabus with zero information of topics to learn. Students have no idea what topics they'll learn and when, what homework they'll have, and when ANY test is scheduled. Speaks fast. Jumps right into lecture without background information. Office hours are not enough to help.\n  Tags: Tough grader, Lots of homework, Test heavy\n\nReview 2:\n  Quality: 5.0 | Difficulty: 4.0\n  Date: 2023-07-27\n  Comment: -Gives partial credit on exams and homework\n-Homework every night, 4-6 exams, no quizzes \n-Class participation is not required, but is helpful for learning the material \n-Helpful during office hours and willing to meet on zoom outside of his set hours\n  Tags: Clear grading criteria, Gives good feedback\n\nReview 3:\n  Quality: 5.0 | Difficulty: 3.0\n  Date: 2019-12-08\n  Comment: A good math prof, but his tests are loaded with &quot;Assume this is true (it's not)&quot; so he checks your understanding. If you don't understand the content, you won't get a good grade. I thought his TA graded way too hard but he gives a good amount of points on the test. He's also a really chill guy. BEWARE THE GATEWAY EXAMS!!! TAKE THEM EARLY!!!!!\n  Tags: Accessible outside class, Test heavy, Lecture heavy\n\nReview 4:\n  Quality: 1.0 | Difficulty: 4.0\n  Date: 2019-11-08\n  Comment: He doesnt go over the topics of the homework before he assigns it. Its really a learn for yourself process. If this is your style of learning you prefer then his class is perfect for you but if you prefer to go over what the homework is gonna be about then this isnt the teacher for you. He is a super chill and casual guy though.\n  Tags: Tough grader\n\nReview 5:\n  Quality: 3.0 | Difficulty: 4.0\n  Date: 2015-12-09\n  Comment: Students love him. \n\nReview 6:\n  Quality: 5.0 | Difficulty: 3.0\n  Date: 2011-12-14\n  Comment: this professor is awesome!\n\nReview 7:\n  Quality: 4.0 | Difficulty: 4.0\n  Date: 2010-07-07\n  Comment: He's a genius!\n\nReview 8:\n  Quality: 4.0 | Difficulty: 4.0\n  Date: 2009-04-29\n  Comment: He's simply the best. Well, atleast for Cal. II. I enjoyed the class. He stands in the top 2 of about 9 Math teachers I have had in my life so far.\n\nReview 9:\n  Quality: 5.0 | Difficulty: 3.0\n  Date: 2008-04-11\n  Comment: James is the best teacher ever, I expected CAL III to be really boring but he just makes it so interesting. I will definitely take him again and again. He is so funny and easygoing and helpful, even when you ask for help not related to the class at all.\n\nReview 10:\n  Quality: 3.0 | Difficulty: 4.0\n  Date: 2007-08-27\n  Comment: James is a good teacher, he keeps his students awake and involved without pressuring them in class. He is very by the book grade-wise and will hold to his syllabus guidelines. If you want to learn the math then you won't have any problems! (Oh and turn in the homeworks, they're worth more than it seems)\n\nReview 11:\n  Quality: 3.0 | Difficulty: 5.0\n  Date: 2007-01-19\n  Comment: He is very scattered and full of energy at the same time. As a result, lectures are delivered fast while he makes thousands of different moves in front of the blackboard. He is so casual that I just cannot take the classes seriously. Very hard grader. His tests are awful because he would ask for counterexample or something egregiously obvious.\n\nReview 12:\n  Quality: 2.0 | Difficulty: 4.0\n  Date: 2005-04-14\n  Comment: He discriminates against international and non-math/science students,especially economics students. At least, he acted that way in our class. 20 people signed up and at the end, there were only 9 people left. He is smart and he likes his job. But he is sometimes not clear and simple to understand.\n"
+}

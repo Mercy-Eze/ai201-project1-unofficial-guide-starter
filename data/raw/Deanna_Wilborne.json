@@ -1,0 +1,60 @@
+{
+  "professor_name": "Deanna Wilborne",
+  "department": "Computer Science",
+  "school": "Berea College",
+  "overall_rating": 1.7,
+  "difficulty": 2.3,
+  "would_take_again_pct": 0.0,
+  "num_ratings": 3,
+  "reviews": [
+    {
+      "comment": "Meh. Very disorganized, you have no idea what's happening and neither does she. All the learning happens during teamworks and the readings. Contrary to popular opinion I do actually think she has the relevant experience, but it doesn't show because she's not the one teaching the material (like in most CS classes you're basically doing self-study).",
+      "quality": 2.0,
+      "difficulty": 3.0,
+      "course": "",
+      "grade": "",
+      "date": "2025-10-20",
+      "tags": [
+        "Beware of pop quizzes"
+      ],
+      "would_take_again": null,
+      "attendance": null,
+      "thumbs_up": 0,
+      "thumbs_down": 0
+    },
+    {
+      "comment": "The most disorganised person I've met in my life.",
+      "quality": 1.0,
+      "difficulty": 3.0,
+      "course": "",
+      "grade": "",
+      "date": "2025-09-24",
+      "tags": [
+        "Get ready to read",
+        "Participation matters",
+        "Beware of pop quizzes"
+      ],
+      "would_take_again": null,
+      "attendance": null,
+      "thumbs_up": 0,
+      "thumbs_down": 0
+    },
+    {
+      "comment": "Dr. Wilborne was a very easy professor as there was never homework unless you did not finish something in class and lots of ways to make up grades/extra credit opportunities. ",
+      "quality": 2.0,
+      "difficulty": 1.0,
+      "course": "",
+      "grade": "",
+      "date": "2023-11-07",
+      "tags": [
+        "Group projects",
+        "Beware of pop quizzes"
+      ],
+      "would_take_again": null,
+      "attendance": null,
+      "thumbs_up": 0,
+      "thumbs_down": 0
+    }
+  ],
+  "plain_text": "Professor: Deanna Wilborne\nDepartment: Computer Science\nSchool: Berea College\nOverall Rating: 1.7 / 5\nDifficulty: 2.3 / 5\nWould Take Again: 0.0%\nNumber of Ratings: 3\n\n--- Student Reviews ---\n\nReview 1:\n  Quality: 2.0 | Difficulty: 3.0\n  Date: 2025-10-20\n  Comment: Meh. Very disorganized, you have no idea what's happening and neither does she. All the learning happens during teamworks and the readings. Contrary to popular opinion I do actually think she has the relevant experience, but it doesn't show because she's not the one teaching the material (like in most CS classes you're basically doing self-study).\n  Tags: Beware of pop quizzes\n\nReview 2:\n  Quality: 1.0 | Difficulty: 3.0\n  Date: 2025-09-24\n  Comment: The most disorganised person I've met in my life.\n  Tags: Get ready to read, Participation matters, Beware of pop quizzes\n\nReview 3:\n  Quality: 2.0 | Difficulty: 1.0\n  Date: 2023-11-07\n  Comment: Dr. Wilborne was a very easy professor as there was never homework unless you did not finish something in class and lots of ways to make up grades/extra credit opportunities. \n  Tags: Group projects, Beware of pop quizzes\n"
+}

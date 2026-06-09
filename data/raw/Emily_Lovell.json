@@ -1,0 +1,63 @@
+{
+  "professor_name": "Emily Lovell",
+  "department": "Computer Science",
+  "school": "Berea College",
+  "overall_rating": 3.7,
+  "difficulty": 2.3,
+  "would_take_again_pct": 33.3333,
+  "num_ratings": 3,
+  "reviews": [
+    {
+      "comment": "She's okay as a professor, but her classes tend to get boring after while. Lots of homework, but they are not very challenging, so you feel bored. Grades fairly.",
+      "quality": 3.0,
+      "difficulty": 3.0,
+      "course": "",
+      "grade": "",
+      "date": "2019-06-19",
+      "tags": [
+        "Lots of homework",
+        "Accessible outside class",
+        "Group projects"
+      ],
+      "would_take_again": null,
+      "attendance": null,
+      "thumbs_up": 0,
+      "thumbs_down": 0
+    },
+    {
+      "comment": "She is okay as a professor, but very nice as a person. Yet I would rather not take her for any of the classes, as her classes are quite easy but the workload is heavy.",
+      "quality": 3.0,
+      "difficulty": 2.0,
+      "course": "",
+      "grade": "",
+      "date": "2019-06-18",
+      "tags": [
+        "Accessible outside class",
+        "Clear grading criteria",
+        "Tough grader"
+      ],
+      "would_take_again": null,
+      "attendance": null,
+      "thumbs_up": 0,
+      "thumbs_down": 0
+    },
+    {
+      "comment": "Extremely approachable and willing to take time in class to go over material that is confusing. Lots of hands on activities. Needs time out of class, but she takes takes careful attention to facilitate an amazing learning environment. I've taken all the CSC professors at least once, and this is the best CSC professor employed at Berea by far!",
+      "quality": 5.0,
+      "difficulty": 2.0,
+      "course": "",
+      "grade": "",
+      "date": "2018-12-19",
+      "tags": [
+        "Gives good feedback",
+        "Participation matters",
+        "Amazing lectures"
+      ],
+      "would_take_again": null,
+      "attendance": null,
+      "thumbs_up": 3,
+      "thumbs_down": 1
+    }
+  ],
+  "plain_text": "Professor: Emily Lovell\nDepartment: Computer Science\nSchool: Berea College\nOverall Rating: 3.7 / 5\nDifficulty: 2.3 / 5\nWould Take Again: 33.3333%\nNumber of Ratings: 3\n\n--- Student Reviews ---\n\nReview 1:\n  Quality: 3.0 | Difficulty: 3.0\n  Date: 2019-06-19\n  Comment: She's okay as a professor, but her classes tend to get boring after while. Lots of homework, but they are not very challenging, so you feel bored. Grades fairly.\n  Tags: Lots of homework, Accessible outside class, Group projects\n\nReview 2:\n  Quality: 3.0 | Difficulty: 2.0\n  Date: 2019-06-18\n  Comment: She is okay as a professor, but very nice as a person. Yet I would rather not take her for any of the classes, as her classes are quite easy but the workload is heavy.\n  Tags: Accessible outside class, Clear grading criteria, Tough grader\n\nReview 3:\n  Quality: 5.0 | Difficulty: 2.0\n  Date: 2018-12-19\n  Comment: Extremely approachable and willing to take time in class to go over material that is confusing. Lots of hands on activities. Needs time out of class, but she takes takes careful attention to facilitate an amazing learning environment. I've taken all the CSC professors at least once, and this is the best CSC professor employed at Berea by far!\n  Tags: Gives good feedback, Participation matters, Amazing lectures\n"
+}

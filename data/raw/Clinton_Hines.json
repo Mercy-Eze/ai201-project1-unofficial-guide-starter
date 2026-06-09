@@ -1,0 +1,184 @@
+{
+  "professor_name": "Clinton Hines",
+  "department": "Mathematics",
+  "school": "Berea College",
+  "overall_rating": 3.5,
+  "difficulty": 2.4,
+  "would_take_again_pct": 54.5455,
+  "num_ratings": 11,
+  "reviews": [
+    {
+      "comment": "Dr. Hines is fantastic. He's always fun, and enthusiastic about the subject he's teaching. His home-works aren't that long, and he is really generous with test notes. If you pay attention and do the work class with him will be a breeze. ",
+      "quality": 5.0,
+      "difficulty": 1.0,
+      "course": "",
+      "grade": "",
+      "date": "2026-04-19",
+      "tags": [],
+      "would_take_again": null,
+      "attendance": null,
+      "thumbs_up": 0,
+      "thumbs_down": 0
+    },
+    {
+      "comment": "He doesn't care about his students' performance, and he sucks at linear algebra. Sooo tired of teaching myself. He barely knows the subject i feel like. He goes too fast, doesn't care if you are on the same page. His exams are the worst in the whole math department. Fewer questions, and VERY easy to lose points. DON't recommend him at any cost. ",
+      "quality": 1.0,
+      "difficulty": 4.0,
+      "course": "",
+      "grade": "",
+      "date": "2025-11-05",
+      "tags": [],
+      "would_take_again": null,
+      "attendance": null,
+      "thumbs_up": 0,
+      "thumbs_down": 0
+    },
+    {
+      "comment": "Good person, bad professor. Just not good at explaining things, simple as that. It just sucks that I have to teach myself the material when that's his main job. He's friendly and enthousiastic. Works out some of the homework solutions in class. The tests are pretty short and open note + open book (but that doesn't make them easy).",
+      "quality": 2.0,
+      "difficulty": 4.0,
+      "course": "",
+      "grade": "",
+      "date": "2025-10-20",
+      "tags": [
+        "Group projects",
+        "Caring",
+        "Accessible outside class"
+      ],
+      "would_take_again": null,
+      "attendance": null,
+      "thumbs_up": 0,
+      "thumbs_down": 0
+    },
+    {
+      "comment": "Dr. Hines is my favorite professor! His lectures are hilarious, he goes around to help students during class, and goes over most of the answers to homework assignments in class. His quizzes are not hard. Great class!",
+      "quality": 5.0,
+      "difficulty": 2.0,
+      "course": "",
+      "grade": "",
+      "date": "2025-08-14",
+      "tags": [
+        "Clear grading criteria"
+      ],
+      "would_take_again": null,
+      "attendance": null,
+      "thumbs_up": 0,
+      "thumbs_down": 0
+    },
+    {
+      "comment": "This class was super simple. Almost all homework activities were done together in class.",
+      "quality": 4.0,
+      "difficulty": 1.0,
+      "course": "",
+      "grade": "",
+      "date": "2023-12-28",
+      "tags": [
+        "Clear grading criteria",
+        "Gives good feedback"
+      ],
+      "would_take_again": null,
+      "attendance": null,
+      "thumbs_up": 0,
+      "thumbs_down": 0
+    },
+    {
+      "comment": "This was such an easy class for the prq. We have quizzes about every 2 weeks, they're online and you get 3 chances. We have homework and assignments for each unit, but he goes over all of them in class. I didn't do any homework outside of class.",
+      "quality": 5.0,
+      "difficulty": 1.0,
+      "course": "",
+      "grade": "",
+      "date": "2023-11-08",
+      "tags": [
+        "Clear grading criteria",
+        "Hilarious",
+        "Caring"
+      ],
+      "would_take_again": null,
+      "attendance": null,
+      "thumbs_up": 0,
+      "thumbs_down": 0
+    },
+    {
+      "comment": "Any easy professor? Yes, if you &quot;fit in the line.&quot; I was kicked out for absenting while dealing with an emergency. He didn't read emails and rejected my explanations. A very hostile and demeaning experience. Also, his proofs aren't rigorous at all. But still better than other math profs. Don't expect to do anything with a math major from here.",
+      "quality": 1.0,
+      "difficulty": 1.0,
+      "course": "",
+      "grade": "",
+      "date": "2019-08-21",
+      "tags": [],
+      "would_take_again": null,
+      "attendance": null,
+      "thumbs_up": 0,
+      "thumbs_down": 0
+    },
+    {
+      "comment": "A very easy grader, he curves up even the homeworks and quizzes. Very funny and engaging, but sometimes seem a little offbeat.",
+      "quality": 5.0,
+      "difficulty": 3.0,
+      "course": "",
+      "grade": "",
+      "date": "2019-06-19",
+      "tags": [
+        "Inspirational",
+        "Test heavy",
+        "Caring"
+      ],
+      "would_take_again": null,
+      "attendance": null,
+      "thumbs_up": 0,
+      "thumbs_down": 0
+    },
+    {
+      "comment": "His lectures are not very helpful, but he is amazing as a person and really tries to help the students. Solid choice for a perspective class or for a non-major student.",
+      "quality": 4.0,
+      "difficulty": 4.0,
+      "course": "",
+      "grade": "",
+      "date": "2019-04-04",
+      "tags": [
+        "Accessible outside class",
+        "Test heavy",
+        "Clear grading criteria"
+      ],
+      "would_take_again": null,
+      "attendance": null,
+      "thumbs_up": 0,
+      "thumbs_down": 0
+    },
+    {
+      "comment": "In class, he's fun and engaging. Outside class, he never replies emails or messages on chat channel. Sometimes, he can be moody. He asked a guy in class never to come back for absenting three days, even though he has no attendance policy. He'll tell you early in the semester that he will change the syllabus to benefit you or even &quot;against you.&quot;",
+      "quality": 1.0,
+      "difficulty": 3.0,
+      "course": "",
+      "grade": "",
+      "date": "2019-03-15",
+      "tags": [
+        "Participation matters",
+        "Skip class? You won't pass.",
+        "Tough grader"
+      ],
+      "would_take_again": null,
+      "attendance": null,
+      "thumbs_up": 1,
+      "thumbs_down": 0
+    },
+    {
+      "comment": "My favorite professor at Berea. Very funny. Makes math interesting. Definitely recommend if you're not a math major. A lot of students dislike him because he works questions out in class without looking at the answers, sometimes getting them wrong, but he corrects them. He can move fast, but holds TA hours. Just a few homework problems due weekly.",
+      "quality": 5.0,
+      "difficulty": 2.0,
+      "course": "",
+      "grade": "",
+      "date": "2018-11-10",
+      "tags": [
+        "Clear grading criteria",
+        "Hilarious",
+        "GROUP PROJECTS"
+      ],
+      "would_take_again": null,
+      "attendance": null,
+      "thumbs_up": 0,
+      "thumbs_down": 2
+    }
+  ],
+  "plain_text": "Professor: Clinton Hines\nDepartment: Mathematics\nSchool: Berea College\nOverall Rating: 3.5 / 5\nDifficulty: 2.4 / 5\nWould Take Again: 54.5455%\nNumber of Ratings: 11\n\n--- Student Reviews ---\n\nReview 1:\n  Quality: 5.0 | Difficulty: 1.0\n  Date: 2026-04-19\n  Comment: Dr. Hines is fantastic. He's always fun, and enthusiastic about the subject he's teaching. His home-works aren't that long, and he is really generous with test notes. If you pay attention and do the work class with him will be a breeze. \n\nReview 2:\n  Quality: 1.0 | Difficulty: 4.0\n  Date: 2025-11-05\n  Comment: He doesn't care about his students' performance, and he sucks at linear algebra. Sooo tired of teaching myself. He barely knows the subject i feel like. He goes too fast, doesn't care if you are on the same page. His exams are the worst in the whole math department. Fewer questions, and VERY easy to lose points. DON't recommend him at any cost. \n\nReview 3:\n  Quality: 2.0 | Difficulty: 4.0\n  Date: 2025-10-20\n  Comment: Good person, bad professor. Just not good at explaining things, simple as that. It just sucks that I have to teach myself the material when that's his main job. He's friendly and enthousiastic. Works out some of the homework solutions in class. The tests are pretty short and open note + open book (but that doesn't make them easy).\n  Tags: Group projects, Caring, Accessible outside class\n\nReview 4:\n  Quality: 5.0 | Difficulty: 2.0\n  Date: 2025-08-14\n  Comment: Dr. Hines is my favorite professor! His lectures are hilarious, he goes around to help students during class, and goes over most of the answers to homework assignments in class. His quizzes are not hard. Great class!\n  Tags: Clear grading criteria\n\nReview 5:\n  Quality: 4.0 | Difficulty: 1.0\n  Date: 2023-12-28\n  Comment: This class was super simple. Almost all homework activities were done together in class.\n  Tags: Clear grading criteria, Gives good feedback\n\nReview 6:\n  Quality: 5.0 | Difficulty: 1.0\n  Date: 2023-11-08\n  Comment: This was such an easy class for the prq. We have quizzes about every 2 weeks, they're online and you get 3 chances. We have homework and assignments for each unit, but he goes over all of them in class. I didn't do any homework outside of class.\n  Tags: Clear grading criteria, Hilarious, Caring\n\nReview 7:\n  Quality: 1.0 | Difficulty: 1.0\n  Date: 2019-08-21\n  Comment: Any easy professor? Yes, if you &quot;fit in the line.&quot; I was kicked out for absenting while dealing with an emergency. He didn't read emails and rejected my explanations. A very hostile and demeaning experience. Also, his proofs aren't rigorous at all. But still better than other math profs. Don't expect to do anything with a math major from here.\n\nReview 8:\n  Quality: 5.0 | Difficulty: 3.0\n  Date: 2019-06-19\n  Comment: A very easy grader, he curves up even the homeworks and quizzes. Very funny and engaging, but sometimes seem a little offbeat.\n  Tags: Inspirational, Test heavy, Caring\n\nReview 9:\n  Quality: 4.0 | Difficulty: 4.0\n  Date: 2019-04-04\n  Comment: His lectures are not very helpful, but he is amazing as a person and really tries to help the students. Solid choice for a perspective class or for a non-major student.\n  Tags: Accessible outside class, Test heavy, Clear grading criteria\n\nReview 10:\n  Quality: 1.0 | Difficulty: 3.0\n  Date: 2019-03-15\n  Comment: In class, he's fun and engaging. Outside class, he never replies emails or messages on chat channel. Sometimes, he can be moody. He asked a guy in class never to come back for absenting three days, even though he has no attendance policy. He'll tell you early in the semester that he will change the syllabus to benefit you or even &quot;against you.&quot;\n  Tags: Participation matters, Skip class? You won't pass., Tough grader\n\nReview 11:\n  Quality: 5.0 | Difficulty: 2.0\n  Date: 2018-11-10\n  Comment: My favorite professor at Berea. Very funny. Makes math interesting. Definitely recommend if you're not a math major. A lot of students dislike him because he works questions out in class without looking at the answers, sometimes getting them wrong, but he corrects them. He can move fast, but holds TA hours. Just a few homework problems due weekly.\n  Tags: Clear grading criteria, Hilarious, GROUP PROJECTS\n"
+}

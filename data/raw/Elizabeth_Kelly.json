@@ -1,0 +1,214 @@
+{
+  "professor_name": "Elizabeth Kelly",
+  "department": "Mathematics",
+  "school": "Berea College",
+  "overall_rating": 1.5,
+  "difficulty": 3.9,
+  "would_take_again_pct": 18.1818,
+  "num_ratings": 13,
+  "reviews": [
+    {
+      "comment": "The goal of the professor is more to ascertain how smart she is & dispel her insecurities than to teach students. She often told us it took her 15 mins to do the homework. Excuse me? Didn't you do a Ph.D. in math? Made everything stressful, chaotic, & unpredictable. It seems to be a feature of the white mind to feel pleasure in others' suffering.",
+      "quality": 1.0,
+      "difficulty": 3.0,
+      "course": "",
+      "grade": "",
+      "date": "2023-01-23",
+      "tags": [],
+      "would_take_again": null,
+      "attendance": null,
+      "thumbs_up": 0,
+      "thumbs_down": 0
+    },
+    {
+      "comment": "She left the college and academia forever. Guys, time to stop ranting about her.",
+      "quality": 1.0,
+      "difficulty": 5.0,
+      "course": "",
+      "grade": "",
+      "date": "2019-10-03",
+      "tags": [
+        "Skip class? You won't pass."
+      ],
+      "would_take_again": null,
+      "attendance": null,
+      "thumbs_up": 0,
+      "thumbs_down": 0
+    },
+    {
+      "comment": "What I would like to add is that her assignments aren't useful. The feedback is nonexistent and the class looked like torture where little real learning happens. Depending on how you perceive her class, she can be very rude at you and leash out. A few friends were kicked out. So be careful if you have to take the class.",
+      "quality": 1.0,
+      "difficulty": 5.0,
+      "course": "",
+      "grade": "",
+      "date": "2019-08-17",
+      "tags": [
+        "Lots of homework",
+        "Inspirational",
+        "Tough grader"
+      ],
+      "would_take_again": null,
+      "attendance": null,
+      "thumbs_up": 0,
+      "thumbs_down": 0
+    },
+    {
+      "comment": "I honestly dont know what people dislike about Professor Kelly! She is kind and has done a good job teaching stats! I would definitely take this class again!",
+      "quality": 4.0,
+      "difficulty": 3.0,
+      "course": "",
+      "grade": "",
+      "date": "2018-11-09",
+      "tags": [
+        "LOTS OF HOMEWORK",
+        "Caring",
+        "GROUP PROJECTS"
+      ],
+      "would_take_again": null,
+      "attendance": null,
+      "thumbs_up": 0,
+      "thumbs_down": 2
+    },
+    {
+      "comment": "Awful teacher who is so rude to students and inconsiderate. She makes everything so complicated and gets pissed off easily. Not a good teacher at all.",
+      "quality": 1.0,
+      "difficulty": 4.0,
+      "course": "",
+      "grade": "",
+      "date": "2018-10-30",
+      "tags": [],
+      "would_take_again": null,
+      "attendance": null,
+      "thumbs_up": 2,
+      "thumbs_down": 0
+    },
+    {
+      "comment": "Prof. Kelly, although very nice, often comes into class obviously unprepared. Get ready to teach yourself (Youtube!!). Her TA is great, but she relies too much on group exercises and will make you do the work before explaining everything you need to know. She gets confused when you don't get it and to me, made stats more complicated than it is.",
+      "quality": 2.0,
+      "difficulty": 4.0,
+      "course": "",
+      "grade": "",
+      "date": "2018-10-22",
+      "tags": [
+        "Tough Grader",
+        "LOTS OF HOMEWORK",
+        "GROUP PROJECTS"
+      ],
+      "would_take_again": null,
+      "attendance": null,
+      "thumbs_up": 1,
+      "thumbs_down": 0
+    },
+    {
+      "comment": "Scary. Subjective. Chaotic. She asked a friend never to come the class because he wasn't taking notes, even though he was paying full attention. Occasionally, you will be graded for criteria not explicitly mentioned by her. For example, she would give assignments without asking you to explain, but she would give you zero for &quot;lacking explanations.&quot;",
+      "quality": 1.0,
+      "difficulty": 4.0,
+      "course": "",
+      "grade": "",
+      "date": "2018-09-22",
+      "tags": [
+        "Tough Grader",
+        "Skip class? You won't pass.",
+        "LOTS OF HOMEWORK"
+      ],
+      "would_take_again": null,
+      "attendance": null,
+      "thumbs_up": 4,
+      "thumbs_down": 0
+    },
+    {
+      "comment": "Wouldnt lecture in class. Expected us to watch videos of her outside of class to learn material. Spent most of my time on YouTube or Khan Academy to help with the actual homework or study for tests.",
+      "quality": 1.0,
+      "difficulty": 4.0,
+      "course": "",
+      "grade": "",
+      "date": "2018-07-20",
+      "tags": [
+        "Tough Grader",
+        "Skip class? You won't pass.",
+        "GROUP PROJECTS"
+      ],
+      "would_take_again": null,
+      "attendance": null,
+      "thumbs_up": 5,
+      "thumbs_down": 0
+    },
+    {
+      "comment": "I had to take this class for my CS degree and it added nothing to it. She could make the simplest thing sound like rocket science. She grades you for things she doesnt ask you to do. Ive lost many points because I was supposed to explain my answer, even though that wasnt stated in the question. Shes also be kind of rude. Dont take her classes.",
+      "quality": 1.0,
+      "difficulty": 2.0,
+      "course": "",
+      "grade": "",
+      "date": "2018-03-25",
+      "tags": [
+        "Tough Grader",
+        "LOTS OF HOMEWORK",
+        "TEST HEAVY"
+      ],
+      "would_take_again": null,
+      "attendance": null,
+      "thumbs_up": 8,
+      "thumbs_down": 0
+    },
+    {
+      "comment": "Operations research is a tough class, but Dr. Kelly made it unbearably difficult and boring. She gives unclear instructions in her lectures and her assignment instructions. In short, she simply does not explain and present her material well. She also often makes mistakes in her teaching, which makes the material more confusing. Her grading is harsh",
+      "quality": 1.0,
+      "difficulty": 5.0,
+      "course": "",
+      "grade": "",
+      "date": "2018-01-28",
+      "tags": [
+        "Tough Grader",
+        "LOTS OF HOMEWORK",
+        "GRADED BY FEW THINGS"
+      ],
+      "would_take_again": null,
+      "attendance": null,
+      "thumbs_up": 7,
+      "thumbs_down": 0
+    },
+    {
+      "comment": "I believe she cares about her students, but I'm not clear whether it is a veneer. The more I take her classes, the more I hate math. She is not clear about what she wants. The way she explains things is non-intuitive, and you'll need a lot of memorization and tedious homework. She makes math boring and probably has some ego issues.",
+      "quality": 1.0,
+      "difficulty": 3.0,
+      "course": "",
+      "grade": "",
+      "date": "2017-02-15",
+      "tags": [
+        "Skip class? You won't pass.",
+        "LOTS OF HOMEWORK"
+      ],
+      "would_take_again": null,
+      "attendance": null,
+      "thumbs_up": 13,
+      "thumbs_down": 0
+    },
+    {
+      "comment": "I hated her class. She gives writing assignments which she grades harder than a writing class (she gave me a 0 on one). She wants you to write detailed explanations on her homework even if it is a repetitive question with different numbers and grades them harshly. She lectures for long times which makes me want to sleep every time.  Don't take her.",
+      "quality": 2.0,
+      "difficulty": 4.0,
+      "course": "",
+      "grade": "",
+      "date": "2016-04-20",
+      "tags": [],
+      "would_take_again": null,
+      "attendance": null,
+      "thumbs_up": 11,
+      "thumbs_down": 0
+    },
+    {
+      "comment": "Prof. Kelly is awful. She isn't clear and forces you to participate in unnecessary group work. She also doesn't teach the material effectively and then expects you to learn it from your group members (who also have no clue what is going on). Simply stated, I go through crossings, hoping to get hit by a vehicle, so I don't have to attend this class.",
+      "quality": 2.0,
+      "difficulty": 4.0,
+      "course": "",
+      "grade": "",
+      "date": "2015-10-27",
+      "tags": [],
+      "would_take_again": null,
+      "attendance": null,
+      "thumbs_up": 15,
+      "thumbs_down": 0
+    }
+  ],
+  "plain_text": "Professor: Elizabeth Kelly\nDepartment: Mathematics\nSchool: Berea College\nOverall Rating: 1.5 / 5\nDifficulty: 3.9 / 5\nWould Take Again: 18.1818%\nNumber of Ratings: 13\n\n--- Student Reviews ---\n\nReview 1:\n  Quality: 1.0 | Difficulty: 3.0\n  Date: 2023-01-23\n  Comment: The goal of the professor is more to ascertain how smart she is & dispel her insecurities than to teach students. She often told us it took her 15 mins to do the homework. Excuse me? Didn't you do a Ph.D. in math? Made everything stressful, chaotic, & unpredictable. It seems to be a feature of the white mind to feel pleasure in others' suffering.\n\nReview 2:\n  Quality: 1.0 | Difficulty: 5.0\n  Date: 2019-10-03\n  Comment: She left the college and academia forever. Guys, time to stop ranting about her.\n  Tags: Skip class? You won't pass.\n\nReview 3:\n  Quality: 1.0 | Difficulty: 5.0\n  Date: 2019-08-17\n  Comment: What I would like to add is that her assignments aren't useful. The feedback is nonexistent and the class looked like torture where little real learning happens. Depending on how you perceive her class, she can be very rude at you and leash out. A few friends were kicked out. So be careful if you have to take the class.\n  Tags: Lots of homework, Inspirational, Tough grader\n\nReview 4:\n  Quality: 4.0 | Difficulty: 3.0\n  Date: 2018-11-09\n  Comment: I honestly dont know what people dislike about Professor Kelly! She is kind and has done a good job teaching stats! I would definitely take this class again!\n  Tags: LOTS OF HOMEWORK, Caring, GROUP PROJECTS\n\nReview 5:\n  Quality: 1.0 | Difficulty: 4.0\n  Date: 2018-10-30\n  Comment: Awful teacher who is so rude to students and inconsiderate. She makes everything so complicated and gets pissed off easily. Not a good teacher at all.\n\nReview 6:\n  Quality: 2.0 | Difficulty: 4.0\n  Date: 2018-10-22\n  Comment: Prof. Kelly, although very nice, often comes into class obviously unprepared. Get ready to teach yourself (Youtube!!). Her TA is great, but she relies too much on group exercises and will make you do the work before explaining everything you need to know. She gets confused when you don't get it and to me, made stats more complicated than it is.\n  Tags: Tough Grader, LOTS OF HOMEWORK, GROUP PROJECTS\n\nReview 7:\n  Quality: 1.0 | Difficulty: 4.0\n  Date: 2018-09-22\n  Comment: Scary. Subjective. Chaotic. She asked a friend never to come the class because he wasn't taking notes, even though he was paying full attention. Occasionally, you will be graded for criteria not explicitly mentioned by her. For example, she would give assignments without asking you to explain, but she would give you zero for &quot;lacking explanations.&quot;\n  Tags: Tough Grader, Skip class? You won't pass., LOTS OF HOMEWORK\n\nReview 8:\n  Quality: 1.0 | Difficulty: 4.0\n  Date: 2018-07-20\n  Comment: Wouldnt lecture in class. Expected us to watch videos of her outside of class to learn material. Spent most of my time on YouTube or Khan Academy to help with the actual homework or study for tests.\n  Tags: Tough Grader, Skip class? You won't pass., GROUP PROJECTS\n\nReview 9:\n  Quality: 1.0 | Difficulty: 2.0\n  Date: 2018-03-25\n  Comment: I had to take this class for my CS degree and it added nothing to it. She could make the simplest thing sound like rocket science. She grades you for things she doesnt ask you to do. Ive lost many points because I was supposed to explain my answer, even though that wasnt stated in the question. Shes also be kind of rude. Dont take her classes.\n  Tags: Tough Grader, LOTS OF HOMEWORK, TEST HEAVY\n\nReview 10:\n  Quality: 1.0 | Difficulty: 5.0\n  Date: 2018-01-28\n  Comment: Operations research is a tough class, but Dr. Kelly made it unbearably difficult and boring. She gives unclear instructions in her lectures and her assignment instructions. In short, she simply does not explain and present her material well. She also often makes mistakes in her teaching, which makes the material more confusing. Her grading is harsh\n  Tags: Tough Grader, LOTS OF HOMEWORK, GRADED BY FEW THINGS\n\nReview 11:\n  Quality: 1.0 | Difficulty: 3.0\n  Date: 2017-02-15\n  Comment: I believe she cares about her students, but I'm not clear whether it is a veneer. The more I take her classes, the more I hate math. She is not clear about what she wants. The way she explains things is non-intuitive, and you'll need a lot of memorization and tedious homework. She makes math boring and probably has some ego issues.\n  Tags: Skip class? You won't pass., LOTS OF HOMEWORK\n\nReview 12:\n  Quality: 2.0 | Difficulty: 4.0\n  Date: 2016-04-20\n  Comment: I hated her class. She gives writing assignments which she grades harder than a writing class (she gave me a 0 on one). She wants you to write detailed explanations on her homework even if it is a repetitive question with different numbers and grades them harshly. She lectures for long times which makes me want to sleep every time.  Don't take her.\n\nReview 13:\n  Quality: 2.0 | Difficulty: 4.0\n  Date: 2015-10-27\n  Comment: Prof. Kelly is awful. She isn't clear and forces you to participate in unnecessary group work. She also doesn't teach the material effectively and then expects you to learn it from your group members (who also have no clue what is going on). Simply stated, I go through crossings, hoping to get hit by a vehicle, so I don't have to attend this class.\n"
+}

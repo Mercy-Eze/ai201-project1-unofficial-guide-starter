@@ -1,0 +1,51 @@
+{
+  "professor_name": "Marylynn Blackburn",
+  "department": "Mathematics",
+  "school": "Berea College",
+  "overall_rating": 4.8,
+  "difficulty": 1.7,
+  "would_take_again_pct": -1.0,
+  "num_ratings": 3,
+  "reviews": [
+    {
+      "comment": "She is such a nice teacher! She's funny and is so enthusiastic about math. She tries to be fair about attendance. She's not always clear about what your going over. I already knew most of the material but she still confused me sometimes. Overall, she is amazing and I'm glad I had her.",
+      "quality": 4.0,
+      "difficulty": 2.0,
+      "course": "",
+      "grade": "",
+      "date": "2011-07-05",
+      "tags": [],
+      "would_take_again": null,
+      "attendance": null,
+      "thumbs_up": 0,
+      "thumbs_down": 0
+    },
+    {
+      "comment": "Super nice, brings us candy and sweets on Fridays!",
+      "quality": 5.0,
+      "difficulty": 1.0,
+      "course": "",
+      "grade": "",
+      "date": "2005-10-26",
+      "tags": [],
+      "would_take_again": null,
+      "attendance": null,
+      "thumbs_up": 1,
+      "thumbs_down": 0
+    },
+    {
+      "comment": "Not quite a professor in the usual sense, but this shouldn't worry you.  An incredibly patient and helpful teacher, I couldn't have made it through the class without her.  Helped me more times than I can count and was very good at dealing with frustrated students.  Knew her subject very well.",
+      "quality": 5.0,
+      "difficulty": 2.0,
+      "course": "",
+      "grade": "",
+      "date": "2005-08-28",
+      "tags": [],
+      "would_take_again": null,
+      "attendance": null,
+      "thumbs_up": 0,
+      "thumbs_down": 0
+    }
+  ],
+  "plain_text": "Professor: Marylynn Blackburn\nDepartment: Mathematics\nSchool: Berea College\nOverall Rating: 4.8 / 5\nDifficulty: 1.7 / 5\nWould Take Again: -1.0%\nNumber of Ratings: 3\n\n--- Student Reviews ---\n\nReview 1:\n  Quality: 4.0 | Difficulty: 2.0\n  Date: 2011-07-05\n  Comment: She is such a nice teacher! She's funny and is so enthusiastic about math. She tries to be fair about attendance. She's not always clear about what your going over. I already knew most of the material but she still confused me sometimes. Overall, she is amazing and I'm glad I had her.\n\nReview 2:\n  Quality: 5.0 | Difficulty: 1.0\n  Date: 2005-10-26\n  Comment: Super nice, brings us candy and sweets on Fridays!\n\nReview 3:\n  Quality: 5.0 | Difficulty: 2.0\n  Date: 2005-08-28\n  Comment: Not quite a professor in the usual sense, but this shouldn't worry you.  An incredibly patient and helpful teacher, I couldn't have made it through the class without her.  Helped me more times than I can count and was very good at dealing with frustrated students.  Knew her subject very well.\n"
+}

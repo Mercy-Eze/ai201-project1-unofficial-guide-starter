@@ -1,0 +1,46 @@
+{
+  "professor_name": "Michelle Devere",
+  "department": "Mathematics",
+  "school": "Berea College",
+  "overall_rating": 5.0,
+  "difficulty": 1.5,
+  "would_take_again_pct": 100.0,
+  "num_ratings": 2,
+  "reviews": [
+    {
+      "comment": "Devere was the best math teacher ever just a sweet lady in general. She shows pictures of her grandkids, and it cracks her up. She is so caring and understanding she's actually a teacher who loves being a teacher. If you have the choice to take her, please do you won't regret it!!!!!",
+      "quality": 5.0,
+      "difficulty": 1.0,
+      "course": "",
+      "grade": "",
+      "date": "2025-11-04",
+      "tags": [
+        "Gives good feedback",
+        "Hilarious",
+        "Caring"
+      ],
+      "would_take_again": null,
+      "attendance": null,
+      "thumbs_up": 0,
+      "thumbs_down": 0
+    },
+    {
+      "comment": "Professor Devere is absolutely amazing if you're needing to start math from the very first course. I've taken her for 010 and 011 and she is so nice and understanding and will work with you step by step so you understand the material. You can only miss five classes but she is always willing to work with you to make sure you don't stay behind.",
+      "quality": 5.0,
+      "difficulty": 2.0,
+      "course": "",
+      "grade": "",
+      "date": "2025-04-03",
+      "tags": [
+        "Participation matters",
+        "Clear grading criteria",
+        "Caring"
+      ],
+      "would_take_again": null,
+      "attendance": null,
+      "thumbs_up": 0,
+      "thumbs_down": 0
+    }
+  ],
+  "plain_text": "Professor: Michelle Devere\nDepartment: Mathematics\nSchool: Berea College\nOverall Rating: 5.0 / 5\nDifficulty: 1.5 / 5\nWould Take Again: 100.0%\nNumber of Ratings: 2\n\n--- Student Reviews ---\n\nReview 1:\n  Quality: 5.0 | Difficulty: 1.0\n  Date: 2025-11-04\n  Comment: Devere was the best math teacher ever just a sweet lady in general. She shows pictures of her grandkids, and it cracks her up. She is so caring and understanding she's actually a teacher who loves being a teacher. If you have the choice to take her, please do you won't regret it!!!!!\n  Tags: Gives good feedback, Hilarious, Caring\n\nReview 2:\n  Quality: 5.0 | Difficulty: 2.0\n  Date: 2025-04-03\n  Comment: Professor Devere is absolutely amazing if you're needing to start math from the very first course. I've taken her for 010 and 011 and she is so nice and understanding and will work with you step by step so you understand the material. You can only miss five classes but she is always willing to work with you to make sure you don't stay behind.\n  Tags: Participation matters, Clear grading criteria, Caring\n"
+}

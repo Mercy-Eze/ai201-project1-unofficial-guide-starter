@@ -1,0 +1,302 @@
+{
+  "professor_name": "Mario Nakazawa",
+  "department": "Computer Science",
+  "school": "Berea College",
+  "overall_rating": 2.9,
+  "difficulty": 2.7,
+  "would_take_again_pct": 18.1818,
+  "num_ratings": 19,
+  "reviews": [
+    {
+      "comment": "He said when he was a Buddhist, he \"donated\" himself to a temple in Japan to be used as \"wooden fish\" or mokugyo. As he laid down, a monk struck his head with a pallet while chanting sutras. Using his head was better than wood since his is hollow inside. Later, his skull cracked & he decided to become a prof. But it's still hollow. Try knocking it.",
+      "quality": 1.0,
+      "difficulty": 1.0,
+      "course": "",
+      "grade": "",
+      "date": "2026-03-01",
+      "tags": [
+        "Tough grader",
+        "Get ready to read",
+        "Lecture heavy"
+      ],
+      "would_take_again": null,
+      "attendance": null,
+      "thumbs_up": 0,
+      "thumbs_down": 0
+    },
+    {
+      "comment": "Someone told me his real name is Mario Mothafka. ",
+      "quality": 1.0,
+      "difficulty": 1.0,
+      "course": "",
+      "grade": "",
+      "date": "2026-02-19",
+      "tags": [
+        "Tough grader",
+        "Lots of homework",
+        "Lecture heavy"
+      ],
+      "would_take_again": null,
+      "attendance": null,
+      "thumbs_up": 0,
+      "thumbs_down": 0
+    },
+    {
+      "comment": "Loved this class, it was a refreshment of a previous class in the curriculum. \nI was grateful for the re-takes he offered!\n\n",
+      "quality": 5.0,
+      "difficulty": 3.0,
+      "course": "",
+      "grade": "",
+      "date": "2024-11-20",
+      "tags": [
+        "Inspirational",
+        "Test heavy",
+        "Graded by few things"
+      ],
+      "would_take_again": null,
+      "attendance": null,
+      "thumbs_up": 0,
+      "thumbs_down": 0
+    },
+    {
+      "comment": "Mario is a truly hilarious person, and a great person to talk to outside of the class. However, I would never recommend him for a class out of CSC. For a writing class, he was incredibly confusing, and quite harsh at times. He assigned 3 drafts for every single writing assignment and gives awful feedback. Class discussion has nothing to do with hw.",
+      "quality": 1.0,
+      "difficulty": 5.0,
+      "course": "",
+      "grade": "",
+      "date": "2023-04-28",
+      "tags": [
+        "Tough grader",
+        "Participation matters",
+        "So many papers"
+      ],
+      "would_take_again": null,
+      "attendance": null,
+      "thumbs_up": 0,
+      "thumbs_down": 0
+    },
+    {
+      "comment": "This course is a very difficult one, but all you need to do is say &quot;I don't understand&quot; and he will make sure to go over a topic carefully as many times as you need to make sure you get it. He is definitely WANTS you to pass and will work to make sure you do as long as you care too. He also checks in on you individually to make sure you're okay! :)",
+      "quality": 5.0,
+      "difficulty": 3.0,
+      "course": "",
+      "grade": "",
+      "date": "2021-12-03",
+      "tags": [
+        "Participation matters",
+        "Hilarious",
+        "Caring"
+      ],
+      "would_take_again": null,
+      "attendance": null,
+      "thumbs_up": 0,
+      "thumbs_down": 0
+    },
+    {
+      "comment": "Among the worst. He doesn't know basic algorithms. I realized this after he gave a wrong answers to my questions. His instructions are like a maze full of traps, not clear and he doesn't care. Shouting, joking, and screaming in class, as if it were kindergarten. He secretly gave huge bonus grades for diverse students. Great if you're one of them.",
+      "quality": 1.0,
+      "difficulty": 3.0,
+      "course": "",
+      "grade": "",
+      "date": "2021-01-21",
+      "tags": [
+        "Skip class? You won't pass.",
+        "Lecture heavy",
+        "Tough grader"
+      ],
+      "would_take_again": null,
+      "attendance": null,
+      "thumbs_up": 3,
+      "thumbs_down": 0
+    },
+    {
+      "comment": "AWFUL IN THE WORST WAYS - grading criteria isnt clear, SEVERAL pointless assignments, different TAs grade the work so nothing there is consistent - he doesnt really grade anything, maybe 1-2 assignments was all last semester. HIGHLY do NOT recommend. Instruction was also VERY unclear. Good luck if you take one of his classes.",
+      "quality": 1.0,
+      "difficulty": 5.0,
+      "course": "",
+      "grade": "",
+      "date": "2020-10-26",
+      "tags": [
+        "Lots of homework",
+        "Skip class? You won't pass.",
+        "Tough grader"
+      ],
+      "would_take_again": null,
+      "attendance": null,
+      "thumbs_up": 2,
+      "thumbs_down": 0
+    },
+    {
+      "comment": "The worst human being you'll ever meet if you disagree with him or have the &quot;wrong political views&quot;. Vicious and savage. Use whatever means necessary to fail you.",
+      "quality": 1.0,
+      "difficulty": 1.0,
+      "course": "",
+      "grade": "",
+      "date": "2020-09-19",
+      "tags": [
+        "Skip class? You won't pass.",
+        "Tough grader"
+      ],
+      "would_take_again": null,
+      "attendance": null,
+      "thumbs_up": 3,
+      "thumbs_down": 0
+    },
+    {
+      "comment": "Everything is uber boring and forced. After talking with him, it's pretty clear to me that he is not able to code basic algorithms. Not sure how he became a professor. Not a man of his words. Always sided his TAs when they were clearly wrong. If you want to learn CS, you really need to go to a different college.",
+      "quality": 1.0,
+      "difficulty": 1.0,
+      "course": "",
+      "grade": "",
+      "date": "2020-04-07",
+      "tags": [
+        "Gives good feedback",
+        "Skip class? You won't pass.",
+        "Lecture heavy"
+      ],
+      "would_take_again": null,
+      "attendance": null,
+      "thumbs_up": 0,
+      "thumbs_down": 0
+    },
+    {
+      "comment": "Appear fun but horrible. For example, &quot;You need to write comments in code.&quot; Even though he never told you before, his TAs gave you zeroes for not writing comments for insanely basic functions. Comments are a form of communication; we'll write them when we need them. They shoved those stuff down your throat because they are incompetent at teaching.",
+      "quality": 1.0,
+      "difficulty": 1.0,
+      "course": "",
+      "grade": "",
+      "date": "2019-11-03",
+      "tags": [
+        "Lots of homework",
+        "Lecture heavy",
+        "Tough grader"
+      ],
+      "would_take_again": null,
+      "attendance": null,
+      "thumbs_up": 0,
+      "thumbs_down": 0
+    },
+    {
+      "comment": "Boring professor. He's funny at first, but you get tired of that after a few classes. The content is not intellectually rigorous. Grading is done by other students, so you get a wide variety. Sometimes, it's not fair as the graders do not understand the materials. Other times, everyone gets an A. I suggest make friends with TAs to get an A.",
+      "quality": 1.0,
+      "difficulty": 1.0,
+      "course": "",
+      "grade": "",
+      "date": "2019-11-01",
+      "tags": [
+        "Respected",
+        "Clear grading criteria",
+        "Tough grader"
+      ],
+      "would_take_again": null,
+      "attendance": null,
+      "thumbs_up": 0,
+      "thumbs_down": 0
+    },
+    {
+      "comment": "He is a great professor who tries to bring out the best in his students. His class is fairly hard, but I learned more from his class this semester than all of the others put together. would recommend.",
+      "quality": 5.0,
+      "difficulty": 4.0,
+      "course": "",
+      "grade": "",
+      "date": "2013-11-05",
+      "tags": [],
+      "would_take_again": null,
+      "attendance": null,
+      "thumbs_up": 0,
+      "thumbs_down": 4
+    },
+    {
+      "comment": "Had him for three classes so far. He is an amazing professor. While he is out of the box, he is not too difficult to understand. He is amazing for one-on-one help. I have visited his office many times. He can step through code well and help me really understand my issues. I can barely imagine a CSC class without him.",
+      "quality": 4.0,
+      "difficulty": 3.0,
+      "course": "",
+      "grade": "",
+      "date": "2011-12-26",
+      "tags": [],
+      "would_take_again": null,
+      "attendance": null,
+      "thumbs_up": 0,
+      "thumbs_down": 5
+    },
+    {
+      "comment": "This professor is one of the only things I like about this college.  He is a great professor.  Sometimes you have to get used to him, but it is worth it (especially if you are in the major).  One big thing that will help in the major is going to his office and talking to him, even randomly.  This makes the classes much more enjoyable and useful.",
+      "quality": 3.0,
+      "difficulty": 4.0,
+      "course": "",
+      "grade": "",
+      "date": "2008-12-11",
+      "tags": [],
+      "would_take_again": null,
+      "attendance": null,
+      "thumbs_up": 0,
+      "thumbs_down": 4
+    },
+    {
+      "comment": "This man is an amazing professor. He explains everything thoroughly to the point where you have to really try to fail his class. He lets you drop your lowest grade if you have good attendance, and the work is really not difficult, and I am in no way a math major. I would recommend him to anyone!",
+      "quality": 5.0,
+      "difficulty": 3.0,
+      "course": "",
+      "grade": "",
+      "date": "2006-05-16",
+      "tags": [],
+      "would_take_again": null,
+      "attendance": null,
+      "thumbs_up": 0,
+      "thumbs_down": 3
+    },
+    {
+      "comment": "He is a great professor as well as a person... He'll be always there for students....",
+      "quality": 4.0,
+      "difficulty": 3.0,
+      "course": "",
+      "grade": "",
+      "date": "2006-04-18",
+      "tags": [],
+      "would_take_again": null,
+      "attendance": null,
+      "thumbs_up": 0,
+      "thumbs_down": 3
+    },
+    {
+      "comment": "He does a great job with helping but also making sure you learn it for yourself. Also, he is very fair and equal with everything from grading to late homework. If you ever have questions about your grade he will always hear your concern.",
+      "quality": 4.0,
+      "difficulty": 3.0,
+      "course": "",
+      "grade": "",
+      "date": "2006-03-17",
+      "tags": [],
+      "would_take_again": null,
+      "attendance": null,
+      "thumbs_up": 0,
+      "thumbs_down": 3
+    },
+    {
+      "comment": "He is an amazing professor. He makes sure everyone-- and I do mean everyone-- understands a concept before moving on. I highly recommend taking one of his classes. (And he's cute. very.)",
+      "quality": 4.0,
+      "difficulty": 3.0,
+      "course": "",
+      "grade": "",
+      "date": "2005-11-10",
+      "tags": [],
+      "would_take_again": null,
+      "attendance": null,
+      "thumbs_up": 0,
+      "thumbs_down": 3
+    },
+    {
+      "comment": "He's completely crazy, but an overall good professor.",
+      "quality": 5.0,
+      "difficulty": 3.0,
+      "course": "",
+      "grade": "",
+      "date": "2005-10-29",
+      "tags": [],
+      "would_take_again": null,
+      "attendance": null,
+      "thumbs_up": 0,
+      "thumbs_down": 2
+    }
+  ],
+  "plain_text": "Professor: Mario Nakazawa\nDepartment: Computer Science\nSchool: Berea College\nOverall Rating: 2.9 / 5\nDifficulty: 2.7 / 5\nWould Take Again: 18.1818%\nNumber of Ratings: 19\n\n--- Student Reviews ---\n\nReview 1:\n  Quality: 1.0 | Difficulty: 1.0\n  Date: 2026-03-01\n  Comment: He said when he was a Buddhist, he \"donated\" himself to a temple in Japan to be used as \"wooden fish\" or mokugyo. As he laid down, a monk struck his head with a pallet while chanting sutras. Using his head was better than wood since his is hollow inside. Later, his skull cracked & he decided to become a prof. But it's still hollow. Try knocking it.\n  Tags: Tough grader, Get ready to read, Lecture heavy\n\nReview 2:\n  Quality: 1.0 | Difficulty: 1.0\n  Date: 2026-02-19\n  Comment: Someone told me his real name is Mario Mothafka. \n  Tags: Tough grader, Lots of homework, Lecture heavy\n\nReview 3:\n  Quality: 5.0 | Difficulty: 3.0\n  Date: 2024-11-20\n  Comment: Loved this class, it was a refreshment of a previous class in the curriculum. \nI was grateful for the re-takes he offered!\n\n\n  Tags: Inspirational, Test heavy, Graded by few things\n\nReview 4:\n  Quality: 1.0 | Difficulty: 5.0\n  Date: 2023-04-28\n  Comment: Mario is a truly hilarious person, and a great person to talk to outside of the class. However, I would never recommend him for a class out of CSC. For a writing class, he was incredibly confusing, and quite harsh at times. He assigned 3 drafts for every single writing assignment and gives awful feedback. Class discussion has nothing to do with hw.\n  Tags: Tough grader, Participation matters, So many papers\n\nReview 5:\n  Quality: 5.0 | Difficulty: 3.0\n  Date: 2021-12-03\n  Comment: This course is a very difficult one, but all you need to do is say &quot;I don't understand&quot; and he will make sure to go over a topic carefully as many times as you need to make sure you get it. He is definitely WANTS you to pass and will work to make sure you do as long as you care too. He also checks in on you individually to make sure you're okay! :)\n  Tags: Participation matters, Hilarious, Caring\n\nReview 6:\n  Quality: 1.0 | Difficulty: 3.0\n  Date: 2021-01-21\n  Comment: Among the worst. He doesn't know basic algorithms. I realized this after he gave a wrong answers to my questions. His instructions are like a maze full of traps, not clear and he doesn't care. Shouting, joking, and screaming in class, as if it were kindergarten. He secretly gave huge bonus grades for diverse students. Great if you're one of them.\n  Tags: Skip class? You won't pass., Lecture heavy, Tough grader\n\nReview 7:\n  Quality: 1.0 | Difficulty: 5.0\n  Date: 2020-10-26\n  Comment: AWFUL IN THE WORST WAYS - grading criteria isnt clear, SEVERAL pointless assignments, different TAs grade the work so nothing there is consistent - he doesnt really grade anything, maybe 1-2 assignments was all last semester. HIGHLY do NOT recommend. Instruction was also VERY unclear. Good luck if you take one of his classes.\n  Tags: Lots of homework, Skip class? You won't pass., Tough grader\n\nReview 8:\n  Quality: 1.0 | Difficulty: 1.0\n  Date: 2020-09-19\n  Comment: The worst human being you'll ever meet if you disagree with him or have the &quot;wrong political views&quot;. Vicious and savage. Use whatever means necessary to fail you.\n  Tags: Skip class? You won't pass., Tough grader\n\nReview 9:\n  Quality: 1.0 | Difficulty: 1.0\n  Date: 2020-04-07\n  Comment: Everything is uber boring and forced. After talking with him, it's pretty clear to me that he is not able to code basic algorithms. Not sure how he became a professor. Not a man of his words. Always sided his TAs when they were clearly wrong. If you want to learn CS, you really need to go to a different college.\n  Tags: Gives good feedback, Skip class? You won't pass., Lecture heavy\n\nReview 10:\n  Quality: 1.0 | Difficulty: 1.0\n  Date: 2019-11-03\n  Comment: Appear fun but horrible. For example, &quot;You need to write comments in code.&quot; Even though he never told you before, his TAs gave you zeroes for not writing comments for insanely basic functions. Comments are a form of communication; we'll write them when we need them. They shoved those stuff down your throat because they are incompetent at teaching.\n  Tags: Lots of homework, Lecture heavy, Tough grader\n\nReview 11:\n  Quality: 1.0 | Difficulty: 1.0\n  Date: 2019-11-01\n  Comment: Boring professor. He's funny at first, but you get tired of that after a few classes. The content is not intellectually rigorous. Grading is done by other students, so you get a wide variety. Sometimes, it's not fair as the graders do not understand the materials. Other times, everyone gets an A. I suggest make friends with TAs to get an A.\n  Tags: Respected, Clear grading criteria, Tough grader\n\nReview 12:\n  Quality: 5.0 | Difficulty: 4.0\n  Date: 2013-11-05\n  Comment: He is a great professor who tries to bring out the best in his students. His class is fairly hard, but I learned more from his class this semester than all of the others put together. would recommend.\n\nReview 13:\n  Quality: 4.0 | Difficulty: 3.0\n  Date: 2011-12-26\n  Comment: Had him for three classes so far. He is an amazing professor. While he is out of the box, he is not too difficult to understand. He is amazing for one-on-one help. I have visited his office many times. He can step through code well and help me really understand my issues. I can barely imagine a CSC class without him.\n\nReview 14:\n  Quality: 3.0 | Difficulty: 4.0\n  Date: 2008-12-11\n  Comment: This professor is one of the only things I like about this college.  He is a great professor.  Sometimes you have to get used to him, but it is worth it (especially if you are in the major).  One big thing that will help in the major is going to his office and talking to him, even randomly.  This makes the classes much more enjoyable and useful.\n\nReview 15:\n  Quality: 5.0 | Difficulty: 3.0\n  Date: 2006-05-16\n  Comment: This man is an amazing professor. He explains everything thoroughly to the point where you have to really try to fail his class. He lets you drop your lowest grade if you have good attendance, and the work is really not difficult, and I am in no way a math major. I would recommend him to anyone!\n\nReview 16:\n  Quality: 4.0 | Difficulty: 3.0\n  Date: 2006-04-18\n  Comment: He is a great professor as well as a person... He'll be always there for students....\n\nReview 17:\n  Quality: 4.0 | Difficulty: 3.0\n  Date: 2006-03-17\n  Comment: He does a great job with helping but also making sure you learn it for yourself. Also, he is very fair and equal with everything from grading to late homework. If you ever have questions about your grade he will always hear your concern.\n\nReview 18:\n  Quality: 4.0 | Difficulty: 3.0\n  Date: 2005-11-10\n  Comment: He is an amazing professor. He makes sure everyone-- and I do mean everyone-- understands a concept before moving on. I highly recommend taking one of his classes. (And he's cute. very.)\n\nReview 19:\n  Quality: 5.0 | Difficulty: 3.0\n  Date: 2005-10-29\n  Comment: He's completely crazy, but an overall good professor.\n"
+}

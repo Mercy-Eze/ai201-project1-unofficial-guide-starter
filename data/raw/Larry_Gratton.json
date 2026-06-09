@@ -1,0 +1,403 @@
+{
+  "professor_name": "Larry Gratton",
+  "department": "Mathematics",
+  "school": "Berea College",
+  "overall_rating": 3.3,
+  "difficulty": 2.7,
+  "would_take_again_pct": 80.0,
+  "num_ratings": 26,
+  "reviews": [
+    {
+      "comment": "this professor is good however he teaches us like junior high or 9th graders. sometimes it can get annoying because he treat us like we never had a math class before in our life. but overall he his a good professor and is really helpful when it comes to homework and understandable about outside academic situation.",
+      "quality": 3.0,
+      "difficulty": 1.0,
+      "course": "",
+      "grade": "",
+      "date": "2025-09-25",
+      "tags": [
+        "Participation matters",
+        "Accessible outside class",
+        "Online Savvy"
+      ],
+      "would_take_again": null,
+      "attendance": null,
+      "thumbs_up": 0,
+      "thumbs_down": 0
+    },
+    {
+      "comment": "I found the pace of Calc 3 quite doable, and I feel I learned more than I did in any other Calculus course. Larry gave great feedback and genuinely cared whether everyone succeeded or not. ",
+      "quality": 4.0,
+      "difficulty": 3.0,
+      "course": "",
+      "grade": "",
+      "date": "2025-04-20",
+      "tags": [
+        "Participation matters",
+        "Clear grading criteria",
+        "Gives good feedback"
+      ],
+      "would_take_again": null,
+      "attendance": null,
+      "thumbs_up": 0,
+      "thumbs_down": 0
+    },
+    {
+      "comment": "taking him right now for math 101 and he is amazing I would highly recommend him",
+      "quality": 5.0,
+      "difficulty": 3.0,
+      "course": "",
+      "grade": "",
+      "date": "2025-03-17",
+      "tags": [
+        "Gives good feedback",
+        "Caring",
+        "Accessible outside class"
+      ],
+      "would_take_again": null,
+      "attendance": null,
+      "thumbs_up": 0,
+      "thumbs_down": 0
+    },
+    {
+      "comment": "Respectful to all students and makes learning fun. DOES NOT USE A CALENDAR. You have no idea what topics you'll go over, homework you'll have, and when you are going to have assessments on any given day. He shares the units he wants to talk about, but there is no list of individual topics with the days of which he'll introduce them.",
+      "quality": 2.0,
+      "difficulty": 1.0,
+      "course": "",
+      "grade": "",
+      "date": "2024-01-19",
+      "tags": [
+        "Inspirational",
+        "Hilarious"
+      ],
+      "would_take_again": null,
+      "attendance": null,
+      "thumbs_up": 0,
+      "thumbs_down": 0
+    },
+    {
+      "comment": "GREAT Professor, supportive and cares about the success of his students. There were 3 normal exams, and your lowest exam score could substitute your final exam score if you didn't take it. Your final exam score could also replace your lowest exam score. The only thing I noticed was that some of the homework problems he gave us were not covered.",
+      "quality": 5.0,
+      "difficulty": 3.0,
+      "course": "",
+      "grade": "",
+      "date": "2023-12-19",
+      "tags": [
+        "Clear grading criteria",
+        "Gives good feedback",
+        "Caring"
+      ],
+      "would_take_again": null,
+      "attendance": null,
+      "thumbs_up": 0,
+      "thumbs_down": 0
+    },
+    {
+      "comment": "Firstly, he uses free textbooks!! Secondly, he has no real late-work penalty, he also assigns homework a week ahead so you have chances to ask any questions you may have. I genuinely loathe math, but he has made it bearable. ",
+      "quality": 4.0,
+      "difficulty": 3.0,
+      "course": "",
+      "grade": "",
+      "date": "2023-11-08",
+      "tags": [
+        "Participation matters",
+        "Clear grading criteria",
+        "Caring"
+      ],
+      "would_take_again": null,
+      "attendance": null,
+      "thumbs_up": 0,
+      "thumbs_down": 0
+    },
+    {
+      "comment": "I took Dr. Gratton for MAT 104 during the summer. The format of the class was really easy and clear. You get time during class to do the homework, while he goes around asking about problems or doubts. He makes you think instead of giving the answer, but that makes you actually learn. ",
+      "quality": 5.0,
+      "difficulty": 2.0,
+      "course": "",
+      "grade": "",
+      "date": "2023-10-24",
+      "tags": [
+        "Clear grading criteria",
+        "Gives good feedback",
+        "Caring"
+      ],
+      "would_take_again": null,
+      "attendance": null,
+      "thumbs_up": 0,
+      "thumbs_down": 0
+    },
+    {
+      "comment": "I thought Dr. Gratton was a great prof. He was clear, engaging, flexible, and accommodating. I was really grateful that I took MAT 104 with him. If you need to take this class, take it with him.",
+      "quality": 5.0,
+      "difficulty": 3.0,
+      "course": "",
+      "grade": "",
+      "date": "2021-12-05",
+      "tags": [
+        "Respected",
+        "Clear grading criteria",
+        "Caring"
+      ],
+      "would_take_again": null,
+      "attendance": null,
+      "thumbs_up": 0,
+      "thumbs_down": 0
+    },
+    {
+      "comment": "In this class, you'll learn why Berea Math grads earn only 12,000 a year.",
+      "quality": 1.0,
+      "difficulty": 1.0,
+      "course": "",
+      "grade": "",
+      "date": "2021-01-14",
+      "tags": [
+        "Lecture heavy",
+        "So many papers",
+        "Tough grader"
+      ],
+      "would_take_again": null,
+      "attendance": null,
+      "thumbs_up": 0,
+      "thumbs_down": 1
+    },
+    {
+      "comment": "Joking all the time. As mentioned, the class moves so slowly. You are forced to do attend and do incredibly childish things like counting ping pong balls. If you don't, he fails you, with a smile of course! Return homework twice a semester even if TA grades them immediately. Never at his office. Don't expect to do anything with a degree from here.",
+      "quality": 1.0,
+      "difficulty": 1.0,
+      "course": "",
+      "grade": "",
+      "date": "2020-06-20",
+      "tags": [
+        "Skip class? You won't pass.",
+        "Group projects",
+        "Lecture heavy"
+      ],
+      "would_take_again": null,
+      "attendance": null,
+      "thumbs_up": 0,
+      "thumbs_down": 0
+    },
+    {
+      "comment": "Amazing professor! Truly cares about his students",
+      "quality": 5.0,
+      "difficulty": 2.0,
+      "course": "",
+      "grade": "",
+      "date": "2019-11-22",
+      "tags": [
+        "Clear grading criteria",
+        "Hilarious",
+        "Caring"
+      ],
+      "would_take_again": null,
+      "attendance": null,
+      "thumbs_up": 0,
+      "thumbs_down": 0
+    },
+    {
+      "comment": "He was never at his office hours. Another prof told me he goes back home after lunch. The college should cut his pay by 50%. Appear upbeat but the class moves slower than a tortoise. He asked you questions like &quot;What is 6 * 10?&quot; which are insulting to me and bore people to tears... I passed the class by doing the entire semester work in 5 hours...",
+      "quality": 1.0,
+      "difficulty": 1.0,
+      "course": "",
+      "grade": "",
+      "date": "2019-11-03",
+      "tags": [
+        "Participation matters",
+        "Lecture heavy",
+        "Tough grader"
+      ],
+      "would_take_again": null,
+      "attendance": null,
+      "thumbs_up": 0,
+      "thumbs_down": 1
+    },
+    {
+      "comment": "Easy class. You will pass it easily if you just do all your homework. Larry makes the class too easy (for me, at least). But if you want a challenge, ask him outside of class.",
+      "quality": 3.0,
+      "difficulty": 2.0,
+      "course": "",
+      "grade": "",
+      "date": "2018-04-26",
+      "tags": [
+        "GROUP PROJECTS"
+      ],
+      "would_take_again": null,
+      "attendance": null,
+      "thumbs_up": 2,
+      "thumbs_down": 0
+    },
+    {
+      "comment": "He returns graded HW twice a semester; right before midterms and right before finals. He's probably worse now that he has tenure. The class isn't very well organized.",
+      "quality": 1.0,
+      "difficulty": 3.0,
+      "course": "",
+      "grade": "",
+      "date": "2018-02-21",
+      "tags": [],
+      "would_take_again": null,
+      "attendance": null,
+      "thumbs_up": 5,
+      "thumbs_down": 0
+    },
+    {
+      "comment": "Larry Gratton is one of the best math professors at Berea. He explains his material well in lectures and gives a lot of examples. His tests are easy as long as you do the homework and pay attention in class. Take him and you won't regret.",
+      "quality": 5.0,
+      "difficulty": 2.0,
+      "course": "",
+      "grade": "",
+      "date": "2018-01-28",
+      "tags": [
+        "Inspirational",
+        "Amazing lectures",
+        "Caring"
+      ],
+      "would_take_again": null,
+      "attendance": null,
+      "thumbs_up": 0,
+      "thumbs_down": 3
+    },
+    {
+      "comment": "I like Dr. Gratton. He is very enthusiastic about math and is such a nice person. The homework is not too bad, he assigns about 30 problems total per week. The tests are super hard though as there are only a few questions and some of the material is old. He does lab days once a week which are always interesting, though!",
+      "quality": 4.0,
+      "difficulty": 2.0,
+      "course": "",
+      "grade": "",
+      "date": "2013-11-04",
+      "tags": [],
+      "would_take_again": null,
+      "attendance": null,
+      "thumbs_up": 0,
+      "thumbs_down": 0
+    },
+    {
+      "comment": "Nice person but horrible teacher. He is very enthusiastic about his topics but does not make them understandable and he is very disorganized. He does not show a lot of support for his students. Just study on your own and you'll be fine. The contents are not that hard but you have to practice.",
+      "quality": 1.0,
+      "difficulty": 4.0,
+      "course": "",
+      "grade": "",
+      "date": "2012-12-02",
+      "tags": [],
+      "would_take_again": null,
+      "attendance": null,
+      "thumbs_up": 3,
+      "thumbs_down": 0
+    },
+    {
+      "comment": "Very clear and enthusiastic",
+      "quality": 5.0,
+      "difficulty": 2.0,
+      "course": "",
+      "grade": "",
+      "date": "2010-04-26",
+      "tags": [],
+      "would_take_again": null,
+      "attendance": null,
+      "thumbs_up": 0,
+      "thumbs_down": 0
+    },
+    {
+      "comment": "He loves his topic. the book he uses is not soo helpful, but he does offer help outside class. his teaching style is good for stuednts who love to learn outside class and who have past experience in what he is teaching. not too bad for class.his tests are easy once u study... u cant fail it.",
+      "quality": 3.0,
+      "difficulty": 4.0,
+      "course": "",
+      "grade": "",
+      "date": "2009-12-09",
+      "tags": [],
+      "would_take_again": null,
+      "attendance": null,
+      "thumbs_up": 0,
+      "thumbs_down": 0
+    },
+    {
+      "comment": "This class was almost the worst class I had at Berea. He is a horrible teacher. I also went to get help from him numerous times- it did no good.",
+      "quality": 1.0,
+      "difficulty": 5.0,
+      "course": "",
+      "grade": "",
+      "date": "2009-11-20",
+      "tags": [],
+      "would_take_again": null,
+      "attendance": null,
+      "thumbs_up": 2,
+      "thumbs_down": 0
+    },
+    {
+      "comment": "He is a nice person but a horrible teacher. I did not learn anything in his class. He is horrible at attempting to make the material clear and understandable. The only reason I did okay in his class was because I took AP cal in hs.",
+      "quality": 1.0,
+      "difficulty": 5.0,
+      "course": "",
+      "grade": "",
+      "date": "2009-11-20",
+      "tags": [],
+      "would_take_again": null,
+      "attendance": null,
+      "thumbs_up": 2,
+      "thumbs_down": 0
+    },
+    {
+      "comment": "He loves his subjects, and it shows in his teaching. He is very helpful and takes the time to help you one on one if you need it. The class was overall a good class, and the homework problems are usually the hardest problems to deal with. His tests are pretty easy.",
+      "quality": 4.0,
+      "difficulty": 4.0,
+      "course": "",
+      "grade": "",
+      "date": "2009-05-05",
+      "tags": [],
+      "would_take_again": null,
+      "attendance": null,
+      "thumbs_up": 0,
+      "thumbs_down": 0
+    },
+    {
+      "comment": "No Comments",
+      "quality": 4.0,
+      "difficulty": 3.0,
+      "course": "",
+      "grade": "",
+      "date": "2005-09-05",
+      "tags": [],
+      "would_take_again": null,
+      "attendance": null,
+      "thumbs_up": 0,
+      "thumbs_down": 0
+    },
+    {
+      "comment": "He's a good teacher, but the only annoying thing is his wanting to discuss math!Other than that he was very helpful and fun. Very open and gives good examples. Take him, he's good.",
+      "quality": 4.0,
+      "difficulty": 3.0,
+      "course": "",
+      "grade": "",
+      "date": "2005-08-06",
+      "tags": [],
+      "would_take_again": null,
+      "attendance": null,
+      "thumbs_up": 0,
+      "thumbs_down": 0
+    },
+    {
+      "comment": "Awesome teacher",
+      "quality": 4.0,
+      "difficulty": 3.0,
+      "course": "",
+      "grade": "",
+      "date": "2005-06-25",
+      "tags": [],
+      "would_take_again": null,
+      "attendance": null,
+      "thumbs_up": 0,
+      "thumbs_down": 0
+    },
+    {
+      "comment": "You will probably want to fall asleep everyday, but he lets you get away with a lot and he puts the easiest examples of a type of problem on the tests even though you may be doing the hardest in class.  He loves math and it shows, just go with it.",
+      "quality": 3.0,
+      "difficulty": 3.0,
+      "course": "",
+      "grade": "",
+      "date": "2005-05-05",
+      "tags": [],
+      "would_take_again": null,
+      "attendance": null,
+      "thumbs_up": 0,
+      "thumbs_down": 0
+    }
+  ],
+  "plain_text": "Professor: Larry Gratton\nDepartment: Mathematics\nSchool: Berea College\nOverall Rating: 3.3 / 5\nDifficulty: 2.7 / 5\nWould Take Again: 80.0%\nNumber of Ratings: 26\n\n--- Student Reviews ---\n\nReview 1:\n  Quality: 3.0 | Difficulty: 1.0\n  Date: 2025-09-25\n  Comment: this professor is good however he teaches us like junior high or 9th graders. sometimes it can get annoying because he treat us like we never had a math class before in our life. but overall he his a good professor and is really helpful when it comes to homework and understandable about outside academic situation.\n  Tags: Participation matters, Accessible outside class, Online Savvy\n\nReview 2:\n  Quality: 4.0 | Difficulty: 3.0\n  Date: 2025-04-20\n  Comment: I found the pace of Calc 3 quite doable, and I feel I learned more than I did in any other Calculus course. Larry gave great feedback and genuinely cared whether everyone succeeded or not. \n  Tags: Participation matters, Clear grading criteria, Gives good feedback\n\nReview 3:\n  Quality: 5.0 | Difficulty: 3.0\n  Date: 2025-03-17\n  Comment: taking him right now for math 101 and he is amazing I would highly recommend him\n  Tags: Gives good feedback, Caring, Accessible outside class\n\nReview 4:\n  Quality: 2.0 | Difficulty: 1.0\n  Date: 2024-01-19\n  Comment: Respectful to all students and makes learning fun. DOES NOT USE A CALENDAR. You have no idea what topics you'll go over, homework you'll have, and when you are going to have assessments on any given day. He shares the units he wants to talk about, but there is no list of individual topics with the days of which he'll introduce them.\n  Tags: Inspirational, Hilarious\n\nReview 5:\n  Quality: 5.0 | Difficulty: 3.0\n  Date: 2023-12-19\n  Comment: GREAT Professor, supportive and cares about the success of his students. There were 3 normal exams, and your lowest exam score could substitute your final exam score if you didn't take it. Your final exam score could also replace your lowest exam score. The only thing I noticed was that some of the homework problems he gave us were not covered.\n  Tags: Clear grading criteria, Gives good feedback, Caring\n\nReview 6:\n  Quality: 4.0 | Difficulty: 3.0\n  Date: 2023-11-08\n  Comment: Firstly, he uses free textbooks!! Secondly, he has no real late-work penalty, he also assigns homework a week ahead so you have chances to ask any questions you may have. I genuinely loathe math, but he has made it bearable. \n  Tags: Participation matters, Clear grading criteria, Caring\n\nReview 7:\n  Quality: 5.0 | Difficulty: 2.0\n  Date: 2023-10-24\n  Comment: I took Dr. Gratton for MAT 104 during the summer. The format of the class was really easy and clear. You get time during class to do the homework, while he goes around asking about problems or doubts. He makes you think instead of giving the answer, but that makes you actually learn. \n  Tags: Clear grading criteria, Gives good feedback, Caring\n\nReview 8:\n  Quality: 5.0 | Difficulty: 3.0\n  Date: 2021-12-05\n  Comment: I thought Dr. Gratton was a great prof. He was clear, engaging, flexible, and accommodating. I was really grateful that I took MAT 104 with him. If you need to take this class, take it with him.\n  Tags: Respected, Clear grading criteria, Caring\n\nReview 9:\n  Quality: 1.0 | Difficulty: 1.0\n  Date: 2021-01-14\n  Comment: In this class, you'll learn why Berea Math grads earn only 12,000 a year.\n  Tags: Lecture heavy, So many papers, Tough grader\n\nReview 10:\n  Quality: 1.0 | Difficulty: 1.0\n  Date: 2020-06-20\n  Comment: Joking all the time. As mentioned, the class moves so slowly. You are forced to do attend and do incredibly childish things like counting ping pong balls. If you don't, he fails you, with a smile of course! Return homework twice a semester even if TA grades them immediately. Never at his office. Don't expect to do anything with a degree from here.\n  Tags: Skip class? You won't pass., Group projects, Lecture heavy\n\nReview 11:\n  Quality: 5.0 | Difficulty: 2.0\n  Date: 2019-11-22\n  Comment: Amazing professor! Truly cares about his students\n  Tags: Clear grading criteria, Hilarious, Caring\n\nReview 12:\n  Quality: 1.0 | Difficulty: 1.0\n  Date: 2019-11-03\n  Comment: He was never at his office hours. Another prof told me he goes back home after lunch. The college should cut his pay by 50%. Appear upbeat but the class moves slower than a tortoise. He asked you questions like &quot;What is 6 * 10?&quot; which are insulting to me and bore people to tears... I passed the class by doing the entire semester work in 5 hours...\n  Tags: Participation matters, Lecture heavy, Tough grader\n\nReview 13:\n  Quality: 3.0 | Difficulty: 2.0\n  Date: 2018-04-26\n  Comment: Easy class. You will pass it easily if you just do all your homework. Larry makes the class too easy (for me, at least). But if you want a challenge, ask him outside of class.\n  Tags: GROUP PROJECTS\n\nReview 14:\n  Quality: 1.0 | Difficulty: 3.0\n  Date: 2018-02-21\n  Comment: He returns graded HW twice a semester; right before midterms and right before finals. He's probably worse now that he has tenure. The class isn't very well organized.\n\nReview 15:\n  Quality: 5.0 | Difficulty: 2.0\n  Date: 2018-01-28\n  Comment: Larry Gratton is one of the best math professors at Berea. He explains his material well in lectures and gives a lot of examples. His tests are easy as long as you do the homework and pay attention in class. Take him and you won't regret.\n  Tags: Inspirational, Amazing lectures, Caring\n\nReview 16:\n  Quality: 4.0 | Difficulty: 2.0\n  Date: 2013-11-04\n  Comment: I like Dr. Gratton. He is very enthusiastic about math and is such a nice person. The homework is not too bad, he assigns about 30 problems total per week. The tests are super hard though as there are only a few questions and some of the material is old. He does lab days once a week which are always interesting, though!\n\nReview 17:\n  Quality: 1.0 | Difficulty: 4.0\n  Date: 2012-12-02\n  Comment: Nice person but horrible teacher. He is very enthusiastic about his topics but does not make them understandable and he is very disorganized. He does not show a lot of support for his students. Just study on your own and you'll be fine. The contents are not that hard but you have to practice.\n\nReview 18:\n  Quality: 5.0 | Difficulty: 2.0\n  Date: 2010-04-26\n  Comment: Very clear and enthusiastic\n\nReview 19:\n  Quality: 3.0 | Difficulty: 4.0\n  Date: 2009-12-09\n  Comment: He loves his topic. the book he uses is not soo helpful, but he does offer help outside class. his teaching style is good for stuednts who love to learn outside class and who have past experience in what he is teaching. not too bad for class.his tests are easy once u study... u cant fail it.\n\nReview 20:\n  Quality: 1.0 | Difficulty: 5.0\n  Date: 2009-11-20\n  Comment: This class was almost the worst class I had at Berea. He is a horrible teacher. I also went to get help from him numerous times- it did no good.\n\nReview 21:\n  Quality: 1.0 | Difficulty: 5.0\n  Date: 2009-11-20\n  Comment: He is a nice person but a horrible teacher. I did not learn anything in his class. He is horrible at attempting to make the material clear and understandable. The only reason I did okay in his class was because I took AP cal in hs.\n\nReview 22:\n  Quality: 4.0 | Difficulty: 4.0\n  Date: 2009-05-05\n  Comment: He loves his subjects, and it shows in his teaching. He is very helpful and takes the time to help you one on one if you need it. The class was overall a good class, and the homework problems are usually the hardest problems to deal with. His tests are pretty easy.\n\nReview 23:\n  Quality: 4.0 | Difficulty: 3.0\n  Date: 2005-09-05\n  Comment: No Comments\n\nReview 24:\n  Quality: 4.0 | Difficulty: 3.0\n  Date: 2005-08-06\n  Comment: He's a good teacher, but the only annoying thing is his wanting to discuss math!Other than that he was very helpful and fun. Very open and gives good examples. Take him, he's good.\n\nReview 25:\n  Quality: 4.0 | Difficulty: 3.0\n  Date: 2005-06-25\n  Comment: Awesome teacher\n\nReview 26:\n  Quality: 3.0 | Difficulty: 3.0\n  Date: 2005-05-05\n  Comment: You will probably want to fall asleep everyday, but he lets you get away with a lot and he puts the easiest examples of a type of problem on the tests even though you may be doing the hardest in class.  He loves math and it shows, just go with it.\n"
+}
